@@ -1,0 +1,93 @@
+# Norman 2019 cross-perturbation split — fold 0
+# 32 train / 10 val / 63 test (105 total single-gene perturbations)
+# Control: 'control'
+# Seed: 42
+
+[datasets]
+norman = "datasets/Norman_dataset"
+
+[training]
+norman = "train"
+
+[zeroshot]
+
+[fewshot]
+
+[fewshot."norman.k562"]
+val = [
+                'HOXC13',
+                'IGDCC3',
+                'IRF1',
+                'ISL2',
+                'KLF1',
+                'MAP4K3',
+                'PTPN9',
+                'SNAI1',
+                'TSC22D1',
+                'ZC3HAV1'
+            ]
+test = [
+                'AHR',
+                'ARRDC3',
+                'ATL1',
+                'BAK1',
+                'BCL2L11',
+                'BCORL1',
+                'BPGM',
+                'CBL',
+                'CDKN1A',
+                'CDKN1B',
+                'CDKN1C',
+                'CEBPB',
+                'CEBPE',
+                'CELF2',
+                'CITED1',
+                'CKS1B',
+                'CNN1',
+                'CNNM4',
+                'COL1A1',
+                'COL2A1',
+                'DLX2',
+                'DUSP9',
+                'EGR1',
+                'ETS2',
+                'FOXA1',
+                'FOXA3',
+                'FOXF1',
+                'FOXO4',
+                'GLB1L2',
+                'HES7',
+                'HOXA13',
+                'IER5L',
+                'IKZF3',
+                'JUN',
+                'KIF18B',
+                'KIF2C',
+                'LHX1',
+                'MAP2K6',
+                'MAP7D1',
+                'NIT1',
+                'OSR2',
+                'PLK4',
+                'PRTG',
+                'PTPN1',
+                'PTPN13',
+                'RHOXF2',
+                'RUNX1T1',
+                'SGK1',
+                'SLC38A2',
+                'SLC4A1',
+                'SLC6A9',
+                'SPI1',
+                'STIL',
+                'TBX2',
+                'TBX3',
+                'TGFBR2',
+                'TMSB4X',
+                'TP73',
+                'UBASH3A',
+                'ZBTB1',
+                'ZBTB10',
+                'ZBTB25',
+                'ZNF318'
+            ]

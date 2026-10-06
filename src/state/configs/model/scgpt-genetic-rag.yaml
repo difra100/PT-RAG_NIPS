@@ -1,0 +1,48 @@
+name: scgpt-genetic-rag
+checkpoint: null
+device: cuda
+
+kwargs:
+  hidden_dim: 512  # = embsize, used by trainer for FAISS index sizing
+  pad_token: "<pad>"
+  special_tokens:
+    - "<pad>"
+    - "<cls>"
+    - "<eoc>"
+
+  pad_value: 0
+  pert_pad_id: 2
+
+  include_zero_gene: "row-wise"
+  max_seq_len: 512
+
+  do_MLM: true
+  do_CLS: false
+  do_CCE: false
+  do_MVC: false
+  do_ECS: false
+  cell_emb_style: "cls"
+  mvc_decoder_style: "inner product, detach"
+  use_amp: true
+  pretrained_path: "datasets/scgpt/"
+  load_param_prefixes:
+    - "encoder"
+    - "value_encoder"
+    - "transformer_encoder"
+
+  embsize: 512
+  d_hid: 512
+  nlayers: 12
+  nhead: 8
+  n_layers_cls: 3
+  dropout: 0.2
+  use_fast_transformer: false
+
+  expr_transform: none
+  perturbation_type: genetic
+  seed: 2025
+  cell_sentence_len: 64
+  nb_decoder: false
+
+  # GenePT embedding dimension (ada-text embeddings)
+  pert_dim: 1536

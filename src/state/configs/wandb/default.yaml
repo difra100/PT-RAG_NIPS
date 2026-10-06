@@ -1,0 +1,5 @@
+# Weights & Biases logging. Set `use_wandb=false` on the command line to disable it.
+entity: null            # your W&B user or team; null uses your default entity
+project: PT-RAG
+local_wandb_dir: ./wandb_logs
+tags: []

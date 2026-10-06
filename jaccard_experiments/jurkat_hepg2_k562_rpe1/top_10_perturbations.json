@@ -1,0 +1,9952 @@
+{
+  "SRP14": {
+    "Jurkat": [
+      "SRP9",
+      "SERBP1",
+      "RRP12",
+      "SRP68",
+      "SNRPA1",
+      "SRP72",
+      "NSRP1",
+      "SNRNP27",
+      "SRRT",
+      "SRBD1"
+    ],
+    "HepG2": [
+      "PRPF38A",
+      "U2SURP",
+      "SRP68",
+      "SERBP1",
+      "RPF2",
+      "SNRNP27",
+      "SRP19",
+      "SRSF7",
+      "CD3EAP",
+      "SRSF1"
+    ],
+    "K562": [
+      "SRSF10",
+      "SRSF1",
+      "RPS19BP1",
+      "SRSF7",
+      "NSRP1",
+      "CD3EAP",
+      "SRP72",
+      "SRPRB",
+      "SRSF6",
+      "NRBP1"
+    ],
+    "RPE1": [
+      "NRBP1",
+      "SRRT",
+      "SRSF10",
+      "SRSF7",
+      "RRP12",
+      "SRP68",
+      "CD3EAP",
+      "SRP9",
+      "RPS19BP1",
+      "SRP54"
+    ]
+  },
+  "NCAPD2": {
+    "Jurkat": [
+      "DNAJC9",
+      "NCBP1",
+      "MYSM1",
+      "COPS2",
+      "NAA50",
+      "NCAPD3",
+      "SNAPC1",
+      "NCAPH2",
+      "CENPW",
+      "ZC3H8"
+    ],
+    "HepG2": [
+      "NAA50",
+      "VPS72",
+      "MBIP",
+      "NCAPD3",
+      "MAU2",
+      "HDAC7",
+      "SUPT6H",
+      "NCAPH2",
+      "HIST1H2AE",
+      "ZC3H8"
+    ],
+    "K562": [
+      "CDCA5",
+      "CENPW",
+      "MAU2",
+      "MYSM1",
+      "ZNHIT1",
+      "DNAJC9",
+      "NCAPH",
+      "SUPT6H",
+      "MIS18A",
+      "NASP"
+    ],
+    "RPE1": [
+      "MAU2",
+      "NAA50",
+      "NCAPH",
+      "HDAC7",
+      "DNAJC9",
+      "NCBP1",
+      "MIS18A",
+      "MBIP",
+      "CFL1",
+      "HDAC3"
+    ]
+  },
+  "NELFA": {
+    "Jurkat": [
+      "RTEL1",
+      "NEMF",
+      "NF1",
+      "NUF2",
+      "CYFIP1",
+      "SEH1L",
+      "NELFE",
+      "ILF2",
+      "UHRF1",
+      "EIF4H"
+    ],
+    "HepG2": [
+      "NELFE",
+      "HUWE1",
+      "NSMCE2",
+      "NUB1",
+      "NUF2",
+      "ASF1B",
+      "ELAC2",
+      "PUF60",
+      "BPTF",
+      "RPF1"
+    ],
+    "K562": [
+      "VHL",
+      "PAFAH1B1",
+      "ELP6",
+      "ILF2",
+      "CYFIP1",
+      "NLE1",
+      "PUF60",
+      "RPF1",
+      "NF1",
+      "HUWE1"
+    ],
+    "RPE1": [
+      "ZFR",
+      "ELP4",
+      "PUF60",
+      "SEH1L",
+      "ILF2",
+      "VHL",
+      "NELFB",
+      "NEMF",
+      "ELP2",
+      "HUWE1"
+    ]
+  },
+  "CS": {
+    "Jurkat": [
+      "NFS1",
+      "SLC25A42",
+      "CYCS",
+      "CSNK2B",
+      "COX5A",
+      "COX17",
+      "AARS2",
+      "COX5B",
+      "COX7C",
+      "UQCRQ"
+    ],
+    "HepG2": [
+      "COA5",
+      "ATP5F1C",
+      "COX7C",
+      "COQ2",
+      "ISCU",
+      "SLC25A42",
+      "SDHC",
+      "COX17",
+      "ORC1",
+      "SLC25A3"
+    ],
+    "K562": [
+      "UQCRB",
+      "COX7C",
+      "COX10",
+      "UQCRQ",
+      "CSNK2B",
+      "COQ4",
+      "CPOX",
+      "ACSS2",
+      "SCAF1",
+      "COX5A"
+    ],
+    "RPE1": [
+      "COX7C",
+      "COX10",
+      "COX7B",
+      "COQ4",
+      "ISCU",
+      "SLC25A3",
+      "COX15",
+      "NFS1",
+      "ORC1",
+      "UQCRC2"
+    ]
+  },
+  "TUBE1": {
+    "Jurkat": [
+      "FGFR1OP",
+      "TPT1",
+      "TLN1",
+      "SASS6",
+      "TUBB2A",
+      "TUBGCP4",
+      "TUBGCP3",
+      "TUBA1C",
+      "SUGT1",
+      "TUBB"
+    ],
+    "HepG2": [
+      "HAUS6",
+      "TUBGCP3",
+      "TUBA1C",
+      "TUBGCP4",
+      "SASS6",
+      "TUBD1",
+      "TUBGCP5",
+      "KIF14",
+      "HAUS4",
+      "TUBG1"
+    ],
+    "K562": [
+      "TUBD1",
+      "DYNC1I2",
+      "CENPJ",
+      "TUBGCP5",
+      "SASS6",
+      "HAUS6",
+      "TUBGCP2",
+      "HAUS4",
+      "TUBB",
+      "CCT8"
+    ],
+    "RPE1": [
+      "KIF11",
+      "TUBGCP3",
+      "NUF2",
+      "TUBGCP2",
+      "KIF14",
+      "HAUS6",
+      "DCTN5",
+      "TUBD1",
+      "CENPJ",
+      "TUBA1B"
+    ]
+  },
+  "PLK4": {
+    "Jurkat": [
+      "SPDL1",
+      "NPM1",
+      "SKA3",
+      "CENPJ",
+      "CHEK1",
+      "CEP85",
+      "PKMYT1",
+      "PPP2R3C",
+      "TUBG1",
+      "PI4KA"
+    ],
+    "HepG2": [
+      "PLK1",
+      "SPDL1",
+      "SKA3",
+      "TUBE1",
+      "MST1",
+      "CHEK1",
+      "CDK9",
+      "AURKA",
+      "PPP4R2",
+      "CENPJ"
+    ],
+    "K562": [
+      "PLK1",
+      "AURKA",
+      "TTK",
+      "TUBE1",
+      "BUB1",
+      "CDK9",
+      "SKA1",
+      "MST1",
+      "KIF11",
+      "HIPK1"
+    ],
+    "RPE1": [
+      "CDK2",
+      "TTK",
+      "PKMYT1",
+      "CENPJ",
+      "PIK3R4",
+      "ZWINT",
+      "STIL",
+      "SKA1",
+      "MST1",
+      "CDK1"
+    ]
+  },
+  "RABGGTA": {
+    "Jurkat": [
+      "PDRG1",
+      "UNC50",
+      "MRGBP",
+      "RRP7A",
+      "SRP9",
+      "GTF3C4",
+      "CCDC59",
+      "RNGTT",
+      "GTF3C5",
+      "RRP12"
+    ],
+    "HepG2": [
+      "GTF3C4",
+      "SPAG7",
+      "TUBGCP2",
+      "SRBD1",
+      "RRP12",
+      "RAB4B",
+      "TUBD1",
+      "SRP9",
+      "SMC2",
+      "GTF3C1"
+    ],
+    "K562": [
+      "RRP7A",
+      "TUBA1C",
+      "PDRG1",
+      "ZC3H18",
+      "GPN3",
+      "RBM48",
+      "RNGTT",
+      "TUBGCP2",
+      "TUBD1",
+      "GTF3C5"
+    ],
+    "RPE1": [
+      "SPAG7",
+      "RNGTT",
+      "ZC3H18",
+      "RAB4B",
+      "RRP12",
+      "GNL2",
+      "GPN3",
+      "MRGBP",
+      "RBM42",
+      "CCDC59"
+    ]
+  },
+  "GINS2": {
+    "Jurkat": [
+      "GINS1",
+      "SS18L2",
+      "UBA2",
+      "HAUS5",
+      "GTF3C6",
+      "SOD2",
+      "NOM1",
+      "INTS10",
+      "INTS1",
+      "GINS3"
+    ],
+    "HepG2": [
+      "HAUS1",
+      "INTS1",
+      "SCNM1",
+      "GEMIN6",
+      "TADA2B",
+      "GPN2",
+      "SOD2",
+      "SS18L2",
+      "SGPP1",
+      "GTF2A2"
+    ],
+    "K562": [
+      "INTS11",
+      "IPO11",
+      "CIAPIN1",
+      "GTF2A1",
+      "HAUS5",
+      "INTS12",
+      "MTG2",
+      "HAUS1",
+      "GTF2A2",
+      "GTF3C6"
+    ],
+    "RPE1": [
+      "GPN2",
+      "GINS3",
+      "RPS26",
+      "INTS4",
+      "SS18L2",
+      "MED11",
+      "GINS1",
+      "SCNM1",
+      "SGPP1",
+      "INTS11"
+    ]
+  },
+  "NUDC": {
+    "Jurkat": [
+      "SUGT1",
+      "BUB3",
+      "NCAPG",
+      "SPDL1",
+      "SPC24",
+      "TUBG1",
+      "NDC80",
+      "CDC6",
+      "STIL",
+      "CDC27"
+    ],
+    "HepG2": [
+      "KIF14",
+      "NUDCD3",
+      "CDC7",
+      "NPM1",
+      "PRC1",
+      "CDC27",
+      "NUDT21",
+      "MAD2L2",
+      "SPDL1",
+      "PDCD7"
+    ],
+    "K562": [
+      "PDCD7",
+      "BUB3",
+      "CDC23",
+      "NUP205",
+      "KIF14",
+      "BUB1B",
+      "TUBG1",
+      "SPDL1",
+      "NPM1",
+      "PDCD5"
+    ],
+    "RPE1": [
+      "BUB3",
+      "NDC80",
+      "NPM1",
+      "CDC6",
+      "TUBG1",
+      "CDC7",
+      "SPC24",
+      "AURKA",
+      "ZNF207",
+      "NUP35"
+    ]
+  },
+  "RAB6A": {
+    "Jurkat": [
+      "ABCE1",
+      "RANBP2",
+      "CAST",
+      "WDR7",
+      "RHOQ",
+      "ACTR1B",
+      "USP8",
+      "ACTL6A",
+      "ARL2",
+      "MARS"
+    ],
+    "HepG2": [
+      "ARFRP1",
+      "RHOQ",
+      "CD2BP2",
+      "ATP6V1B2",
+      "ATP6AP2",
+      "MARS",
+      "RAB18",
+      "SMC2",
+      "WDR44",
+      "RAB4B"
+    ],
+    "K562": [
+      "EXOC8",
+      "RAB18",
+      "ATP6V1B2",
+      "WDR7",
+      "AP2M1",
+      "CDC42",
+      "RAB4A",
+      "EXOC2",
+      "RACGAP1",
+      "CD2BP2"
+    ],
+    "RPE1": [
+      "AP2M1",
+      "ACTR1B",
+      "ARL2",
+      "SMC2",
+      "ABCE1",
+      "ARF4",
+      "USP8",
+      "RANBP2",
+      "RAB4A",
+      "VPS51"
+    ]
+  },
+  "CCP110": {
+    "Jurkat": [
+      "CHORDC1",
+      "CCDC86",
+      "MZT1",
+      "PRC1",
+      "CENPJ",
+      "CEP85",
+      "CDC6",
+      "CENPW",
+      "CENPH",
+      "TUBGCP5"
+    ],
+    "HepG2": [
+      "CDC6",
+      "CCDC86",
+      "STIL",
+      "PLK4",
+      "CENPW",
+      "CCNB1",
+      "CCDC115",
+      "TICRR",
+      "PRC1",
+      "CDC20"
+    ],
+    "K562": [
+      "TUBGCP5",
+      "CENPJ",
+      "KIAA0586",
+      "INTS13",
+      "CDCA5",
+      "CDC6",
+      "CEP192",
+      "SPOUT1",
+      "MZT1",
+      "SPC24"
+    ],
+    "RPE1": [
+      "CEP152",
+      "KIAA0586",
+      "TICRR",
+      "TUBGCP5",
+      "CACTIN",
+      "MZT1",
+      "STIL",
+      "RCC1",
+      "PRC1",
+      "CCDC86"
+    ]
+  },
+  "UROD": {
+    "Jurkat": [
+      "UQCRB",
+      "NDUFS5",
+      "UXS1",
+      "DUT",
+      "CYCS",
+      "RPUSD3",
+      "ORC1",
+      "COX10",
+      "VHL",
+      "GLRX5"
+    ],
+    "HepG2": [
+      "HSD17B10",
+      "CPOX",
+      "NDUFS3",
+      "RPUSD3",
+      "HS6ST1",
+      "CYCS",
+      "MTHFD1",
+      "ORC1",
+      "NDUFS5",
+      "SOD1"
+    ],
+    "K562": [
+      "RPUSD3",
+      "GLRX5",
+      "COX11",
+      "NUDT15",
+      "PGD",
+      "CYCS",
+      "SOD1",
+      "UQCRB",
+      "HSD17B10",
+      "UBR5"
+    ],
+    "RPE1": [
+      "COX10",
+      "HS6ST1",
+      "PYROXD1",
+      "MTHFD1",
+      "UQCRQ",
+      "UQCRB",
+      "COQ2",
+      "USP8",
+      "CPOX",
+      "USP14"
+    ]
+  },
+  "RNF8": {
+    "Jurkat": [
+      "ZFR",
+      "RBBP8",
+      "UBE2L3",
+      "UBR5",
+      "RNF31",
+      "NUFIP1",
+      "URI1",
+      "UFL1",
+      "RNF103",
+      "RNF113A"
+    ],
+    "HepG2": [
+      "UBE2L3",
+      "RNF20",
+      "NUFIP1",
+      "UBE2I",
+      "UBR4",
+      "UFL1",
+      "ZFR",
+      "RNF123",
+      "UBE2M",
+      "RNF40"
+    ],
+    "K562": [
+      "UBE3D",
+      "RBBP8",
+      "UBE2N",
+      "MKRN1",
+      "USP8",
+      "RNF103",
+      "NUB1",
+      "ZFR",
+      "RNF40",
+      "UBR5"
+    ],
+    "RPE1": [
+      "UFL1",
+      "UBE3C",
+      "URI1",
+      "NUFIP1",
+      "RNF40",
+      "RNF113A",
+      "UBR5",
+      "RNF14",
+      "UBR4",
+      "SNIP1"
+    ]
+  },
+  "MIS18BP1": {
+    "Jurkat": [
+      "RPS19BP1",
+      "DNAJC17",
+      "TMEM161B",
+      "POLA2",
+      "ZMYM4",
+      "CCDC59",
+      "RRP12",
+      "SNAPC1",
+      "TRNP1",
+      "BOD1L1"
+    ],
+    "HepG2": [
+      "DDX19A",
+      "DNAJC17",
+      "POLA2",
+      "NIP7",
+      "UNC50",
+      "TRNP1",
+      "MSL1",
+      "DDX51",
+      "DDX49",
+      "ZMYM4"
+    ],
+    "K562": [
+      "UTP18",
+      "POLA2",
+      "TRNP1",
+      "MAK16",
+      "DDX19A",
+      "ZC3H18",
+      "TMEM161B",
+      "PAXBP1",
+      "SSBP3",
+      "ZBTB44"
+    ],
+    "RPE1": [
+      "RBM48",
+      "SPAG7",
+      "RBM42",
+      "MAK16",
+      "DNAJC17",
+      "DDX51",
+      "TRNP1",
+      "TMEM161B",
+      "UTP18",
+      "DDX49"
+    ]
+  },
+  "ERAL1": {
+    "Jurkat": [
+      "PTCD1",
+      "TMEM199",
+      "AARS2",
+      "MRPS27",
+      "SARS2",
+      "MRPL32",
+      "RPL5",
+      "RARS2",
+      "EMG1",
+      "MRPL42"
+    ],
+    "HepG2": [
+      "GNL3L",
+      "MRPL42",
+      "MRPL18",
+      "MRPL28",
+      "EIF4A3",
+      "ARL2",
+      "EMG1",
+      "MRPL23",
+      "PTCD1",
+      "MRPL9"
+    ],
+    "K562": [
+      "RPL23",
+      "EARS2",
+      "LARS",
+      "MRPL13",
+      "EMG1",
+      "GNL3L",
+      "SARS2",
+      "MRPL9",
+      "MRPL18",
+      "RARS2"
+    ],
+    "RPE1": [
+      "RPUSD3",
+      "MRPL13",
+      "RPL37A",
+      "RARS2",
+      "AARS2",
+      "RPS12",
+      "MALSU1",
+      "GNL3L",
+      "LARS",
+      "RPL13"
+    ]
+  },
+  "NOM1": {
+    "Jurkat": [
+      "MED11",
+      "NOC2L",
+      "SYS1",
+      "RPA2",
+      "WDR82",
+      "TIMM9",
+      "EIF2S1",
+      "GINS2",
+      "NAA20",
+      "GTF2A1"
+    ],
+    "HepG2": [
+      "NAA20",
+      "CHAF1A",
+      "LEO1",
+      "SUGP1",
+      "SAE1",
+      "IPO11",
+      "NUP43",
+      "SYS1",
+      "SGPP1",
+      "RPA2"
+    ],
+    "K562": [
+      "MED11",
+      "NOL8",
+      "NMT1",
+      "GINS1",
+      "NAA20",
+      "INTS1",
+      "SUGP1",
+      "UFM1",
+      "EIF2S1",
+      "SOD2"
+    ],
+    "RPE1": [
+      "POLR1B",
+      "IPO11",
+      "TAF1D",
+      "HAUS1",
+      "LEO1",
+      "INTS1",
+      "GEMIN6",
+      "EIF2S1",
+      "NOC2L",
+      "NAA20"
+    ]
+  },
+  "TSFM": {
+    "Jurkat": [
+      "EEF1G",
+      "TXN",
+      "TEFM",
+      "TRMT6",
+      "TSEN54",
+      "GTF2H3",
+      "TFB1M",
+      "EIF4G1",
+      "EIF2B3",
+      "ETF1"
+    ],
+    "HepG2": [
+      "EIF3M",
+      "TUFM",
+      "TSEN54",
+      "TFB2M",
+      "EIF4E",
+      "TRMT10C",
+      "EFTUD2",
+      "TEFM",
+      "EIF4G1",
+      "TIMM13"
+    ],
+    "K562": [
+      "TRMT10C",
+      "PTCD1",
+      "GFM1",
+      "EIF2B4",
+      "TFB2M",
+      "FARS2",
+      "TIMM44",
+      "TOMM40",
+      "EIF4G1",
+      "TFB1M"
+    ],
+    "RPE1": [
+      "FARS2",
+      "ATP5F1A",
+      "TSEN34",
+      "EIF4H",
+      "TSEN54",
+      "TRMT6",
+      "EIF4E",
+      "TIMM44",
+      "TEFM",
+      "PTCD1"
+    ]
+  },
+  "UBAP1": {
+    "Jurkat": [
+      "PABPC1",
+      "UPF1",
+      "UBR5",
+      "PABPN1",
+      "UBA5",
+      "UBE2N",
+      "UBE2M",
+      "UBA2",
+      "URI1",
+      "UBA1"
+    ],
+    "HepG2": [
+      "UBE2N",
+      "UBE2Z",
+      "PUM1",
+      "PTBP1",
+      "USP9X",
+      "NUB1",
+      "UPF1",
+      "UBE2L3",
+      "HNRNPA1",
+      "USP8"
+    ],
+    "K562": [
+      "UBR4",
+      "UBE2L3",
+      "UBQLN4",
+      "UPF2",
+      "GABPA",
+      "USP14",
+      "UBE2H",
+      "UBE3C",
+      "NUBP1",
+      "HNRNPA1"
+    ],
+    "RPE1": [
+      "PTBP1",
+      "USP14",
+      "UBQLN4",
+      "UBR4",
+      "HNRNPA1",
+      "UBA3",
+      "UBR5",
+      "UBE3C",
+      "NUBP1",
+      "NBAS"
+    ]
+  },
+  "KIN": {
+    "Jurkat": [
+      "BUB1",
+      "BUB1B",
+      "MST1",
+      "NIFK",
+      "KIF4A",
+      "CHEK1",
+      "MKRN1",
+      "TTK",
+      "NFRKB",
+      "RNF123"
+    ],
+    "HepG2": [
+      "CHEK1",
+      "BANF1",
+      "MKRN1",
+      "BUB1",
+      "NIFK",
+      "SUGT1",
+      "KIF11",
+      "RNF123",
+      "CYC1",
+      "ZWINT"
+    ],
+    "K562": [
+      "NIFK",
+      "KIF14",
+      "SYF2",
+      "BUB1B",
+      "TTK",
+      "RAD21",
+      "KIF4A",
+      "CYC1",
+      "NFKBIE",
+      "WEE1"
+    ],
+    "RPE1": [
+      "KIF14",
+      "KIF4A",
+      "CDK2",
+      "UHRF1",
+      "RNF123",
+      "BUB1B",
+      "CINP",
+      "NUFIP1",
+      "PUF60",
+      "CHEK1"
+    ]
+  },
+  "RPP21": {
+    "Jurkat": [
+      "RPL26L1",
+      "RRP9",
+      "RPP38",
+      "POLR1B",
+      "UTP20",
+      "CIAPIN1",
+      "TTC27",
+      "SUGP1",
+      "SSBP1",
+      "RRP12"
+    ],
+    "HepG2": [
+      "SPEN",
+      "SUGP1",
+      "POLR1B",
+      "RPS24",
+      "SS18L2",
+      "RPL26L1",
+      "WDR82",
+      "RPP14",
+      "CENPP",
+      "RPS21"
+    ],
+    "K562": [
+      "SGPP1",
+      "SSBP1",
+      "RPP30",
+      "RPA2",
+      "BCR",
+      "RRP7A",
+      "USP5",
+      "RRP9",
+      "EIF2S1",
+      "NAA20"
+    ],
+    "RPE1": [
+      "CPSF1",
+      "SSBP1",
+      "RBM15",
+      "RRP7A",
+      "RRP9",
+      "GINS1",
+      "SS18L2",
+      "WDR82",
+      "RPL26L1",
+      "RPP40"
+    ]
+  },
+  "DDX52": {
+    "Jurkat": [
+      "UTP3",
+      "EBNA1BP2",
+      "NOL11",
+      "DDX59",
+      "RBM48",
+      "DDX55",
+      "DDX19A",
+      "RPL7L1",
+      "SRBD1",
+      "KRR1"
+    ],
+    "HepG2": [
+      "DDX59",
+      "U2SURP",
+      "SRFBP1",
+      "DDX42",
+      "KRR1",
+      "UTP18",
+      "DDX55",
+      "TSR1",
+      "RBM48",
+      "NOL10"
+    ],
+    "K562": [
+      "UTP6",
+      "CCDC59",
+      "SRBD1",
+      "DDX21",
+      "DDX23",
+      "TSR1",
+      "MAK16",
+      "EBNA1BP2",
+      "WDR46",
+      "DDX51"
+    ],
+    "RPE1": [
+      "DDX19A",
+      "WDR46",
+      "NOL10",
+      "DDX51",
+      "STRAP",
+      "EBNA1BP2",
+      "LAS1L",
+      "KRR1",
+      "DDX23",
+      "TSR1"
+    ]
+  },
+  "OPA1": {
+    "Jurkat": [
+      "MED12",
+      "MNAT1",
+      "TAF12",
+      "MED20",
+      "MED9",
+      "MED18",
+      "MED14",
+      "MKRN1",
+      "MED10",
+      "MED21"
+    ],
+    "HepG2": [
+      "CDK1",
+      "MNAT1",
+      "MED20",
+      "WDR12",
+      "PCID2",
+      "MKRN1",
+      "CDK12",
+      "MED7",
+      "MED21",
+      "MCM2"
+    ],
+    "K562": [
+      "MED11",
+      "MED7",
+      "MED19",
+      "MED16",
+      "MKRN1",
+      "MED9",
+      "MCM7",
+      "MED17",
+      "MED12",
+      "PCID2"
+    ],
+    "RPE1": [
+      "KDM2A",
+      "MED22",
+      "PCID2",
+      "MED24",
+      "MED11",
+      "MED7",
+      "MED8",
+      "MED27",
+      "MED17",
+      "CDK12"
+    ]
+  },
+  "MRPL9": {
+    "Jurkat": [
+      "MRPL16",
+      "MRPL15",
+      "MRPL17",
+      "MRPL19",
+      "MRPL49",
+      "MRPL3",
+      "MRPL50",
+      "MRPL34",
+      "MRPL20",
+      "MRPL44"
+    ],
+    "HepG2": [
+      "MRPL13",
+      "RPL23",
+      "MRPL3",
+      "MRPL44",
+      "MRPL17",
+      "MRPL37",
+      "MRPL32",
+      "MRPL19",
+      "MRPL2",
+      "MRPL46"
+    ],
+    "K562": [
+      "MRPL35",
+      "MRPL28",
+      "MRPL49",
+      "MRPL20",
+      "MRPL2",
+      "MRPL44",
+      "MRPL19",
+      "MRPL17",
+      "MRPL14",
+      "MRPL54"
+    ],
+    "RPE1": [
+      "MRPL37",
+      "MRPL39",
+      "MRPL42",
+      "MRPL20",
+      "MRPL51",
+      "MRPL33",
+      "MRPL17",
+      "MRPL19",
+      "MRPL10",
+      "MRPL38"
+    ]
+  },
+  "SOD2": {
+    "Jurkat": [
+      "NOL8",
+      "SYS1",
+      "ATP11B",
+      "GINS1",
+      "SLC39A10",
+      "WDR82",
+      "TAF1D",
+      "NOC2L",
+      "LEO1",
+      "SLC1A5"
+    ],
+    "HepG2": [
+      "SUDS3",
+      "GTF2A1",
+      "SCNM1",
+      "NOC2L",
+      "MTG2",
+      "LEO1",
+      "SYS1",
+      "TAF1D",
+      "GINS2",
+      "SLC39A10"
+    ],
+    "K562": [
+      "GINS2",
+      "NMT1",
+      "NOC2L",
+      "GTF2A2",
+      "MED11",
+      "EIF2S1",
+      "TADA2B",
+      "SLC39A10",
+      "INTS1",
+      "NOB1"
+    ],
+    "RPE1": [
+      "ATP11B",
+      "MED11",
+      "NOB1",
+      "NOL8",
+      "SCNM1",
+      "MTG2",
+      "SGPP1",
+      "SUGP1",
+      "SLC39A10",
+      "INTS12"
+    ]
+  },
+  "TMX2": {
+    "Jurkat": [
+      "TPP2",
+      "PITRM1",
+      "TOMM20",
+      "PPIL2",
+      "TXN",
+      "TMEM127",
+      "TMEM199",
+      "METAP2",
+      "TIMM13",
+      "TIMM44"
+    ],
+    "HepG2": [
+      "TOMM22",
+      "TIMM8A",
+      "TMEM127",
+      "TIMM13",
+      "IMP4",
+      "SNX15",
+      "STX18",
+      "TMED10",
+      "PPIL1",
+      "PPIH"
+    ],
+    "K562": [
+      "CHCHD2",
+      "PPIA",
+      "TIMM44",
+      "PYROXD1",
+      "GLRX3",
+      "MT2A",
+      "PITRM1",
+      "TPP2",
+      "TOMM20",
+      "TMED10"
+    ],
+    "RPE1": [
+      "TMED10",
+      "TXN",
+      "TXNL4A",
+      "TMEM127",
+      "CHCHD2",
+      "TSFM",
+      "PPIH",
+      "PITRM1",
+      "DDX3X",
+      "PPIE"
+    ]
+  },
+  "RARS": {
+    "Jurkat": [
+      "FARSB",
+      "YARS2",
+      "EARS2",
+      "RPS17",
+      "PARS2",
+      "VARS",
+      "VARS2",
+      "TARS2",
+      "NARS",
+      "NARS2"
+    ],
+    "HepG2": [
+      "SARS2",
+      "DARS",
+      "PARS2",
+      "RPS23",
+      "VARS2",
+      "NARS2",
+      "YARS",
+      "SEPSECS",
+      "AARS",
+      "QARS"
+    ],
+    "K562": [
+      "DARS",
+      "EPRS",
+      "QARS",
+      "RPS23",
+      "IARS",
+      "VARS2",
+      "RARS2",
+      "SARS2",
+      "AARS2",
+      "TARS2"
+    ],
+    "RPE1": [
+      "TRNT1",
+      "KARS",
+      "RPS11",
+      "VARS2",
+      "NARS",
+      "CARS",
+      "FARSA",
+      "WARS",
+      "AARS",
+      "LARS2"
+    ]
+  },
+  "UTP15": {
+    "Jurkat": [
+      "UTP11",
+      "KTI12",
+      "UFL1",
+      "UTP3",
+      "SUPT5H",
+      "RPUSD4",
+      "UTP18",
+      "ELP5",
+      "BUD13",
+      "METTL16"
+    ],
+    "HepG2": [
+      "UFL1",
+      "U2SURP",
+      "SRP14",
+      "RRP7A",
+      "UTP23",
+      "UTP25",
+      "WDR43",
+      "RRP12",
+      "EIF1",
+      "TSR1"
+    ],
+    "K562": [
+      "HEATR1",
+      "RRP12",
+      "RRP7A",
+      "POLR1E",
+      "RPL7L1",
+      "TSR1",
+      "CD3EAP",
+      "METTL16",
+      "WDR43",
+      "UTP20"
+    ],
+    "RPE1": [
+      "CD3EAP",
+      "U2SURP",
+      "UFL1",
+      "URB1",
+      "POLR1E",
+      "RPP38",
+      "NOL11",
+      "RRP12",
+      "EIF1",
+      "UTP20"
+    ]
+  },
+  "ARGLU1": {
+    "Jurkat": [
+      "RCCD1",
+      "SMAGP",
+      "C9orf78",
+      "SLC35G2",
+      "BAP1",
+      "MEX3A",
+      "UNC50",
+      "ZCCHC9",
+      "CD3EAP",
+      "RRP12"
+    ],
+    "HepG2": [
+      "ARFRP1",
+      "POGLUT3",
+      "GNPNAT1",
+      "ARL6IP6",
+      "RCCD1",
+      "ITGB1BP1",
+      "MDN1",
+      "CHCHD1",
+      "MEX3A",
+      "ATL2"
+    ],
+    "K562": [
+      "MEX3A",
+      "CCDC86",
+      "RCCD1",
+      "CHCHD1",
+      "SMAGP",
+      "C1orf131",
+      "ZCCHC9",
+      "UNC50",
+      "RPS19BP1",
+      "SLC35G2"
+    ],
+    "RPE1": [
+      "C9orf78",
+      "POGLUT3",
+      "EIF1",
+      "BAP1",
+      "TLN1",
+      "CBLL1",
+      "CHCHD1",
+      "RCCD1",
+      "DNAJC8",
+      "CNIH4"
+    ]
+  },
+  "GTF2H3": {
+    "Jurkat": [
+      "GTF3C3",
+      "TAF8",
+      "TAF11",
+      "GTF2B",
+      "TAF6L",
+      "GTF2H1",
+      "TAF10",
+      "TAF1",
+      "GTF3A",
+      "GTF3C2"
+    ],
+    "HepG2": [
+      "GTF2F1",
+      "TAF10",
+      "E2F6",
+      "GTF2E2",
+      "TAF7",
+      "TBPL1",
+      "GTF2H2C",
+      "GTF3C2",
+      "POLR3F",
+      "GTF2A1"
+    ],
+    "K562": [
+      "TAF5",
+      "TAF1",
+      "GTF3A",
+      "POLR3F",
+      "GTF2F1",
+      "TAF13",
+      "GTF2H2C",
+      "TAF8",
+      "TAF6L",
+      "TAF7"
+    ],
+    "RPE1": [
+      "TAF11",
+      "GTF3C4",
+      "TAF1",
+      "TBPL1",
+      "TAF8",
+      "GTF3A",
+      "POLR3F",
+      "TAF6L",
+      "GTF3C5",
+      "TAF10"
+    ]
+  },
+  "RPP14": {
+    "Jurkat": [
+      "RPL10",
+      "RPS23",
+      "RPL12",
+      "RPS24",
+      "RPS2",
+      "RPS17",
+      "RPS5",
+      "RPL9",
+      "TRMT10C",
+      "RPS15A"
+    ],
+    "HepG2": [
+      "RPS11",
+      "RPS10",
+      "RPS14",
+      "RPS20",
+      "RPP30",
+      "RRP15",
+      "RPS9",
+      "RPS23",
+      "RPS8",
+      "RPL10"
+    ],
+    "K562": [
+      "RPS11",
+      "RPL18A",
+      "RPS3",
+      "RPL26",
+      "RPS13",
+      "RPL15",
+      "PPP1R8",
+      "RPL5",
+      "RPL10",
+      "RPS23"
+    ],
+    "RPE1": [
+      "RPS2",
+      "RPS10",
+      "RPL10",
+      "RPL18A",
+      "RRP15",
+      "RPS9",
+      "RPP30",
+      "RPP38",
+      "RPL15",
+      "RPP40"
+    ]
+  },
+  "PPP1R11": {
+    "Jurkat": [
+      "PPP2CB",
+      "PPIH",
+      "PPP2R1A",
+      "PNPT1",
+      "PPP1R15B",
+      "PPME1",
+      "PPP1R8",
+      "UBL5",
+      "PPP4C",
+      "PSAT1"
+    ],
+    "HepG2": [
+      "PPP4R2",
+      "PTPN1",
+      "PPP4C",
+      "PPP2R1A",
+      "PPME1",
+      "TPP2",
+      "PPP1CB",
+      "PNPT1",
+      "BDP1",
+      "GGPS1"
+    ],
+    "K562": [
+      "PPIH",
+      "PPP2CA",
+      "PPP1R8",
+      "PPP2R3C",
+      "PTPN1",
+      "PPIA",
+      "PPIL4",
+      "PPA2",
+      "PPIL1",
+      "PTPN23"
+    ],
+    "RPE1": [
+      "PSAT1",
+      "PPIL1",
+      "PPIE",
+      "PTPN23",
+      "PPIH",
+      "TPP2",
+      "PPP1R2",
+      "PPA1",
+      "PNPT1",
+      "PPP2R3C"
+    ]
+  },
+  "RPL29": {
+    "Jurkat": [
+      "RPL8",
+      "RPL26",
+      "RPL35",
+      "RPLP0",
+      "RPL18A",
+      "RPL11",
+      "RPL38",
+      "RPL35A",
+      "RPL37A",
+      "RPL34"
+    ],
+    "HepG2": [
+      "RPL27",
+      "RPLP2",
+      "RPL37A",
+      "RPL14",
+      "RPL32",
+      "RPS28",
+      "RPL26",
+      "RPL19",
+      "RPL30",
+      "RPL9"
+    ],
+    "K562": [
+      "RPL12",
+      "RPL41",
+      "RPL32",
+      "RPL10",
+      "RPL19",
+      "RPL34",
+      "RPL14",
+      "RPL4",
+      "RPS28",
+      "RPL27"
+    ],
+    "RPE1": [
+      "RPLP0",
+      "RPL32",
+      "RPL10",
+      "RPL28",
+      "RPL19",
+      "RPL11",
+      "RPL14",
+      "RPL37",
+      "RPL9",
+      "RPL35A"
+    ]
+  },
+  "RBM10": {
+    "Jurkat": [
+      "HNRNPH1",
+      "RBM48",
+      "ZC3H18",
+      "RBMXL1",
+      "RBBP8",
+      "SPEN",
+      "PTBP1",
+      "RRP7A",
+      "RBM25",
+      "RPL5"
+    ],
+    "HepG2": [
+      "RBM25",
+      "ZC3H18",
+      "RBM42",
+      "MYBBP1A",
+      "RBM14",
+      "RBBP5",
+      "SNRPB",
+      "RBM39",
+      "RBM33",
+      "SRSF10"
+    ],
+    "K562": [
+      "RNF40",
+      "HNRNPH1",
+      "RBM19",
+      "PTBP1",
+      "RBBP8",
+      "RBM39",
+      "RBM14",
+      "MYBBP1A",
+      "RBMX2",
+      "RPL5"
+    ],
+    "RPE1": [
+      "RBM19",
+      "RBM33",
+      "RBMX2",
+      "HNRNPDL",
+      "RBM42",
+      "HNRNPH1",
+      "RBM17",
+      "RBM12",
+      "RBBP5",
+      "SNRPB"
+    ]
+  },
+  "ANAPC13": {
+    "Jurkat": [
+      "ANAPC10",
+      "ANAPC11",
+      "CDC27",
+      "BUB1B",
+      "PDCD5",
+      "STAG2",
+      "CDC23",
+      "BUB1",
+      "BANP",
+      "ANAPC5"
+    ],
+    "HepG2": [
+      "CINP",
+      "ANAPC1",
+      "ANAPC5",
+      "USP8",
+      "NCAPG",
+      "CCNB1",
+      "CDC26",
+      "CDC73",
+      "PDCD5",
+      "PLRG1"
+    ],
+    "K562": [
+      "CDC23",
+      "CDC7",
+      "BANP",
+      "CDC16",
+      "CTNNBL1",
+      "CDK1",
+      "USP8",
+      "BUB1B",
+      "ANAPC5",
+      "ASCC3"
+    ],
+    "RPE1": [
+      "CDC16",
+      "BUB1B",
+      "BUB1",
+      "CDC73",
+      "ASCC3",
+      "USP8",
+      "CCND3",
+      "CINP",
+      "BANP",
+      "ANAPC11"
+    ]
+  },
+  "VPS13D": {
+    "Jurkat": [
+      "VPS25",
+      "ATP6V1B2",
+      "ATP6V0D1",
+      "ATP6V1C1",
+      "USP8",
+      "SEC13",
+      "ATP6V1H",
+      "TMEM127",
+      "ATP6V1A",
+      "ATP6V1D"
+    ],
+    "HepG2": [
+      "TMEM127",
+      "VPS29",
+      "ATP6V1G1",
+      "USP8",
+      "SEC13",
+      "VPS41",
+      "VPS37A",
+      "YKT6",
+      "ATP6V0B",
+      "VPS35"
+    ],
+    "K562": [
+      "VPS41",
+      "VPS29",
+      "ATP6V0B",
+      "VPS25",
+      "ATP6V0D1",
+      "TRAPPC1",
+      "SEC16A",
+      "VPS51",
+      "USP8",
+      "ATP6V1H"
+    ],
+    "RPE1": [
+      "ATP6V1B2",
+      "TRAPPC11",
+      "ATP6V1H",
+      "USP8",
+      "YKT6",
+      "VPS33A",
+      "SEC16A",
+      "VPS41",
+      "ATP6V1G1",
+      "VPS25"
+    ]
+  },
+  "AIFM1": {
+    "Jurkat": [
+      "MCL1",
+      "FAM136A",
+      "AFG3L2",
+      "LONP1",
+      "SACM1L",
+      "TFAM",
+      "PAM16",
+      "TFB1M",
+      "KIF4A",
+      "MIPEP"
+    ],
+    "HepG2": [
+      "KIF4A",
+      "JMJD6",
+      "MCL1",
+      "TFAM",
+      "SACM1L",
+      "GFM1",
+      "DNAJA3",
+      "AATF",
+      "DNM1L",
+      "NFS1"
+    ],
+    "K562": [
+      "TIMM13",
+      "EIF3G",
+      "EIF4A3",
+      "TIMM8A",
+      "TUFM",
+      "SACM1L",
+      "AFG3L2",
+      "CHCHD2",
+      "AATF",
+      "PAM16"
+    ],
+    "RPE1": [
+      "MIPEP",
+      "GFM1",
+      "DNAJA3",
+      "LONP1",
+      "JMJD6",
+      "PAM16",
+      "DNM1L",
+      "MFN2",
+      "MCL1",
+      "TIMM13"
+    ]
+  },
+  "PELP1": {
+    "Jurkat": [
+      "MED19",
+      "PPARGC1B",
+      "ELP3",
+      "NELFE",
+      "BRF1",
+      "E2F6",
+      "PALB2",
+      "USF2",
+      "MED14",
+      "TFDP1"
+    ],
+    "HepG2": [
+      "NOP16",
+      "PES1",
+      "SSRP1",
+      "ELAC2",
+      "MED14",
+      "DNTTIP2",
+      "ELOB",
+      "PEF1",
+      "MED26",
+      "BRF1"
+    ],
+    "K562": [
+      "STAT5B",
+      "TIMELESS",
+      "ZNRD1",
+      "ELP4",
+      "BRF1",
+      "MED14",
+      "USF2",
+      "TCERG1",
+      "NELFE",
+      "DNTTIP2"
+    ],
+    "RPE1": [
+      "ELAC2",
+      "RNF14",
+      "PEF1",
+      "MED27",
+      "TFDP1",
+      "MED26",
+      "NOP16",
+      "TCERG1",
+      "PALB2",
+      "SP2"
+    ]
+  },
+  "DNM1L": {
+    "Jurkat": [
+      "ERAL1",
+      "DDX3X",
+      "DDX10",
+      "PNPT1",
+      "DDX5",
+      "DYNLL1",
+      "DNM1",
+      "DDX6",
+      "DNM2",
+      "DDX55"
+    ],
+    "HepG2": [
+      "SMNDC1",
+      "DNAJC19",
+      "JMJD6",
+      "DDX10",
+      "DNM2",
+      "BCL2L1",
+      "DNMT1",
+      "DDX56",
+      "DDX20",
+      "DDX19B"
+    ],
+    "K562": [
+      "JMJD6",
+      "DYNLL1",
+      "GEMIN5",
+      "DDX6",
+      "DDX55",
+      "MFN2",
+      "FAM136A",
+      "DDX42",
+      "DDX3X",
+      "BCL2L1"
+    ],
+    "RPE1": [
+      "DDX20",
+      "DCTN1",
+      "LONP1",
+      "DDX3X",
+      "DDX55",
+      "ERAL1",
+      "PNPT1",
+      "DNM1",
+      "DNAJA3",
+      "DHX33"
+    ]
+  },
+  "PHB2": {
+    "Jurkat": [
+      "NPLOC4",
+      "SUPV3L1",
+      "PNPT1",
+      "DBF4",
+      "HMBOX1",
+      "DPH6",
+      "EPB41L2",
+      "DNAJC9",
+      "USP37",
+      "UBQLN4"
+    ],
+    "HepG2": [
+      "PPP4C",
+      "PNPT1",
+      "PDPK1",
+      "NPM1",
+      "BOD1L1",
+      "PHF12",
+      "NRBP1",
+      "PLEKHN1",
+      "NCBP1",
+      "NCBP2"
+    ],
+    "K562": [
+      "NCBP1",
+      "SUPV3L1",
+      "UBQLN4",
+      "PTCD3",
+      "DBF4",
+      "PPP4C",
+      "MBIP",
+      "NCBP2",
+      "EPB41L2",
+      "PNPT1"
+    ],
+    "RPE1": [
+      "PDPK1",
+      "DPH2",
+      "DPH6",
+      "USP37",
+      "NRBP1",
+      "PTPMT1",
+      "HSPA14",
+      "MBIP",
+      "NCBP1",
+      "SFPQ"
+    ]
+  },
+  "NOL7": {
+    "Jurkat": [
+      "NOP2",
+      "RBM19",
+      "NUP107",
+      "NOC4L",
+      "NOL10",
+      "RPL7L1",
+      "GNL3",
+      "NSA2",
+      "NOL12",
+      "NMD3"
+    ],
+    "HepG2": [
+      "GNL3",
+      "NLE1",
+      "NOL10",
+      "NIP7",
+      "RBM10",
+      "NVL",
+      "NOP58",
+      "MYBBP1A",
+      "RBM28",
+      "NSA2"
+    ],
+    "K562": [
+      "RBM28",
+      "GNL3",
+      "NLE1",
+      "RPL7L1",
+      "GNL2",
+      "RBBP8",
+      "RPL5",
+      "NOP14",
+      "NOP58",
+      "NMD3"
+    ],
+    "RPE1": [
+      "RBM10",
+      "NOL8",
+      "NIP7",
+      "RBBP8",
+      "GNL3L",
+      "NVL",
+      "NOP14",
+      "MYBBP1A",
+      "NOC4L",
+      "RPL5"
+    ]
+  },
+  "NIFK": {
+    "Jurkat": [
+      "MKRN1",
+      "HIPK1",
+      "NUDC",
+      "RNF123",
+      "SUGT1",
+      "NKAP",
+      "PLK1",
+      "ILF3",
+      "SYF2",
+      "ILF2"
+    ],
+    "HepG2": [
+      "STIL",
+      "NUF2",
+      "NFKBIE",
+      "NUFIP1",
+      "KIF14",
+      "SUGT1",
+      "PLK1",
+      "SNIP1",
+      "NFRKB",
+      "RNF123"
+    ],
+    "K562": [
+      "ILF3",
+      "ILF2",
+      "EIF3M",
+      "E2F6",
+      "NFRKB",
+      "AURKA",
+      "SNIP1",
+      "RNF123",
+      "KIF20A",
+      "NUDC"
+    ],
+    "RPE1": [
+      "STIL",
+      "HIPK1",
+      "KIF4A",
+      "E2F6",
+      "NUF2",
+      "KIF11",
+      "NFKBIE",
+      "PLK1",
+      "SUGT1",
+      "SYF2"
+    ]
+  },
+  "COPS2": {
+    "Jurkat": [
+      "EPB41L2",
+      "POLA2",
+      "COPE",
+      "ZFP69B",
+      "BOD1L1",
+      "PIAS4",
+      "COPS3",
+      "COPS6",
+      "IPO9",
+      "ENY2"
+    ],
+    "HepG2": [
+      "SERF2",
+      "SNAPC1",
+      "GPS2",
+      "EPB41L2",
+      "POP1",
+      "PHF12",
+      "THOC1",
+      "IPO9",
+      "COPS4",
+      "SRP9"
+    ],
+    "K562": [
+      "GSPT1",
+      "POP1",
+      "SERF2",
+      "IPO9",
+      "COPS5",
+      "BOD1L1",
+      "PIAS4",
+      "CD3EAP",
+      "ENY2",
+      "TOX4"
+    ],
+    "RPE1": [
+      "NOP2",
+      "SNAPC1",
+      "SUPT20H",
+      "SRP9",
+      "TOX4",
+      "COPE",
+      "PHF12",
+      "SSU72",
+      "NCAPD2",
+      "THOC1"
+    ]
+  },
+  "RFC2": {
+    "Jurkat": [
+      "TAF1A",
+      "POLR2I",
+      "POLA1",
+      "POLD3",
+      "MED27",
+      "MED14",
+      "MED26",
+      "CHTF18",
+      "CDC45",
+      "RAD17"
+    ],
+    "HepG2": [
+      "CHTF18",
+      "TAF1A",
+      "RFC5",
+      "RFC4",
+      "PFDN5",
+      "MED27",
+      "TWISTNB",
+      "MED26",
+      "CDC45",
+      "TADA2A"
+    ],
+    "K562": [
+      "RFC5",
+      "MED14",
+      "SSRP1",
+      "PCNA",
+      "MED7",
+      "RFC4",
+      "RFC3",
+      "RAD17",
+      "CHTF18",
+      "POLD1"
+    ],
+    "RPE1": [
+      "PRIM2",
+      "CDC45",
+      "CHTF18",
+      "POLD1",
+      "ELAC2",
+      "POLD2",
+      "PCNA",
+      "ZNRD1",
+      "MED26",
+      "POLA1"
+    ]
+  },
+  "SDHC": {
+    "Jurkat": [
+      "NDUFS3",
+      "SDHA",
+      "CHCHD2",
+      "COX5A",
+      "NDUFB4",
+      "HSD17B10",
+      "COX15",
+      "COX6C",
+      "NDUFS5",
+      "NDUFAF5"
+    ],
+    "HepG2": [
+      "CYCS",
+      "NDUFA2",
+      "SCAF1",
+      "NDUFB3",
+      "HSCB",
+      "NDUFV2",
+      "UQCRC2",
+      "COX7C",
+      "SDHA",
+      "NDUFB4"
+    ],
+    "K562": [
+      "COX11",
+      "SDHAF2",
+      "HSD17B10",
+      "COX5B",
+      "CHCHD2",
+      "NDUFA11",
+      "SCAF1",
+      "NDUFA4",
+      "DNAJC19",
+      "NDUFB4"
+    ],
+    "RPE1": [
+      "COX15",
+      "COX5A",
+      "SCAF1",
+      "COX5B",
+      "NDUFA8",
+      "NDUFB7",
+      "NDUFB3",
+      "UQCRB",
+      "HSD17B10",
+      "COX7C"
+    ]
+  },
+  "PSAT1": {
+    "Jurkat": [
+      "SEPHS2",
+      "NARS2",
+      "PPP1R2",
+      "PTEN",
+      "PARS2",
+      "PRMT1",
+      "PTPN23",
+      "PTPMT1",
+      "BDP1",
+      "PTPN1"
+    ],
+    "HepG2": [
+      "GNPAT",
+      "PPME1",
+      "PPP4R2",
+      "GPN1",
+      "PPP2R1A",
+      "PRMT5",
+      "BDP1",
+      "N6AMT1",
+      "SEPHS2",
+      "PPA1"
+    ],
+    "K562": [
+      "PPME1",
+      "PRMT5",
+      "PTPN11",
+      "PTEN",
+      "PPA1",
+      "GNPAT",
+      "GPN1",
+      "DHPS",
+      "PPP1R2",
+      "TARS2"
+    ],
+    "RPE1": [
+      "SEPHS2",
+      "PPP2R1A",
+      "PTPN23",
+      "PPME1",
+      "TSEN2",
+      "NARS2",
+      "PGAM1",
+      "METAP2",
+      "PTPN1",
+      "PPP1R2"
+    ]
+  },
+  "TRA2B": {
+    "Jurkat": [
+      "SF3B3",
+      "TFIP11",
+      "SNAPC2",
+      "SNRPD1",
+      "SNRNP27",
+      "SAP130",
+      "GTF2B",
+      "SRSF10",
+      "CTU2",
+      "ZRANB2"
+    ],
+    "HepG2": [
+      "CTU2",
+      "TRAIP",
+      "TARS2",
+      "SRSF7",
+      "HNRNPR",
+      "TSEN34",
+      "TRNT1",
+      "SF3B4",
+      "SF3B2",
+      "TSEN2"
+    ],
+    "K562": [
+      "TRAIP",
+      "GTF3C3",
+      "AAR2",
+      "TCERG1",
+      "HNRNPR",
+      "SAP130",
+      "SF3B3",
+      "SRSF10",
+      "TRMT6",
+      "SF3B4"
+    ],
+    "RPE1": [
+      "SF3B4",
+      "SAP130",
+      "TRMT6",
+      "SNRNP27",
+      "SF3B5",
+      "SNRPD3",
+      "CTU2",
+      "TRAIP",
+      "ZRANB2",
+      "TBPL1"
+    ]
+  },
+  "UBA2": {
+    "Jurkat": [
+      "UBR4",
+      "UTP20",
+      "SUGP1",
+      "HAUS5",
+      "UBE2H",
+      "TADA2B",
+      "GTF2A2",
+      "UBE2L3",
+      "UBE2M",
+      "HAUS1"
+    ],
+    "HepG2": [
+      "UBAP1",
+      "HAUS1",
+      "UBE3C",
+      "TAF3",
+      "UBE2N",
+      "SS18L2",
+      "GTF2A2",
+      "UBE2L3",
+      "HAUS5",
+      "UTP20"
+    ],
+    "K562": [
+      "SUGP1",
+      "UBE3C",
+      "UBA5",
+      "UBE2Z",
+      "UBAP1",
+      "UBE2N",
+      "TADA2B",
+      "GTF2A2",
+      "HAUS1",
+      "NUP43"
+    ],
+    "RPE1": [
+      "UBAP1",
+      "NOB1",
+      "HAUS1",
+      "UBA1",
+      "UBR4",
+      "SUGP1",
+      "UFM1",
+      "UBA3",
+      "GTF2A1",
+      "HAUS5"
+    ]
+  },
+  "NRBP1": {
+    "Jurkat": [
+      "SRP68",
+      "CD3EAP",
+      "GNPNAT1",
+      "SRP14",
+      "BET1",
+      "RRP12",
+      "RRP7A",
+      "UNC50",
+      "SRPRB",
+      "FKBP9"
+    ],
+    "HepG2": [
+      "PDRG1",
+      "NSRP1",
+      "RBM48",
+      "EPB41L2",
+      "FKBP9",
+      "SRPRB",
+      "RANBP2",
+      "TRAPPC5",
+      "BET1",
+      "SMC2"
+    ],
+    "K562": [
+      "EPB41L2",
+      "NBEAL1",
+      "EBNA1BP2",
+      "RBM42",
+      "MIS18BP1",
+      "SRP68",
+      "RRP7A",
+      "RRP12",
+      "TRAPPC5",
+      "SRP19"
+    ],
+    "RPE1": [
+      "TRAPPC5",
+      "RBM42",
+      "SRP72",
+      "SRP14",
+      "SRP19",
+      "SRP9",
+      "CD3EAP",
+      "RRP12",
+      "UNC50",
+      "FKBP9"
+    ]
+  },
+  "ACTR1B": {
+    "Jurkat": [
+      "DYNLL1",
+      "DNM2",
+      "DCTN1",
+      "CDC42",
+      "KIF4A",
+      "DYNC1I2",
+      "TUBB",
+      "AHCTF1",
+      "SMC2",
+      "ACTR2"
+    ],
+    "HepG2": [
+      "ACTR8",
+      "AHCTF1",
+      "DCTN5",
+      "TUBD1",
+      "TUBB2A",
+      "TLN1",
+      "DYNLL1",
+      "TUBB",
+      "SMC2",
+      "TUBG1"
+    ],
+    "K562": [
+      "DCTN5",
+      "DNM2",
+      "ACTR10",
+      "ARPC1B",
+      "DCTN2",
+      "AHCTF1",
+      "SMC2",
+      "DNM1",
+      "RAB6A",
+      "CNN2"
+    ],
+    "RPE1": [
+      "ACTR10",
+      "TUBB2A",
+      "SMC2",
+      "RACGAP1",
+      "TLN1",
+      "RAB6A",
+      "KATNB1",
+      "NDC80",
+      "NUDCD3",
+      "ACTR8"
+    ]
+  },
+  "CENPT": {
+    "Jurkat": [
+      "MED18",
+      "FGFR1OP",
+      "CENPJ",
+      "CEP192",
+      "CENPP",
+      "NCAPD3",
+      "CENPC",
+      "GINS4",
+      "CIAPIN1",
+      "C18orf21"
+    ],
+    "HepG2": [
+      "GINS1",
+      "FGFR1OP",
+      "CHMP5",
+      "CEP192",
+      "CENPW",
+      "NCAPD3",
+      "MED29",
+      "CENPC",
+      "MED30",
+      "CIAPIN1"
+    ],
+    "K562": [
+      "CCDC84",
+      "CENPC",
+      "CHMP5",
+      "DCTN4",
+      "VPS37C",
+      "MED18",
+      "C18orf21",
+      "MED10",
+      "INTS4",
+      "NCAPD3"
+    ],
+    "RPE1": [
+      "CENPP",
+      "NCAPD3",
+      "CENPJ",
+      "VPS37C",
+      "INTS4",
+      "SENP6",
+      "GINS1",
+      "CENPK",
+      "CENPN",
+      "TRMT5"
+    ]
+  },
+  "RRN3": {
+    "Jurkat": [
+      "RRP12",
+      "CCAR1",
+      "POLR3H",
+      "RBM42",
+      "WDR43",
+      "ZNF559",
+      "TWISTNB",
+      "ZNF84",
+      "SNAPC3",
+      "NOC3L"
+    ],
+    "HepG2": [
+      "POLR1E",
+      "RRP7A",
+      "POLR3E",
+      "RBM42",
+      "ZNF100",
+      "WDR43",
+      "GTF3C1",
+      "PEX1",
+      "ZNF468",
+      "CD3EAP"
+    ],
+    "K562": [
+      "POLR3E",
+      "RRP1",
+      "CD3EAP",
+      "ZNF468",
+      "WDR75",
+      "POLR1E",
+      "WDR43",
+      "RPRD1B",
+      "POLR3K",
+      "NOP2"
+    ],
+    "RPE1": [
+      "MED31",
+      "ZNF143",
+      "NOC3L",
+      "KRR1",
+      "RPRD1B",
+      "GTF3C1",
+      "ZFP69B",
+      "RRP7A",
+      "RRP1",
+      "RRP12"
+    ]
+  },
+  "CPSF1": {
+    "Jurkat": [
+      "NOM1",
+      "SSBP1",
+      "CIAPIN1",
+      "SCNM1",
+      "SAE1",
+      "VPS37C",
+      "SPTSSA",
+      "INTS1",
+      "GTF3C6",
+      "CPSF3"
+    ],
+    "HepG2": [
+      "GTF3C6",
+      "HAUS1",
+      "GTF2A1",
+      "SCNM1",
+      "NOM1",
+      "SSBP1",
+      "SUGP1",
+      "UFM1",
+      "RPS26",
+      "TAF3"
+    ],
+    "K562": [
+      "UFM1",
+      "GINS1",
+      "PDCD11",
+      "SUGP1",
+      "CENPC",
+      "INTS1",
+      "USP5",
+      "SGPP1",
+      "GTF3C6",
+      "C19orf25"
+    ],
+    "RPE1": [
+      "WDR82",
+      "RPS26",
+      "NOM1",
+      "GINS1",
+      "SCNM1",
+      "GTF2A2",
+      "RPA2",
+      "VPS37C",
+      "GTF3C6",
+      "CHAF1A"
+    ]
+  },
+  "TAF6": {
+    "Jurkat": [
+      "TAF11",
+      "GTF3C3",
+      "MED26",
+      "TADA2A",
+      "TAF6L",
+      "TAF5",
+      "TAF1B",
+      "TBPL1",
+      "BTAF1",
+      "GTF2H1"
+    ],
+    "HepG2": [
+      "TAF11",
+      "TAF12",
+      "GTF2E2",
+      "GTF3A",
+      "TAF6L",
+      "BTAF1",
+      "MED7",
+      "GTF2H1",
+      "POLR3F",
+      "TAF13"
+    ],
+    "K562": [
+      "TAF6L",
+      "TAF8",
+      "TBP",
+      "TAF1B",
+      "TAF1C",
+      "TBPL1",
+      "GTF2F2",
+      "GTF2F1",
+      "GTF2H4",
+      "TAF2"
+    ],
+    "RPE1": [
+      "SUPT16H",
+      "GTF2F2",
+      "GTF2B",
+      "TAF10",
+      "TADA2A",
+      "TAF8",
+      "TAF7",
+      "GTF2F1",
+      "ABT1",
+      "TAF2"
+    ]
+  },
+  "DCUN1D5": {
+    "Jurkat": [
+      "CCND3",
+      "NUB1",
+      "CUL7",
+      "DCTN4",
+      "UBQLN4",
+      "COPS5",
+      "NEDD8",
+      "SYF2",
+      "UBE3C",
+      "NUDC"
+    ],
+    "HepG2": [
+      "SKP1",
+      "SPC24",
+      "CDC16",
+      "CCND3",
+      "ANAPC11",
+      "CUL2",
+      "CUL7",
+      "C1D",
+      "SDE2",
+      "CDC42"
+    ],
+    "K562": [
+      "UBQLN4",
+      "UBE3C",
+      "ANAPC11",
+      "NSMCE1",
+      "UCHL5",
+      "CDC42",
+      "CUL7",
+      "CDC16",
+      "CUL1",
+      "DCAF6"
+    ],
+    "RPE1": [
+      "NUDCD3",
+      "SYF2",
+      "CUL2",
+      "CACTIN",
+      "UCHL5",
+      "CDC16",
+      "NSMCE1",
+      "CUL3",
+      "ANAPC11",
+      "RCC1"
+    ]
+  },
+  "LARS": {
+    "Jurkat": [
+      "RARS",
+      "LSG1",
+      "KARS",
+      "HARS",
+      "FARSA",
+      "AARS",
+      "VARS2",
+      "EARS2",
+      "MARS2",
+      "DARS"
+    ],
+    "HepG2": [
+      "FARSB",
+      "KARS",
+      "NARS2",
+      "LAS1L",
+      "LSG1",
+      "HARS",
+      "PARS2",
+      "CARS",
+      "IARS2",
+      "SARS2"
+    ],
+    "K562": [
+      "WARS",
+      "RARS",
+      "SARS2",
+      "FARSB",
+      "AARS2",
+      "QARS",
+      "AARS",
+      "LARS2",
+      "VARS",
+      "VARS2"
+    ],
+    "RPE1": [
+      "NARS",
+      "MARS2",
+      "IARS2",
+      "LARS2",
+      "CARS",
+      "RARS",
+      "IARS",
+      "VARS",
+      "DARS",
+      "VARS2"
+    ]
+  },
+  "EXOSC4": {
+    "Jurkat": [
+      "NOC3L",
+      "EXOSC7",
+      "DDX49",
+      "XPO1",
+      "EXOSC3",
+      "EXOSC5",
+      "EXOSC6",
+      "EIF3B",
+      "UTP11",
+      "THOC1"
+    ],
+    "HepG2": [
+      "EXOSC8",
+      "EXOSC5",
+      "UTP23",
+      "EXOSC6",
+      "THOC7",
+      "UPF3A",
+      "EXOC8",
+      "EXOSC2",
+      "EXOSC1",
+      "YBX3"
+    ],
+    "K562": [
+      "EXOSC5",
+      "THOC3",
+      "MPHOSPH6",
+      "THOC7",
+      "UTP23",
+      "SUPT5H",
+      "UPF3A",
+      "EXOC1",
+      "MEX3A",
+      "THOC5"
+    ],
+    "RPE1": [
+      "XRN1",
+      "THOC7",
+      "THOC3",
+      "MPHOSPH6",
+      "ZFC3H1",
+      "UPF3A",
+      "EXOSC9",
+      "UTP11",
+      "EXOSC7",
+      "DIS3"
+    ]
+  },
+  "NKAP": {
+    "Jurkat": [
+      "KEAP1",
+      "HDAC7",
+      "PDCD5",
+      "NCAPH",
+      "TSR2",
+      "GPS2",
+      "TRRAP",
+      "RAC3",
+      "MKRN1",
+      "SNIP1"
+    ],
+    "HepG2": [
+      "GPS2",
+      "NFKBIE",
+      "KAT7",
+      "KAT5",
+      "NCAPG",
+      "SNIP1",
+      "SET",
+      "NKAPD1",
+      "NCAPD2",
+      "NASP"
+    ],
+    "K562": [
+      "HDAC3",
+      "NCAPD2",
+      "SAP18",
+      "NAT10",
+      "KAT5",
+      "TSR2",
+      "NASP",
+      "AATF",
+      "MNAT1",
+      "PDCD5"
+    ],
+    "RPE1": [
+      "GPS2",
+      "MNAT1",
+      "KAT7",
+      "SAP18",
+      "NFKBIE",
+      "PDCD5",
+      "SYMPK",
+      "NASP",
+      "SET",
+      "NIFK"
+    ]
+  },
+  "MAT2A": {
+    "Jurkat": [
+      "COMTD1",
+      "YARS2",
+      "AASDHPPT",
+      "GATA1",
+      "TFAM",
+      "PRMT1",
+      "METTL17",
+      "SARS2",
+      "PSAT1",
+      "AARS2"
+    ],
+    "HepG2": [
+      "METAP2",
+      "METTL14",
+      "AARS2",
+      "ADAT2",
+      "MARS2",
+      "METTL17",
+      "EHMT2",
+      "YARS2",
+      "PRMT1",
+      "PRMT5"
+    ],
+    "K562": [
+      "AARS2",
+      "N6AMT1",
+      "METTL17",
+      "PSAT1",
+      "ADAT2",
+      "MTPAP",
+      "NAA25",
+      "TRMT6",
+      "PRMT5",
+      "METTL14"
+    ],
+    "RPE1": [
+      "METTL17",
+      "METTL14",
+      "N6AMT1",
+      "YARS2",
+      "TFB1M",
+      "EHMT2",
+      "ADAT2",
+      "FARS2",
+      "ADSL",
+      "METTL3"
+    ]
+  },
+  "PAM16": {
+    "Jurkat": [
+      "TIMM13",
+      "TIMM44",
+      "MRPL18",
+      "VMP1",
+      "RARS2",
+      "NPM1",
+      "HAMP",
+      "LAMTOR2",
+      "MFN2",
+      "HPS5"
+    ],
+    "HepG2": [
+      "PSMD14",
+      "TIMM44",
+      "AIFM1",
+      "PMF1",
+      "MRPL18",
+      "CYCS",
+      "MARS2",
+      "HMGB3",
+      "SPG7",
+      "MFN2"
+    ],
+    "K562": [
+      "RBM17",
+      "SPG7",
+      "MANF",
+      "PMPCB",
+      "LAMTOR2",
+      "TFAM",
+      "TIMM44",
+      "NOP16",
+      "NPM3",
+      "PSMD14"
+    ],
+    "RPE1": [
+      "LAMTOR3",
+      "TIMM13",
+      "SARNP",
+      "PMF1",
+      "PSMD14",
+      "HSP90B1",
+      "GFM1",
+      "HMGB3",
+      "RARS2",
+      "NPM1"
+    ]
+  },
+  "COG6": {
+    "Jurkat": [
+      "VPS54",
+      "THOC6",
+      "COPS6",
+      "SURF6",
+      "COG3",
+      "EXOC1",
+      "SEC16A",
+      "SMG6",
+      "VPS51",
+      "BAG6"
+    ],
+    "HepG2": [
+      "TUBGCP6",
+      "ALG13",
+      "COX6C",
+      "COPS8",
+      "CCT6A",
+      "SURF6",
+      "COQ4",
+      "EXOC7",
+      "EXOC1",
+      "COG4"
+    ],
+    "K562": [
+      "COPS6",
+      "VPS51",
+      "EXOC7",
+      "CCDC115",
+      "COG4",
+      "SMG6",
+      "CCT6A",
+      "COPS5",
+      "COPS8",
+      "VPS54"
+    ],
+    "RPE1": [
+      "CCDC115",
+      "VPS54",
+      "SMG6",
+      "VPS51",
+      "EXOSC6",
+      "SEC16A",
+      "TCOF1",
+      "TMEM199",
+      "EXOC8",
+      "BAG6"
+    ]
+  },
+  "PDCD5": {
+    "Jurkat": [
+      "CDC6",
+      "PDCD7",
+      "CARF",
+      "C1D",
+      "CDK9",
+      "CDC73",
+      "ANAPC5",
+      "KCTD10",
+      "CDC7",
+      "CDC5L"
+    ],
+    "HepG2": [
+      "CDK1",
+      "CDC5L",
+      "CDC23",
+      "CDC27",
+      "KDM5C",
+      "CDC7",
+      "COPS5",
+      "DAXX",
+      "PDCD2",
+      "CDC26"
+    ],
+    "K562": [
+      "CDC16",
+      "CDC7",
+      "CDC27",
+      "POP1",
+      "PDCD11",
+      "CDC5L",
+      "CCND3",
+      "CDC6",
+      "CHEK1",
+      "C1D"
+    ],
+    "RPE1": [
+      "C1D",
+      "CDC26",
+      "JMJD6",
+      "PDCD6IP",
+      "CDC73",
+      "CDC16",
+      "ANAPC5",
+      "CDK9",
+      "POP1",
+      "KCTD10"
+    ]
+  },
+  "ABHD11": {
+    "Jurkat": [
+      "DHX15",
+      "GNB1L",
+      "WDR12",
+      "DHX9",
+      "PAFAH1B1",
+      "ATP6V1H",
+      "DOHH",
+      "PFDN5",
+      "AAAS",
+      "WDR33"
+    ],
+    "HepG2": [
+      "WDR18",
+      "WDR1",
+      "DLD",
+      "WDR12",
+      "AASDHPPT",
+      "HSD17B12",
+      "PAFAH1B1",
+      "JMJD6",
+      "HSD17B10",
+      "HSP90B1"
+    ],
+    "K562": [
+      "AASDHPPT",
+      "WDR4",
+      "PGD",
+      "ALG13",
+      "HSD17B12",
+      "JMJD6",
+      "HSP90B1",
+      "DHX9",
+      "PAFAH1B1",
+      "AAAS"
+    ],
+    "RPE1": [
+      "DHX9",
+      "ALG13",
+      "WDR4",
+      "PFDN5",
+      "WDR18",
+      "AASDHPPT",
+      "ABCE1",
+      "ARID5B",
+      "SDR39U1",
+      "WDR5"
+    ]
+  },
+  "COG4": {
+    "Jurkat": [
+      "COG1",
+      "SEC16A",
+      "COA5",
+      "DDOST",
+      "TUBGCP4",
+      "VPS51",
+      "ALG14",
+      "TRAPPC3",
+      "COG3",
+      "TRAPPC4"
+    ],
+    "HepG2": [
+      "DPAGT1",
+      "COG6",
+      "TRAPPC3",
+      "COA5",
+      "ALG14",
+      "EXOC8",
+      "COG1",
+      "STT3B",
+      "TRAPPC1",
+      "EXOC4"
+    ],
+    "K562": [
+      "TMEM199",
+      "COPS4",
+      "STT3B",
+      "ALG13",
+      "SEC16A",
+      "ALG11",
+      "DPAGT1",
+      "VPS51",
+      "COA5",
+      "CCDC115"
+    ],
+    "RPE1": [
+      "COPS8",
+      "SEC16A",
+      "COPS5",
+      "DPAGT1",
+      "COG3",
+      "COG1",
+      "ALG11",
+      "TRAPPC4",
+      "ALG13",
+      "STT3B"
+    ]
+  },
+  "CHCHD4": {
+    "Jurkat": [
+      "EIF2S1",
+      "INTS4",
+      "NUP43",
+      "TTC27",
+      "TIMM9",
+      "SOD2",
+      "CHCHD1",
+      "CHD4",
+      "PDCD11",
+      "CHMP4B"
+    ],
+    "HepG2": [
+      "PFDN6",
+      "HAUS5",
+      "PDCD11",
+      "CCT4",
+      "TIMM9",
+      "CHMP4B",
+      "SCNM1",
+      "GTF3C6",
+      "CHMP5",
+      "CHCHD2"
+    ],
+    "K562": [
+      "BTF3",
+      "CHCHD3",
+      "SCNM1",
+      "DCLRE1B",
+      "C19orf53",
+      "GTF3C6",
+      "CCT4",
+      "MED11",
+      "GUCD1",
+      "NUP43"
+    ],
+    "RPE1": [
+      "C19orf53",
+      "GTF3C6",
+      "SENP6",
+      "CHMP4B",
+      "MED11",
+      "CHCHD2",
+      "CCT4",
+      "DCLRE1B",
+      "PDCD11",
+      "PFDN6"
+    ]
+  },
+  "PPP1R8": {
+    "Jurkat": [
+      "PPP1R37",
+      "PPA2",
+      "PPIA",
+      "PPP4C",
+      "RAC1",
+      "UBL5",
+      "TPP2",
+      "PPME1",
+      "RPIA",
+      "PNPT1"
+    ],
+    "HepG2": [
+      "PPP1R37",
+      "PPP1R11",
+      "PPP1R15B",
+      "RAC1",
+      "PPIH",
+      "RPS3",
+      "PPIL2",
+      "RPS8",
+      "PPP1CB",
+      "UBL5"
+    ],
+    "K562": [
+      "PTPN1",
+      "PPP1R15B",
+      "PPME1",
+      "PPP1R11",
+      "PPIA",
+      "PPP2R3C",
+      "PPA1",
+      "PPIH",
+      "PPP1CB",
+      "TPP2"
+    ],
+    "RPE1": [
+      "PPIE",
+      "PPP6C",
+      "PPP1CB",
+      "PPP1R37",
+      "PPP2R3C",
+      "PPME1",
+      "PTPN1",
+      "PPIH",
+      "RPIA",
+      "PTPN23"
+    ]
+  },
+  "EXOC7": {
+    "Jurkat": [
+      "XPO5",
+      "EXOC3",
+      "EXOC1",
+      "SEC16A",
+      "COG2",
+      "EXOC2",
+      "EXOSC6",
+      "EXOC5",
+      "TMEM127",
+      "TRAPPC3"
+    ],
+    "HepG2": [
+      "VPS37A",
+      "VPS28",
+      "USP8",
+      "EXOC4",
+      "SNF8",
+      "VPS13D",
+      "EXOC5",
+      "SLC39A7",
+      "EXOSC6",
+      "EXOC1"
+    ],
+    "K562": [
+      "EXOC2",
+      "EXOSC8",
+      "TRAPPC3",
+      "EXOSC7",
+      "EXOC1",
+      "VPS33A",
+      "TMEM127",
+      "VPS13D",
+      "VPS51",
+      "COG6"
+    ],
+    "RPE1": [
+      "XPO5",
+      "VPS51",
+      "EXOC8",
+      "VPS25",
+      "EXOC4",
+      "EXOSC9",
+      "USP8",
+      "EXOC2",
+      "EXOSC1",
+      "COG6"
+    ]
+  },
+  "TRMT6": {
+    "Jurkat": [
+      "TRMT10C",
+      "DIMT1",
+      "TRNT1",
+      "METTL14",
+      "TSFM",
+      "PRMT1",
+      "TRA2B",
+      "CTU2",
+      "METTL1",
+      "TRMT5"
+    ],
+    "HepG2": [
+      "CMTR2",
+      "TRMT112",
+      "TRA2B",
+      "TARS2",
+      "N6AMT1",
+      "SARS2",
+      "METTL14",
+      "SNRNP27",
+      "TRMT10C",
+      "EMG1"
+    ],
+    "K562": [
+      "SARS2",
+      "DIMT1",
+      "TRNT1",
+      "TRA2B",
+      "EHMT2",
+      "EMG1",
+      "MRM1",
+      "MTHFD1",
+      "MRTO4",
+      "CTU2"
+    ],
+    "RPE1": [
+      "EXOSC6",
+      "MRTO4",
+      "KDM6A",
+      "SETD1A",
+      "TRMT10C",
+      "TRA2B",
+      "TRNT1",
+      "CMTR2",
+      "TFB1M",
+      "TARS2"
+    ]
+  },
+  "TMEM199": {
+    "Jurkat": [
+      "VPS51",
+      "EMC1",
+      "COG3",
+      "TMEM214",
+      "TADA1",
+      "VPS35",
+      "COG6",
+      "TMEM258",
+      "SEC16A",
+      "BET1"
+    ],
+    "HepG2": [
+      "EMC1",
+      "VPS35",
+      "VPS13D",
+      "TMX2",
+      "SACM1L",
+      "COG2",
+      "BET1",
+      "TMEM127",
+      "PIGH",
+      "TRAPPC1"
+    ],
+    "K562": [
+      "COG6",
+      "CCDC115",
+      "TMEM258",
+      "TRAPPC3",
+      "TMEM214",
+      "TADA1",
+      "COG2",
+      "SEC16A",
+      "SACM1L",
+      "COPE"
+    ],
+    "RPE1": [
+      "VPS35",
+      "COG2",
+      "TMEM242",
+      "PIGH",
+      "TMED10",
+      "TIMM13",
+      "TMEM214",
+      "VPS51",
+      "COG3",
+      "TADA1"
+    ]
+  },
+  "VPS29": {
+    "Jurkat": [
+      "TRAPPC3",
+      "ATP6V1A",
+      "VPS51",
+      "AP2M1",
+      "VPS33A",
+      "ATP6V1C1",
+      "ATP6V1F",
+      "VBP1",
+      "ATP6V1B2",
+      "VPS35"
+    ],
+    "HepG2": [
+      "VPS51",
+      "TRAPPC3",
+      "VPS13D",
+      "ATP6V1F",
+      "TRAPPC1",
+      "ATP6V1E1",
+      "VPS33A",
+      "SMC2",
+      "ATP6V1G1",
+      "VPS41"
+    ],
+    "K562": [
+      "VMP1",
+      "USP8",
+      "ATP6V1G1",
+      "ATP6V1C1",
+      "ATP6AP2",
+      "VPS28",
+      "TMEM199",
+      "VPS51",
+      "AP2M1",
+      "VPS18"
+    ],
+    "RPE1": [
+      "ATP6V0B",
+      "VMP1",
+      "ATP6V1G1",
+      "ATP6V1C1",
+      "ATP6V1F",
+      "USP8",
+      "ATP6V0C",
+      "VPS25",
+      "TRAPPC1",
+      "ATP6AP1"
+    ]
+  },
+  "EXOSC5": {
+    "Jurkat": [
+      "DDX5",
+      "THOC1",
+      "EXOSC1",
+      "EXOSC8",
+      "DDX19A",
+      "ISG20L2",
+      "EXOSC9",
+      "EXOSC2",
+      "DDX49",
+      "EXOC5"
+    ],
+    "HepG2": [
+      "THOC7",
+      "EXOSC8",
+      "EXOC1",
+      "ESF1",
+      "EXOC7",
+      "XPO5",
+      "EXOC5",
+      "POLR3E",
+      "EXOSC1",
+      "DDX5"
+    ],
+    "K562": [
+      "XRN1",
+      "PARN",
+      "EXOSC9",
+      "EXOSC10",
+      "THOC1",
+      "DDX3X",
+      "EDC4",
+      "DNAJC17",
+      "ZFC3H1",
+      "DDX49"
+    ],
+    "RPE1": [
+      "DDX5",
+      "ZFC3H1",
+      "MPHOSPH6",
+      "EXOC5",
+      "POLR3E",
+      "EXOSC10",
+      "THOC5",
+      "DDX3X",
+      "EXOSC3",
+      "REXO2"
+    ]
+  },
+  "SLU7": {
+    "Jurkat": [
+      "SF3B2",
+      "CWC22",
+      "TSEN34",
+      "PRPF8",
+      "PRPF18",
+      "PHF5A",
+      "SF3B3",
+      "PRPF4B",
+      "SRSF6",
+      "CWC25"
+    ],
+    "HepG2": [
+      "CWC22",
+      "PRPF18",
+      "ZCRB1",
+      "TSEN2",
+      "CTU2",
+      "SLC39A7",
+      "SMU1",
+      "SNRNP27",
+      "TSEN34",
+      "ZRSR2"
+    ],
+    "K562": [
+      "PHF5A",
+      "SF3B3",
+      "SMU1",
+      "PRPF8",
+      "SNRNP200",
+      "SAP130",
+      "SNRNP25",
+      "PRPF3",
+      "LSM2",
+      "LUC7L3"
+    ],
+    "RPE1": [
+      "PRPF3",
+      "SF3B3",
+      "SF3B4",
+      "LUC7L3",
+      "CTU2",
+      "SLC39A7",
+      "RNPC3",
+      "PRPF4B",
+      "NUDT21",
+      "SF3B5"
+    ]
+  },
+  "NSUN4": {
+    "Jurkat": [
+      "UTP25",
+      "RRS1",
+      "NOC4L",
+      "MRM1",
+      "NOL10",
+      "METTL14",
+      "EBNA1BP2",
+      "MALSU1",
+      "NIP7",
+      "NOL11"
+    ],
+    "HepG2": [
+      "METTL17",
+      "RNMT",
+      "NOL10",
+      "RPUSD4",
+      "MALSU1",
+      "METTL16",
+      "RPL7L1",
+      "TRMT112",
+      "UTP3",
+      "NSRP1"
+    ],
+    "K562": [
+      "U2SURP",
+      "WDR46",
+      "NSRP1",
+      "UTP3",
+      "EBNA1BP2",
+      "RPL7L1",
+      "URB1",
+      "URM1",
+      "RRP7A",
+      "METTL14"
+    ],
+    "RPE1": [
+      "CWC15",
+      "TRMT112",
+      "NOC4L",
+      "METTL17",
+      "UTP23",
+      "NIP7",
+      "MRM1",
+      "NOL11",
+      "URB1",
+      "UTP6"
+    ]
+  },
+  "MVD": {
+    "Jurkat": [
+      "DPAGT1",
+      "CMPK1",
+      "PPME1",
+      "FDPS",
+      "DHODH",
+      "MCEE",
+      "COASY",
+      "PCM1",
+      "MOCS3",
+      "PPA1"
+    ],
+    "HepG2": [
+      "PPA2",
+      "DTYMK",
+      "PPME1",
+      "CPOX",
+      "COASY",
+      "MCEE",
+      "MOCS3",
+      "PGD",
+      "DHODH",
+      "DHDDS"
+    ],
+    "K562": [
+      "PGD",
+      "TPI1",
+      "HSD17B10",
+      "DPAGT1",
+      "PDHA1",
+      "HMGCR",
+      "COASY",
+      "PTGR2",
+      "DHDDS",
+      "GMPPB"
+    ],
+    "RPE1": [
+      "PMPCB",
+      "PPME1",
+      "HSD17B10",
+      "CMPK1",
+      "DHDDS",
+      "UMPS",
+      "AASDHPPT",
+      "FDPS",
+      "CPOX",
+      "HMGCR"
+    ]
+  },
+  "EIF2B1": {
+    "Jurkat": [
+      "EIF2B2",
+      "EIF4E",
+      "EIF1",
+      "EIF3I",
+      "EIF1AD",
+      "EIF3L",
+      "EIF4G1",
+      "GTF2B",
+      "EIF4B",
+      "EIF2B5"
+    ],
+    "HepG2": [
+      "EIF1",
+      "EIF2B4",
+      "GTF2E2",
+      "EIF3D",
+      "EIF3G",
+      "EIF4G2",
+      "EIF3I",
+      "EIF2B5",
+      "EIF4H",
+      "EIF1AX"
+    ],
+    "K562": [
+      "EIF2S2",
+      "EIF3G",
+      "EIF3D",
+      "EIF3L",
+      "EIF4E",
+      "EIF2B2",
+      "EIF3J",
+      "EIF4G2",
+      "GTF2E2",
+      "GTF2H3"
+    ],
+    "RPE1": [
+      "EIF4B",
+      "EEF1G",
+      "GTF2H3",
+      "EIF3E",
+      "EIF2B2",
+      "EIF3G",
+      "EIF4G2",
+      "EIF2B4",
+      "EEF1B2",
+      "EIF3I"
+    ]
+  },
+  "MRPL3": {
+    "Jurkat": [
+      "MRPL15",
+      "MRPL10",
+      "MRPL49",
+      "MRPL13",
+      "MRPL45",
+      "MRPL44",
+      "MRPL51",
+      "MRPL54",
+      "MRPL2",
+      "MRPL28"
+    ],
+    "HepG2": [
+      "MRPL44",
+      "MRPL16",
+      "MRPL17",
+      "MRPL15",
+      "RPL13",
+      "MRPL41",
+      "MRPL2",
+      "MRPL10",
+      "MRPL35",
+      "MRPL23"
+    ],
+    "K562": [
+      "MRPL50",
+      "MRPL42",
+      "MRPL49",
+      "BRIP1",
+      "MRPL51",
+      "MRPL23",
+      "MRPL39",
+      "MRPL28",
+      "MRPL2",
+      "MRPL20"
+    ],
+    "RPE1": [
+      "MRPL15",
+      "MRPL1",
+      "MRPL38",
+      "MRPL19",
+      "MRPL13",
+      "MRPL20",
+      "MRPL46",
+      "MRPL4",
+      "MRPL23",
+      "MRPL50"
+    ]
+  },
+  "XPO5": {
+    "Jurkat": [
+      "HNRNPA1",
+      "IPO13",
+      "EXOSC9",
+      "EXOC1",
+      "RANGAP1",
+      "NPM3",
+      "IPO7",
+      "HNRNPR",
+      "NUP107",
+      "STX5"
+    ],
+    "HepG2": [
+      "EXOSC8",
+      "NUP35",
+      "EXOSC1",
+      "XRN2",
+      "NUP205",
+      "EXOSC3",
+      "HNRNPR",
+      "EXOSC5",
+      "EXOC8",
+      "EXOSC6"
+    ],
+    "K562": [
+      "NUP85",
+      "HNRNPA1",
+      "EXOC1",
+      "NUP205",
+      "NPM3",
+      "XRN1",
+      "EXOSC9",
+      "EXOC5",
+      "STX5",
+      "NOP58"
+    ],
+    "RPE1": [
+      "EXOSC1",
+      "NUP85",
+      "EXOSC8",
+      "NPM3",
+      "XPO1",
+      "EXOC7",
+      "HNRNPR",
+      "RANGAP1",
+      "IPO13",
+      "EXOC5"
+    ]
+  },
+  "DDX20": {
+    "Jurkat": [
+      "DDX42",
+      "DDX21",
+      "DHX15",
+      "DDX41",
+      "GEMIN5",
+      "DDX55",
+      "DHX37",
+      "DDX3X",
+      "DDX23",
+      "SNRNP200"
+    ],
+    "HepG2": [
+      "DDX55",
+      "GEMIN5",
+      "DDX18",
+      "DDX10",
+      "DHX15",
+      "DDX19B",
+      "DHX29",
+      "DDX27",
+      "DDX23",
+      "DDX21"
+    ],
+    "K562": [
+      "DDX42",
+      "DDX56",
+      "DHX37",
+      "GEMIN4",
+      "DHX33",
+      "DHX15",
+      "EIF4A3",
+      "DDX19A",
+      "DDX10",
+      "INTS6"
+    ],
+    "RPE1": [
+      "DDX19B",
+      "DNM1",
+      "DDX6",
+      "DHX9",
+      "DDX19A",
+      "INTS6",
+      "DDX11",
+      "DDX41",
+      "GEMIN4",
+      "DDX18"
+    ]
+  },
+  "EMC4": {
+    "Jurkat": [
+      "EIF4E",
+      "SEC62",
+      "SEC61G",
+      "MMGT1",
+      "SACM1L",
+      "ATL2",
+      "TMED2",
+      "EMC1",
+      "TMEM127",
+      "BET1"
+    ],
+    "HepG2": [
+      "ELP5",
+      "TIMM13",
+      "SACM1L",
+      "MMGT1",
+      "SEC61G",
+      "SEC61B",
+      "EIF4E",
+      "TMEM161B",
+      "EMC7",
+      "TMEM242"
+    ],
+    "K562": [
+      "EMC1",
+      "TMEM161B",
+      "MMGT1",
+      "TAMM41",
+      "TMEM242",
+      "EMC7",
+      "TIMM13",
+      "EIF5A",
+      "ELP4",
+      "SEC61B"
+    ],
+    "RPE1": [
+      "EIF4E",
+      "ELP4",
+      "TIMM13",
+      "TMEM127",
+      "TAMM41",
+      "MMGT1",
+      "ICE1",
+      "TMED2",
+      "SEC61B",
+      "EIF5A"
+    ]
+  },
+  "BCLAF1": {
+    "Jurkat": [
+      "BPTF",
+      "AIFM1",
+      "PDCD2",
+      "C1D",
+      "TSR2",
+      "SYF2",
+      "DAXX",
+      "PDCD6IP",
+      "BANP",
+      "NAA35"
+    ],
+    "HepG2": [
+      "SET",
+      "DAXX",
+      "ING3",
+      "NAA35",
+      "TRAIP",
+      "CTCF",
+      "TGS1",
+      "BARD1",
+      "CASP8AP2",
+      "BAG6"
+    ],
+    "K562": [
+      "BANP",
+      "PDCD2",
+      "ASF1B",
+      "TGS1",
+      "C1D",
+      "BAG6",
+      "MCL1",
+      "CLNS1A",
+      "LRR1",
+      "PDCD5"
+    ],
+    "RPE1": [
+      "MYBL2",
+      "BPTF",
+      "PDCD2",
+      "PDCD6IP",
+      "FAM32A",
+      "TRAIP",
+      "THAP1",
+      "BAG6",
+      "C1D",
+      "CLNS1A"
+    ]
+  },
+  "ABCB7": {
+    "Jurkat": [
+      "NUBP1",
+      "TIMM44",
+      "TOMM40",
+      "ATP6V1C1",
+      "TOMM20",
+      "ATP6V1G1",
+      "ATP6AP2",
+      "DNAJC19",
+      "ATP6AP1",
+      "TIMM13"
+    ],
+    "HepG2": [
+      "NUBP1",
+      "ATP6AP2",
+      "SLC2A8",
+      "ATP5F1A",
+      "SLC16A5",
+      "ATP6V1G1",
+      "ATP5F1B",
+      "SLC35B1",
+      "BET1",
+      "ATP5F1C"
+    ],
+    "K562": [
+      "SLC16A5",
+      "ATP5F1C",
+      "ATP5F1B",
+      "AP2M1",
+      "DNAJC19",
+      "ATP6V1H",
+      "SLC25A42",
+      "ABCE1",
+      "SLC35B1",
+      "SLC25A3"
+    ],
+    "RPE1": [
+      "ATP5F1C",
+      "SMC2",
+      "ATP5F1B",
+      "CYCS",
+      "ATP5F1A",
+      "TIMM13",
+      "SLC39A7",
+      "ATP6V1C1",
+      "ATP6AP1",
+      "SLC25A42"
+    ]
+  },
+  "PAXBP1": {
+    "Jurkat": [
+      "MYBBP1A",
+      "TOX4",
+      "ZNF559",
+      "STRAP",
+      "MYCBP",
+      "SRFBP1",
+      "HMX3",
+      "TWISTNB",
+      "EBNA1BP2",
+      "RBM42"
+    ],
+    "HepG2": [
+      "NOP2",
+      "MYBBP1A",
+      "SFPQ",
+      "PABPC4",
+      "RBM42",
+      "WBP1L",
+      "SNAPC1",
+      "TOX4",
+      "RRN3",
+      "HMX3"
+    ],
+    "K562": [
+      "MIS18BP1",
+      "STRAP",
+      "TWISTNB",
+      "ZFP69B",
+      "SFPQ",
+      "POLA2",
+      "RBM42",
+      "POLR1E",
+      "DDX49",
+      "SNAPC3"
+    ],
+    "RPE1": [
+      "POLA2",
+      "EBNA1BP2",
+      "PEX1",
+      "EPB41L2",
+      "TWISTNB",
+      "MIS18BP1",
+      "STXBP4",
+      "NOP2",
+      "ADNP2",
+      "DNAJC17"
+    ]
+  },
+  "ORC5": {
+    "Jurkat": [
+      "ORC4",
+      "CDT1",
+      "MCM3",
+      "CDC45",
+      "RFC2",
+      "PLRG1",
+      "CDC16",
+      "GINS3",
+      "MCM7",
+      "NOC3L"
+    ],
+    "HepG2": [
+      "MCM7",
+      "HUS1",
+      "ANAPC5",
+      "ERCC3",
+      "CDC45",
+      "CDC16",
+      "CDC26",
+      "GINS3",
+      "RFC3",
+      "MCM10"
+    ],
+    "K562": [
+      "PRIM1",
+      "CDC6",
+      "MCM4",
+      "RFC3",
+      "MCM3",
+      "MCM6",
+      "CDC45",
+      "CDC26",
+      "ORC4",
+      "CDC23"
+    ],
+    "RPE1": [
+      "CDC26",
+      "ORC3",
+      "MCM6",
+      "RAD17",
+      "ORC6",
+      "CDC45",
+      "CDT1",
+      "CDC16",
+      "ANAPC5",
+      "MCM5"
+    ]
+  },
+  "TSEN2": {
+    "Jurkat": [
+      "SRSF10",
+      "SNRNP200",
+      "TFIP11",
+      "CTU2",
+      "SNAPC2",
+      "TARS2",
+      "TOE1",
+      "TSEN34",
+      "SNRPD1",
+      "ELAC2"
+    ],
+    "HepG2": [
+      "TSEN34",
+      "SNAPC2",
+      "TSEN54",
+      "TFIP11",
+      "RNPC3",
+      "SETX",
+      "TXNL4A",
+      "RBM17",
+      "INTS8",
+      "ZRSR2"
+    ],
+    "K562": [
+      "ISG20L2",
+      "ZRSR2",
+      "SARS2",
+      "SNRNP27",
+      "XRN1",
+      "ZCRB1",
+      "HNRNPR",
+      "SETX",
+      "RNPC3",
+      "XRN2"
+    ],
+    "RPE1": [
+      "RBM17",
+      "XRN1",
+      "INTS8",
+      "SNRNP25",
+      "SNAPC2",
+      "SNRPD3",
+      "ELAC2",
+      "TOE1",
+      "TSEN54",
+      "SETX"
+    ]
+  },
+  "TARS2": {
+    "Jurkat": [
+      "FARSA",
+      "TSEN2",
+      "MARS2",
+      "RARS",
+      "PARS2",
+      "YARS",
+      "CARS",
+      "LARS2",
+      "FARSB",
+      "AARS"
+    ],
+    "HepG2": [
+      "FARS2",
+      "PARS2",
+      "IARS2",
+      "WARS",
+      "TARS",
+      "TSEN2",
+      "CTU2",
+      "DARS",
+      "AARS2",
+      "IARS"
+    ],
+    "K562": [
+      "RARS",
+      "TARS",
+      "PARS2",
+      "KARS",
+      "EARS2",
+      "EPRS",
+      "AARS2",
+      "IARS",
+      "AAR2",
+      "SRSF10"
+    ],
+    "RPE1": [
+      "RARS2",
+      "DARS",
+      "LARS",
+      "VARS",
+      "YARS",
+      "FARSA",
+      "IARS2",
+      "HARS",
+      "KARS",
+      "CTU2"
+    ]
+  },
+  "MRPL24": {
+    "Jurkat": [
+      "MRPL54",
+      "MRPL39",
+      "MRPL1",
+      "MRPL2",
+      "MRPL55",
+      "MRPL45",
+      "MRPL4",
+      "MRPL22",
+      "MRPL19",
+      "MRPL35"
+    ],
+    "HepG2": [
+      "MRPL16",
+      "MRPL35",
+      "RPL23",
+      "MRPL37",
+      "MRPL44",
+      "MRPL45",
+      "MRPL15",
+      "MRPL19",
+      "RPL13",
+      "MRPL20"
+    ],
+    "K562": [
+      "MRPL44",
+      "MRPL38",
+      "MRPL41",
+      "MRPL50",
+      "MRPL51",
+      "MRPL42",
+      "MRPL2",
+      "MRPL33",
+      "MRPL27",
+      "RPL13"
+    ],
+    "RPE1": [
+      "MRPL45",
+      "MRPL46",
+      "MRPL39",
+      "MRPL34",
+      "MRPL13",
+      "MRPL17",
+      "MRPL54",
+      "MRPL1",
+      "MRPL22",
+      "MRPL42"
+    ]
+  },
+  "WDHD1": {
+    "Jurkat": [
+      "KDM1A",
+      "GEMIN5",
+      "WDR4",
+      "PWP1",
+      "GNB1L",
+      "WDR25",
+      "WDR44",
+      "HMGN2",
+      "WDR5",
+      "SETD1A"
+    ],
+    "HepG2": [
+      "WDR33",
+      "WDR12",
+      "WDR77",
+      "PWP1",
+      "TBL3",
+      "WDTC1",
+      "GNB1L",
+      "KDM5C",
+      "WDR1",
+      "WDR18"
+    ],
+    "K562": [
+      "SETD2",
+      "FBXW7",
+      "HMGN2",
+      "KDM1A",
+      "WDR4",
+      "WDR25",
+      "WDR5",
+      "WDTC1",
+      "SETD1A",
+      "PWP1"
+    ],
+    "RPE1": [
+      "WDR4",
+      "WDR33",
+      "WDR7",
+      "SETD1A",
+      "JMJD6",
+      "HMGN2",
+      "SETD2",
+      "WDR5",
+      "WDR25",
+      "WDR12"
+    ]
+  },
+  "NAA35": {
+    "Jurkat": [
+      "NAT10",
+      "NAA30",
+      "NFATC2IP",
+      "RRP12",
+      "TRIAP1",
+      "PGAM5",
+      "CNOT10",
+      "UTP11",
+      "NOP2",
+      "SMG8"
+    ],
+    "HepG2": [
+      "NPLOC4",
+      "NAA20",
+      "NAA15",
+      "TRIAP1",
+      "NAT10",
+      "UTP11",
+      "NFATC2IP",
+      "PGAM5",
+      "TMEM214",
+      "TP53I13"
+    ],
+    "K562": [
+      "CACTIN",
+      "PGAM5",
+      "NAT10",
+      "TMEM214",
+      "NDC1",
+      "SMG8",
+      "NSA2",
+      "RRP12",
+      "TP53I13",
+      "PLEKHN1"
+    ],
+    "RPE1": [
+      "BAG6",
+      "NPLOC4",
+      "PTMA",
+      "CNOT10",
+      "NEDD1",
+      "POP4",
+      "NAA25",
+      "NSA2",
+      "TRIAP1",
+      "NVL"
+    ]
+  },
+  "DRG1": {
+    "Jurkat": [
+      "VPS37C",
+      "SUGP1",
+      "SCNM1",
+      "UFM1",
+      "LEO1",
+      "BTF3",
+      "SAE1",
+      "TADA2B",
+      "EIF2S1",
+      "SLC39A10"
+    ],
+    "HepG2": [
+      "SCNM1",
+      "TADA2B",
+      "SPTSSA",
+      "TAF3",
+      "SUGP1",
+      "INTS1",
+      "NOM1",
+      "TAF1D",
+      "NAA20",
+      "NOB1"
+    ],
+    "K562": [
+      "TAF1D",
+      "MTG2",
+      "BTF3",
+      "BTF3L4",
+      "SPTSSA",
+      "CHAF1A",
+      "SUGP1",
+      "UFM1",
+      "NOB1",
+      "SCNM1"
+    ],
+    "RPE1": [
+      "ATP11B",
+      "NOM1",
+      "INTS11",
+      "TAF3",
+      "TAF1D",
+      "TTC27",
+      "GTF2A1",
+      "EIF2S1",
+      "GTF2A2",
+      "SLC1A5"
+    ]
+  },
+  "GMPPB": {
+    "Jurkat": [
+      "GMPS",
+      "GGPS1",
+      "GLB1",
+      "PPP2R3C",
+      "MTPAP",
+      "PPA1",
+      "PPA2",
+      "GNPNAT1",
+      "DPY19L4",
+      "GUK1"
+    ],
+    "HepG2": [
+      "PMF1",
+      "GNPNAT1",
+      "PPP2CB",
+      "PPP1R8",
+      "RPIA",
+      "DPY19L4",
+      "GMPS",
+      "ALG11",
+      "PPA2",
+      "PPA1"
+    ],
+    "K562": [
+      "TPI1",
+      "PPP2CB",
+      "PPP1R8",
+      "PPP2CA",
+      "MTPAP",
+      "GUK1",
+      "GNPNAT1",
+      "PPA2",
+      "PMPCB",
+      "PPP6C"
+    ],
+    "RPE1": [
+      "PPP1R8",
+      "PMF1",
+      "CMPK1",
+      "DPAGT1",
+      "GPN1",
+      "DPY19L4",
+      "PPP2CB",
+      "UMPS",
+      "PGK1",
+      "PPA1"
+    ]
+  },
+  "HUWE1": {
+    "Jurkat": [
+      "RNF8",
+      "NSMCE2",
+      "HYOU1",
+      "UBAP1",
+      "USP14",
+      "UBR5",
+      "MAX",
+      "VHL",
+      "FBXW7",
+      "UBA3"
+    ],
+    "HepG2": [
+      "HECTD1",
+      "USP36",
+      "CUL7",
+      "UBA1",
+      "USP8",
+      "UBA3",
+      "SUMO2",
+      "UHRF1",
+      "FBXW7",
+      "UBE3C"
+    ],
+    "K562": [
+      "UBE2D3",
+      "CUL7",
+      "UBE2L3",
+      "UBAP1",
+      "UBA3",
+      "UBE2M",
+      "UBA1",
+      "UBE2H",
+      "SUMO2",
+      "USP8"
+    ],
+    "RPE1": [
+      "UBE2D3",
+      "RPF1",
+      "URI1",
+      "UBE2H",
+      "UHRF1",
+      "UBE2Z",
+      "BAG6",
+      "RNF8",
+      "UBE3C",
+      "CUL7"
+    ]
+  },
+  "PPP6C": {
+    "Jurkat": [
+      "GGPS1",
+      "PPP2CB",
+      "PTPN11",
+      "PNPT1",
+      "PLRG1",
+      "PTPN1",
+      "CDC5L",
+      "PPP2R3C",
+      "PPA2",
+      "MPHOSPH10"
+    ],
+    "HepG2": [
+      "PLRG1",
+      "PPP1R2",
+      "CDK2",
+      "PPP2CA",
+      "PLK1",
+      "PTPN23",
+      "PTPN11",
+      "CDK1",
+      "PNPT1",
+      "PPP1R11"
+    ],
+    "K562": [
+      "CDK2",
+      "PPP2CB",
+      "PPP1R2",
+      "PPP2R3C",
+      "PTPN23",
+      "PPP1R37",
+      "PPA2",
+      "PPME1",
+      "PLK1",
+      "RPS6"
+    ],
+    "RPE1": [
+      "PPP1CB",
+      "PPP4R2",
+      "PPP1R37",
+      "PLK1",
+      "RPS6",
+      "MPHOSPH10",
+      "PPP2CB",
+      "PPP1R8",
+      "CCNC",
+      "PPA1"
+    ]
+  },
+  "IARS2": {
+    "Jurkat": [
+      "NARS2",
+      "IARS",
+      "TARS",
+      "FARSB",
+      "AAR2",
+      "VARS2",
+      "SARS2",
+      "VARS",
+      "TARS2",
+      "QARS"
+    ],
+    "HepG2": [
+      "SARS2",
+      "PARS2",
+      "SEPSECS",
+      "CARS",
+      "IARS",
+      "VARS2",
+      "TARS",
+      "FARS2",
+      "CTU2",
+      "TARS2"
+    ],
+    "K562": [
+      "AAR2",
+      "LARS2",
+      "TARS",
+      "LARS",
+      "SARS2",
+      "NARS2",
+      "RARS",
+      "NARS",
+      "CTU2",
+      "CARS"
+    ],
+    "RPE1": [
+      "NARS2",
+      "MARS2",
+      "PARS2",
+      "AAR2",
+      "DARS",
+      "RARS2",
+      "NARS",
+      "FARS2",
+      "HARS",
+      "FARSB"
+    ]
+  },
+  "RNGTT": {
+    "Jurkat": [
+      "RRN3",
+      "KRR1",
+      "ZC3H18",
+      "RRP12",
+      "RABGGTA",
+      "UTP23",
+      "THUMPD1",
+      "CD3EAP",
+      "UTP18",
+      "SRRT"
+    ],
+    "HepG2": [
+      "CD3EAP",
+      "GNL2",
+      "THUMPD1",
+      "KTI12",
+      "UTP18",
+      "SRRT",
+      "RNMT",
+      "ZC3H18",
+      "UTP25",
+      "CMTR2"
+    ],
+    "K562": [
+      "TSR1",
+      "KRR1",
+      "RABGGTA",
+      "ZRANB2",
+      "UTP3",
+      "RRN3",
+      "NIP7",
+      "ADAT2",
+      "GTF3C4",
+      "CD3EAP"
+    ],
+    "RPE1": [
+      "TSR1",
+      "ADAT2",
+      "RABGGTA",
+      "RAMAC",
+      "GPN1",
+      "RNMT",
+      "UTP25",
+      "ZC3H18",
+      "KRR1",
+      "GNL2"
+    ]
+  },
+  "PGS1": {
+    "Jurkat": [
+      "SPCS2",
+      "DAP3",
+      "FDPS",
+      "TAMM41",
+      "PSMG1",
+      "PPP4C",
+      "PDRG1",
+      "PIGH",
+      "LPIN1",
+      "GGPS1"
+    ],
+    "HepG2": [
+      "DPAGT1",
+      "OSGEP",
+      "TLCD1",
+      "PRELID3B",
+      "PDRG1",
+      "HMGCS1",
+      "SRP9",
+      "PTPMT1",
+      "TAMM41",
+      "PLEKHN1"
+    ],
+    "K562": [
+      "GGPS1",
+      "POGLUT3",
+      "OSGEP",
+      "DPY19L4",
+      "DPAGT1",
+      "PIGH",
+      "PDPK1",
+      "GNPNAT1",
+      "PDRG1",
+      "PPP4C"
+    ],
+    "RPE1": [
+      "PPP1R37",
+      "PLEKHN1",
+      "TLCD1",
+      "SPCS2",
+      "DPAGT1",
+      "PGK1",
+      "FDPS",
+      "SRP9",
+      "PDRG1",
+      "CDIPT"
+    ]
+  },
+  "BRIX1": {
+    "Jurkat": [
+      "WDR55",
+      "DDX52",
+      "ZCCHC9",
+      "RBM42",
+      "SRBD1",
+      "TSR1",
+      "RBM48",
+      "C1orf131",
+      "RRS1",
+      "STRAP"
+    ],
+    "HepG2": [
+      "ZCCHC9",
+      "NIP7",
+      "TSR1",
+      "RRS1",
+      "RPL7L1",
+      "CCDC86",
+      "SRBD1",
+      "GNL2",
+      "SRFBP1",
+      "DDX49"
+    ],
+    "K562": [
+      "C1orf131",
+      "DDX49",
+      "RRS1",
+      "RPL7L1",
+      "BUD13",
+      "PNO1",
+      "STRAP",
+      "ZRANB2",
+      "ZCCHC9",
+      "KRR1"
+    ],
+    "RPE1": [
+      "RPL7L1",
+      "PNO1",
+      "RRP12",
+      "URB1",
+      "C1orf131",
+      "NOL11",
+      "SRFBP1",
+      "DDX52",
+      "EBNA1BP2",
+      "DDX51"
+    ]
+  },
+  "MED14": {
+    "Jurkat": [
+      "MED4",
+      "TAF8",
+      "SSRP1",
+      "MED26",
+      "TCERG1",
+      "RFC2",
+      "TAF12",
+      "MED17",
+      "MED22",
+      "MED9"
+    ],
+    "HepG2": [
+      "OPA1",
+      "TAF10",
+      "MED21",
+      "MED6",
+      "TAF12",
+      "MED24",
+      "TAF8",
+      "SP2",
+      "MED19",
+      "MED12"
+    ],
+    "K562": [
+      "MED22",
+      "MED17",
+      "TCERG1",
+      "TAF8",
+      "TAF1",
+      "MED26",
+      "MED7",
+      "TAF11",
+      "MED27",
+      "TAF7"
+    ],
+    "RPE1": [
+      "OPA1",
+      "MED12",
+      "MED22",
+      "MED26",
+      "MED7",
+      "POLR2M",
+      "TCERG1",
+      "MED16",
+      "MZF1",
+      "SSRP1"
+    ]
+  },
+  "OSTC": {
+    "Jurkat": [
+      "GSPT1",
+      "GFOD2",
+      "COG3",
+      "DPY19L4",
+      "PSTK",
+      "DDOST",
+      "GNPNAT1",
+      "TRAPPC5",
+      "COG2",
+      "SLC35A4"
+    ],
+    "HepG2": [
+      "TAMM41",
+      "DOLK",
+      "DDOST",
+      "PGS1",
+      "ALG14",
+      "CAD",
+      "STT3B",
+      "SLC35A4",
+      "ACTR10",
+      "GSPT1"
+    ],
+    "K562": [
+      "TRAPPC5",
+      "THOC7",
+      "POGLUT3",
+      "ACTR10",
+      "GSPT1",
+      "PGS1",
+      "STT3B",
+      "WBP1",
+      "TAMM41",
+      "DDOST"
+    ],
+    "RPE1": [
+      "PGS1",
+      "SLC35A4",
+      "SPCS2",
+      "DPAGT1",
+      "YRDC",
+      "OGFOD1",
+      "GFOD2",
+      "ALG14",
+      "STT3B",
+      "TMEM258"
+    ]
+  },
+  "MCM2": {
+    "Jurkat": [
+      "SMARCC1",
+      "CINP",
+      "MCM7",
+      "MCM6",
+      "ORC4",
+      "MCM5",
+      "MCM3AP",
+      "CDC7",
+      "CHEK1",
+      "ORC3"
+    ],
+    "HepG2": [
+      "MCMBP",
+      "CHEK1",
+      "MCM10",
+      "CDK1",
+      "HUS1",
+      "SMG6",
+      "CDC6",
+      "MCM3AP",
+      "SMC1A",
+      "CDC23"
+    ],
+    "K562": [
+      "ORC3",
+      "NSMCE2",
+      "MCM7",
+      "HUS1",
+      "MCM6",
+      "MCM3",
+      "MCMBP",
+      "CDK1",
+      "CINP",
+      "SMG6"
+    ],
+    "RPE1": [
+      "CCNL1",
+      "CHEK1",
+      "CMC4",
+      "ORC5",
+      "MCM10",
+      "ORC3",
+      "RAD17",
+      "CDT1",
+      "HUS1",
+      "ORC4"
+    ]
+  },
+  "LAS1L": {
+    "Jurkat": [
+      "LSG1",
+      "RPL7L1",
+      "KRR1",
+      "MSL1",
+      "URB1",
+      "UTP6",
+      "NOL10",
+      "CD3EAP",
+      "DDX52",
+      "SRFBP1"
+    ],
+    "HepG2": [
+      "LTV1",
+      "GNL2",
+      "WDR46",
+      "STRAP",
+      "TSR1",
+      "NOL11",
+      "LSG1",
+      "MSL1",
+      "UTP6",
+      "RRP7A"
+    ],
+    "K562": [
+      "RRS1",
+      "MLLT6",
+      "STRAP",
+      "ESF1",
+      "EBNA1BP2",
+      "WDR46",
+      "RRP7A",
+      "KRR1",
+      "LSM10",
+      "MSL1"
+    ],
+    "RPE1": [
+      "LARS",
+      "SRFBP1",
+      "EBNA1BP2",
+      "UTP6",
+      "LARS2",
+      "RRP7A",
+      "RRP12",
+      "LSM10",
+      "KRR1",
+      "MALSU1"
+    ]
+  },
+  "SRP72": {
+    "Jurkat": [
+      "VPS37A",
+      "SRP9",
+      "SNRPE",
+      "SEC63",
+      "SRP68",
+      "SNRPD3",
+      "SEC61B",
+      "RPL18A",
+      "SRP14",
+      "SNRNP35"
+    ],
+    "HepG2": [
+      "SNRNP40",
+      "SNRPA",
+      "RPL38",
+      "SRSF6",
+      "SRP68",
+      "SRP54",
+      "RPS3",
+      "SRP14",
+      "SRP9",
+      "SRSF10"
+    ],
+    "K562": [
+      "SEC62",
+      "SRSF10",
+      "SNRPD1",
+      "VPS37A",
+      "SRSF6",
+      "SRP54",
+      "SNRNP40",
+      "SEC61G",
+      "NSRP1",
+      "SRSF7"
+    ],
+    "RPE1": [
+      "SNRPE",
+      "SEC61G",
+      "SRP54",
+      "SNRPD1",
+      "SNRPB",
+      "STX18",
+      "RPL38",
+      "SRSF7",
+      "SRP19",
+      "VPS37A"
+    ]
+  },
+  "MYBBP1A": {
+    "Jurkat": [
+      "MTBP",
+      "RNF20",
+      "NUBP2",
+      "PTBP1",
+      "RBM39",
+      "PUF60",
+      "ZBTB17",
+      "MYCBP",
+      "BANP",
+      "CCNB1"
+    ],
+    "HepG2": [
+      "MYC",
+      "NOL7",
+      "RBM39",
+      "MYBL2",
+      "PAXBP1",
+      "MED1",
+      "NCBP2",
+      "TBPL1",
+      "PABPC1",
+      "NCBP1"
+    ],
+    "K562": [
+      "NCBP1",
+      "MED1",
+      "MYC",
+      "NOL7",
+      "RBBP6",
+      "NSA2",
+      "MRGBP",
+      "ZBTB17",
+      "GABPA",
+      "HNRNPA1"
+    ],
+    "RPE1": [
+      "HNRNPA1",
+      "PUF60",
+      "NOP16",
+      "RBBP6",
+      "TBPL1",
+      "MYBL2",
+      "PTBP1",
+      "RNF20",
+      "RBBP5",
+      "NUBP2"
+    ]
+  },
+  "NAA15": {
+    "Jurkat": [
+      "NAT10",
+      "NAE1",
+      "NSA2",
+      "NARS2",
+      "UBA5",
+      "NARS",
+      "FNTA",
+      "NAA20",
+      "NUB1",
+      "EEF1G"
+    ],
+    "HepG2": [
+      "NSA2",
+      "AASDHPPT",
+      "NUB1",
+      "NACA",
+      "SAP18",
+      "TADA2A",
+      "NKAP",
+      "NAA25",
+      "EEF1G",
+      "NAA10"
+    ],
+    "K562": [
+      "NAT10",
+      "PABPC1",
+      "YEATS2",
+      "EARS2",
+      "TRNT1",
+      "NAE1",
+      "AAAS",
+      "NSA2",
+      "RAC3",
+      "NARS2"
+    ],
+    "RPE1": [
+      "EEF1G",
+      "NKAP",
+      "YEATS2",
+      "NAA50",
+      "NSA2",
+      "AASDHPPT",
+      "NAA10",
+      "ALG13",
+      "RAC3",
+      "EARS2"
+    ]
+  },
+  "UBQLN4": {
+    "Jurkat": [
+      "UBA1",
+      "NPLOC4",
+      "UBE2I",
+      "UBE3D",
+      "UTP25",
+      "CUL1",
+      "SDE2",
+      "USP14",
+      "USP37",
+      "UBE2L3"
+    ],
+    "HepG2": [
+      "TUBA1B",
+      "UBE2D3",
+      "UTP25",
+      "CUL2",
+      "UBA5",
+      "BOD1L1",
+      "UBE2N",
+      "CUL1",
+      "UBA3",
+      "UBE3C"
+    ],
+    "K562": [
+      "UBE3C",
+      "CUL1",
+      "PIAS4",
+      "UBE2D3",
+      "UBE2L3",
+      "UBE2N",
+      "DCUN1D5",
+      "UBE2M",
+      "HECTD1",
+      "UBE2H"
+    ],
+    "RPE1": [
+      "UBA3",
+      "SMC6",
+      "DCUN1D5",
+      "UBE2H",
+      "CUL2",
+      "UBE2N",
+      "SFPQ",
+      "UBA5",
+      "UBR4",
+      "UBA1"
+    ]
+  },
+  "GNPNAT1": {
+    "Jurkat": [
+      "NKAPD1",
+      "GPN3",
+      "RHPN1",
+      "DPY19L4",
+      "GPN1",
+      "TRNP1",
+      "POGLUT3",
+      "GNL3L",
+      "UTP25",
+      "GNL2"
+    ],
+    "HepG2": [
+      "GPN1",
+      "GNL3L",
+      "PNN",
+      "GPN2",
+      "DPY19L4",
+      "ADNP2",
+      "ALG13",
+      "POGLUT3",
+      "NBEAL1",
+      "RHPN1"
+    ],
+    "K562": [
+      "GNL2",
+      "GNPAT",
+      "UNC50",
+      "GPN2",
+      "PNN",
+      "POGLUT3",
+      "DNAJC17",
+      "GSPT1",
+      "NPLOC4",
+      "ALG13"
+    ],
+    "RPE1": [
+      "UNC50",
+      "DNAJC17",
+      "NKAPD1",
+      "UTP11",
+      "GRPEL1",
+      "ADNP2",
+      "UTP23",
+      "NSF",
+      "UXS1",
+      "NBEAL1"
+    ]
+  },
+  "SDHAF2": {
+    "Jurkat": [
+      "MFN2",
+      "FARS2",
+      "NDUFV2",
+      "HSCB",
+      "NDUFA4",
+      "SARS2",
+      "SDHC",
+      "HSD17B10",
+      "NDUFAF7",
+      "AIFM1"
+    ],
+    "HepG2": [
+      "MFN2",
+      "MAT2A",
+      "NDUFB4",
+      "TFB1M",
+      "PGD",
+      "TFAM",
+      "NDUFB7",
+      "PDHA1",
+      "SDHA",
+      "NDUFS3"
+    ],
+    "K562": [
+      "NDUFS3",
+      "NDUFAF3",
+      "NDUFA6",
+      "PGD",
+      "TFB1M",
+      "NDUFB4",
+      "NDUFB6",
+      "NDUFA4",
+      "NDUFAF7",
+      "NDUFA8"
+    ],
+    "RPE1": [
+      "HSD17B10",
+      "PDHA1",
+      "NDUFA4",
+      "NDUFS3",
+      "NDUFA8",
+      "NDUFAF3",
+      "NDUFA6",
+      "COA5",
+      "NDUFB4",
+      "NDUFA2"
+    ]
+  },
+  "RBMXL1": {
+    "Jurkat": [
+      "RBM25",
+      "RBM14",
+      "MRPL11",
+      "MSRB1",
+      "XRN1",
+      "HMX3",
+      "RBM17",
+      "RPL14",
+      "RBMX2",
+      "RBM12"
+    ],
+    "HepG2": [
+      "MRPL11",
+      "TXNL4A",
+      "PMF1",
+      "YBX1",
+      "MSRB1",
+      "RBM17",
+      "RPL14",
+      "RBM39",
+      "MRPL32",
+      "RBM28"
+    ],
+    "K562": [
+      "RPL14",
+      "RBM48",
+      "RBX1",
+      "PMF1",
+      "RPL5",
+      "BMS1",
+      "MSRB1",
+      "RBM14",
+      "RBM39",
+      "RBMX"
+    ],
+    "RPE1": [
+      "RPL14",
+      "MSRB1",
+      "TXNL4A",
+      "RBM48",
+      "MRPL11",
+      "YBX1",
+      "RBM12",
+      "RBM14",
+      "PMF1",
+      "ZC3H18"
+    ]
+  },
+  "ORC3": {
+    "Jurkat": [
+      "THOC3",
+      "CDT1",
+      "ORC4",
+      "MCM5",
+      "RFC2",
+      "COPS6",
+      "MCM2",
+      "RCOR1",
+      "MCM3",
+      "RFC3"
+    ],
+    "HepG2": [
+      "MCM3AP",
+      "EXOC3",
+      "GINS3",
+      "COPS6",
+      "MCM3",
+      "MCM6",
+      "ORC5",
+      "CDC6",
+      "MCM4",
+      "PRIM1"
+    ],
+    "K562": [
+      "MCM10",
+      "NOC3L",
+      "MCM7",
+      "CINP",
+      "RFC5",
+      "PRIM1",
+      "RFC3",
+      "EIF3J",
+      "RAD17",
+      "RFC2"
+    ],
+    "RPE1": [
+      "EIF3J",
+      "MCM2",
+      "MCM3AP",
+      "CDC6",
+      "COPS6",
+      "PRIM1",
+      "MCM7",
+      "ORC6",
+      "MCM4",
+      "RAD17"
+    ]
+  },
+  "SUPT16H": {
+    "Jurkat": [
+      "TAF11",
+      "GTF2B",
+      "H2AFZ",
+      "TAF1",
+      "TBP",
+      "SAP18",
+      "TAF12",
+      "TAF2",
+      "SSRP1",
+      "TAF1B"
+    ],
+    "HepG2": [
+      "SSRP1",
+      "TAF10",
+      "GTF2H4",
+      "H3F3A",
+      "TADA2A",
+      "TAF1B",
+      "HIST1H2AE",
+      "TAF6",
+      "ASF1B",
+      "TAF13"
+    ],
+    "K562": [
+      "GTF2F2",
+      "TAF1B",
+      "TAF1",
+      "HIST1H2BJ",
+      "SAP18",
+      "HIST1H2BC",
+      "H2AFZ",
+      "TBP",
+      "HDAC3",
+      "TAF6"
+    ],
+    "RPE1": [
+      "TAF6L",
+      "HIST1H2AE",
+      "HIST1H2BC",
+      "TAF13",
+      "TAF11",
+      "TAF1C",
+      "H2AFZ",
+      "TAF12",
+      "TAF1A",
+      "ELP2"
+    ]
+  },
+  "PES1": {
+    "Jurkat": [
+      "VPS37A",
+      "PELP1",
+      "TSG101",
+      "PCID2",
+      "PUF60",
+      "EWSR1",
+      "E2F6",
+      "BARD1",
+      "ING3",
+      "MED19"
+    ],
+    "HepG2": [
+      "PEF1",
+      "COPS5",
+      "PCID2",
+      "EMG1",
+      "PUF60",
+      "PALB2",
+      "PABPN1",
+      "NOP16",
+      "BRD2",
+      "BRCA1"
+    ],
+    "K562": [
+      "EMG1",
+      "CTNNBL1",
+      "BRCA1",
+      "SSRP1",
+      "TSG101",
+      "RAD51",
+      "ING3",
+      "BARD1",
+      "RPS27",
+      "PELP1"
+    ],
+    "RPE1": [
+      "ETF1",
+      "BRCA1",
+      "VPS37A",
+      "TCERG1",
+      "RAD51",
+      "MED19",
+      "E2F6",
+      "RPS27",
+      "EWSR1",
+      "PALB2"
+    ]
+  },
+  "MED19": {
+    "Jurkat": [
+      "MED22",
+      "MED27",
+      "MED7",
+      "POLR1C",
+      "POLR2I",
+      "MED16",
+      "CDC73",
+      "MED24",
+      "POLR1D",
+      "MED8"
+    ],
+    "HepG2": [
+      "MED21",
+      "MED14",
+      "MED24",
+      "POLR1D",
+      "OPA1",
+      "MED22",
+      "MED31",
+      "MED7",
+      "MED6",
+      "MED9"
+    ],
+    "K562": [
+      "MED22",
+      "MKRN1",
+      "POLR1D",
+      "MED8",
+      "MED18",
+      "MED17",
+      "INTS9",
+      "MED21",
+      "MED12",
+      "CDC73"
+    ],
+    "RPE1": [
+      "MED24",
+      "POLR2M",
+      "MED31",
+      "MED8",
+      "MED16",
+      "OPA1",
+      "RNF20",
+      "MED4",
+      "POLR2E",
+      "MED18"
+    ]
+  },
+  "PRELID3B": {
+    "Jurkat": [
+      "LPIN1",
+      "PPP1R37",
+      "TRIAP1",
+      "SLC35A4",
+      "MIS18BP1",
+      "SPCS2",
+      "PDPK1",
+      "SLC39A9",
+      "TIMM23B",
+      "NBEAL1"
+    ],
+    "HepG2": [
+      "PPP1R37",
+      "PGS1",
+      "SLC35A4",
+      "TIMM23B",
+      "BOD1L1",
+      "NRBP1",
+      "EPB41L2",
+      "CD3EAP",
+      "MIS18BP1",
+      "POGLUT3"
+    ],
+    "K562": [
+      "POGLUT3",
+      "TRIAP1",
+      "TIMM23B",
+      "SLC35A4",
+      "LPIN1",
+      "NBEAL1",
+      "PDPK1",
+      "PPP1R37",
+      "GPN3",
+      "BOD1L1"
+    ],
+    "RPE1": [
+      "TMEM161B",
+      "CD3EAP",
+      "PDPK1",
+      "MIS18BP1",
+      "GPN3",
+      "SLC39A9",
+      "YPEL5",
+      "ABHD17A",
+      "SLC35A4",
+      "EPB41L2"
+    ]
+  },
+  "E2F6": {
+    "Jurkat": [
+      "DAXX",
+      "RNF20",
+      "GTF2H3",
+      "PUF60",
+      "ING3",
+      "CDK1",
+      "BRF2",
+      "BRF1",
+      "RNF8",
+      "MYC"
+    ],
+    "HepG2": [
+      "TELO2",
+      "EIF4E",
+      "ZNF292",
+      "CDK2",
+      "ING3",
+      "DAXX",
+      "EIF3M",
+      "CDC73",
+      "BRF1",
+      "SUMO2"
+    ],
+    "K562": [
+      "BRF2",
+      "ELAC2",
+      "RNF8",
+      "SURF6",
+      "MYC",
+      "USF2",
+      "CDK2",
+      "ING3",
+      "EWSR1",
+      "PUF60"
+    ],
+    "RPE1": [
+      "CCNH",
+      "CDK2",
+      "TELO2",
+      "BRF2",
+      "E4F1",
+      "ING3",
+      "RNF20",
+      "SYF2",
+      "USF2",
+      "ECT2"
+    ]
+  },
+  "STIL": {
+    "Jurkat": [
+      "MAD2L2",
+      "SYF2",
+      "CDC6",
+      "PLK4",
+      "PRC1",
+      "INTS13",
+      "PLK1",
+      "ZW10",
+      "KIF14",
+      "CHEK1"
+    ],
+    "HepG2": [
+      "KIF14",
+      "BUB3",
+      "CDC7",
+      "STAG2",
+      "INTS13",
+      "SYF2",
+      "CDC42",
+      "SPDL1",
+      "CDK1",
+      "IST1"
+    ],
+    "K562": [
+      "MAD2L2",
+      "BUB1",
+      "IST1",
+      "CCND3",
+      "BUB3",
+      "CDC6",
+      "SKA3",
+      "CCNB1",
+      "MAD2L1",
+      "PLK1"
+    ],
+    "RPE1": [
+      "ZW10",
+      "TTK",
+      "CDC42",
+      "BUB3",
+      "TSG101",
+      "MAD2L1",
+      "IST1",
+      "MST1",
+      "CHEK1",
+      "CDK1"
+    ]
+  },
+  "RPS26": {
+    "Jurkat": [
+      "NUP43",
+      "RPS7",
+      "VPS37C",
+      "TTC27",
+      "RPS17",
+      "GINS1",
+      "RPS15",
+      "RPP21",
+      "RPP14",
+      "GINS4"
+    ],
+    "HepG2": [
+      "RPS28",
+      "RPS24",
+      "SS18L2",
+      "POLR1B",
+      "GINS4",
+      "RPS27",
+      "RPS9",
+      "RPA2",
+      "RPL26L1",
+      "RPS8"
+    ],
+    "K562": [
+      "RPS9",
+      "RPA2",
+      "RPS24",
+      "RPP21",
+      "RPS7",
+      "RPS28",
+      "WDR82",
+      "RPS5",
+      "CPSF1",
+      "RPS25"
+    ],
+    "RPE1": [
+      "USP5",
+      "TTC27",
+      "RPP14",
+      "POLR1B",
+      "RPS24",
+      "WDR82",
+      "RPS25",
+      "RPS17",
+      "RPL27",
+      "RPS27"
+    ]
+  },
+  "H2AFZ": {
+    "Jurkat": [
+      "CBX1",
+      "KAT5",
+      "HJURP",
+      "HMGN2",
+      "HIST1H2AE",
+      "SAP18",
+      "ZNHIT1",
+      "HDAC3",
+      "H3F3A",
+      "SUPT16H"
+    ],
+    "HepG2": [
+      "KAT7",
+      "SUPT16H",
+      "HDAC7",
+      "EHMT2",
+      "HJURP",
+      "H3F3A",
+      "ELP2",
+      "VPS72",
+      "MYSM1",
+      "SAP18"
+    ],
+    "K562": [
+      "HMGN2",
+      "SAP18",
+      "EHMT2",
+      "HIST1H2BN",
+      "CHAF1B",
+      "H2AFX",
+      "HIST1H2BC",
+      "KAT7",
+      "CBX1",
+      "NAA50"
+    ],
+    "RPE1": [
+      "KAT5",
+      "HIST1H2AE",
+      "HIST1H2BJ",
+      "SUPT6H",
+      "SETD1A",
+      "NAA50",
+      "CFL1",
+      "SAP18",
+      "HIST1H2BN",
+      "H3F3A"
+    ]
+  },
+  "ISCA2": {
+    "Jurkat": [
+      "NDUFS3",
+      "SLC39A7",
+      "YARS2",
+      "NUBP2",
+      "INTS3",
+      "SNF8",
+      "GLRX5",
+      "HSCB",
+      "SLC25A42",
+      "IARS2"
+    ],
+    "HepG2": [
+      "GLRX5",
+      "DNAJC19",
+      "NFS1",
+      "CYCS",
+      "SLC39A7",
+      "HSCB",
+      "FARS2",
+      "SDHA",
+      "TSG101",
+      "ASCC3"
+    ],
+    "K562": [
+      "NUBP1",
+      "AARS2",
+      "UQCC2",
+      "SLC25A42",
+      "IARS2",
+      "YARS2",
+      "TARS2",
+      "CS",
+      "SNF8",
+      "SARS2"
+    ],
+    "RPE1": [
+      "BCS1L",
+      "ISCU",
+      "DNAJC19",
+      "SDHC",
+      "IARS2",
+      "SLC25A42",
+      "CYCS",
+      "INTS3",
+      "NDUFS3",
+      "ACSS2"
+    ]
+  },
+  "NUP133": {
+    "Jurkat": [
+      "NUDC",
+      "NMD3",
+      "NUTF2",
+      "NUP153",
+      "RANBP2",
+      "UPF2",
+      "USP8",
+      "NUP107",
+      "NUP85",
+      "CSE1L"
+    ],
+    "HepG2": [
+      "HNRNPC",
+      "CPNE1",
+      "NUP214",
+      "KPNB1",
+      "SEH1L",
+      "USP8",
+      "RANBP2",
+      "NPM1",
+      "NUP98",
+      "UPF2"
+    ],
+    "K562": [
+      "NUP98",
+      "NUP107",
+      "SNRPC",
+      "RANBP2",
+      "UPF3A",
+      "NPM1",
+      "NDC1",
+      "NUP205",
+      "USP8",
+      "HNRNPC"
+    ],
+    "RPE1": [
+      "CPNE1",
+      "KPNA6",
+      "NUP214",
+      "NUF2",
+      "NPM1",
+      "NUDC",
+      "HNRNPC",
+      "CSE1L",
+      "NUP153",
+      "NUTF2"
+    ]
+  },
+  "CD2BP2": {
+    "Jurkat": [
+      "CTDP1",
+      "ALG2",
+      "MYCBP",
+      "PDCD2",
+      "RAB6A",
+      "SNRPB",
+      "SYF2",
+      "SP2",
+      "C1D",
+      "CDC42"
+    ],
+    "HepG2": [
+      "PCBP1",
+      "CTNNBL1",
+      "SUMO2",
+      "C1D",
+      "SCAP",
+      "PALB2",
+      "CDK2",
+      "MYCBP",
+      "SP2",
+      "NAF1"
+    ],
+    "K562": [
+      "TOPBP1",
+      "SCAP",
+      "ALG2",
+      "PDCD2",
+      "PCBP1",
+      "PPP2R3C",
+      "SP2",
+      "PTBP1",
+      "PALB2",
+      "SYF2"
+    ],
+    "RPE1": [
+      "SYF2",
+      "STAT5A",
+      "ITGB1BP1",
+      "ALG2",
+      "RAB6A",
+      "IMP4",
+      "CPNE1",
+      "PALB2",
+      "NUBP1",
+      "CDC16"
+    ]
+  },
+  "TINF2": {
+    "Jurkat": [
+      "ACD",
+      "GINS3",
+      "PCID2",
+      "SUGT1",
+      "TOP2A",
+      "ING3",
+      "MMS22L",
+      "INF2",
+      "KIN",
+      "DSN1"
+    ],
+    "HepG2": [
+      "RTEL1",
+      "ACD",
+      "INF2",
+      "TFIP11",
+      "GTF2H3",
+      "TSR2",
+      "ASF1B",
+      "INTS3",
+      "TOP2A",
+      "TERF1"
+    ],
+    "K562": [
+      "TIPIN",
+      "KIN",
+      "TFIP11",
+      "CCDC6",
+      "TEN1",
+      "RNF20",
+      "TERF1",
+      "GINS3",
+      "TTI2",
+      "CLK2"
+    ],
+    "RPE1": [
+      "PCID2",
+      "TEN1",
+      "RINT1",
+      "SMG6",
+      "TERF1",
+      "MMS22L",
+      "INF2",
+      "CCDC6",
+      "E2F6",
+      "GINS3"
+    ]
+  },
+  "ZNHIT3": {
+    "Jurkat": [
+      "SNAPC3",
+      "ZFP69B",
+      "TOE1",
+      "RPL7L1",
+      "ZFC3H1",
+      "UTP3",
+      "TRNP1",
+      "THUMPD1",
+      "ZNF100",
+      "ZNF787"
+    ],
+    "HepG2": [
+      "ZMAT5",
+      "ZNHIT6",
+      "PEX1",
+      "GTF2H1",
+      "GTF2H2C",
+      "ZNHIT1",
+      "ZNF100",
+      "ZNF143",
+      "ZC3H8",
+      "ZNF559"
+    ],
+    "K562": [
+      "SNAPC3",
+      "ZNHIT2",
+      "ZFP69B",
+      "UTP23",
+      "TOE1",
+      "THRAP3",
+      "THOC1",
+      "TSR1",
+      "GTF2H1",
+      "ZNF468"
+    ],
+    "RPE1": [
+      "NOL10",
+      "ZC3H3",
+      "ZFP69B",
+      "ZNHIT1",
+      "ZNF100",
+      "THOC1",
+      "ZNF559",
+      "TOE1",
+      "THUMPD1",
+      "UTP23"
+    ]
+  },
+  "NDUFA6": {
+    "Jurkat": [
+      "UQCRB",
+      "NDUFAF3",
+      "NDUFB6",
+      "SDHA",
+      "NDUFB10",
+      "NDUFA8",
+      "TUFM",
+      "NUB1",
+      "NDUFA11",
+      "NDUFS5"
+    ],
+    "HepG2": [
+      "NDUFS3",
+      "SDHC",
+      "NDUFA2",
+      "NDUFAF3",
+      "NUDT21",
+      "UQCRB",
+      "NDUFS5",
+      "LYRM4",
+      "NDUFB3",
+      "NDUFB10"
+    ],
+    "K562": [
+      "NDUFAF5",
+      "NDUFB7",
+      "NUDT21",
+      "NDUFA8",
+      "NDUFB10",
+      "NDUFB3",
+      "FDXR",
+      "NDUFB6",
+      "SDHC",
+      "UQCRB"
+    ],
+    "RPE1": [
+      "NDUFB6",
+      "NDUFA8",
+      "NDUFA3",
+      "SDHC",
+      "NDUFA4",
+      "NDUFAF5",
+      "NDUFAF3",
+      "NUTF2",
+      "NDUFAF7",
+      "TUFM"
+    ]
+  },
+  "POGZ": {
+    "Jurkat": [
+      "TRAPPC11",
+      "CPNE7",
+      "LST1",
+      "PIGH",
+      "NUP107",
+      "CPNE1",
+      "HPS5",
+      "TMEM127",
+      "VPS51",
+      "LAMTOR2"
+    ],
+    "HepG2": [
+      "TMEM199",
+      "NUB1",
+      "TRAPPC3",
+      "TRAPPC1",
+      "VPS37A",
+      "LONP1",
+      "LAMTOR2",
+      "VPS25",
+      "RPN2",
+      "TMEM127"
+    ],
+    "K562": [
+      "TRAPPC1",
+      "BET1",
+      "NUB1",
+      "NUP107",
+      "CPNE1",
+      "GNPAT",
+      "VPS25",
+      "NRBP1",
+      "VPS37A",
+      "LONP1"
+    ],
+    "RPE1": [
+      "RPN2",
+      "SACM1L",
+      "VPS25",
+      "VPS51",
+      "NUB1",
+      "CHMP1A",
+      "PIGH",
+      "CPNE7",
+      "TMEM199",
+      "CCDC115"
+    ]
+  },
+  "GFER": {
+    "Jurkat": [
+      "FARS2",
+      "LARS",
+      "TCERG1",
+      "SRSF6",
+      "SRSF1",
+      "HS6ST1",
+      "FARSB",
+      "HEATR1",
+      "ECT2",
+      "USF2"
+    ],
+    "HepG2": [
+      "RFC2",
+      "PPARGC1B",
+      "GARS",
+      "LARS",
+      "SRSF1",
+      "UHRF1",
+      "GRSF1",
+      "GART",
+      "RARS2",
+      "HS6ST1"
+    ],
+    "K562": [
+      "TCERG1",
+      "GRSF1",
+      "PPARGC1B",
+      "GSPT1",
+      "RARS2",
+      "FARS2",
+      "AAR2",
+      "LAMTOR3",
+      "SRSF6",
+      "SRSF10"
+    ],
+    "RPE1": [
+      "ILF2",
+      "SRSF10",
+      "STAT5B",
+      "GSPT1",
+      "UHRF1",
+      "LAMTOR3",
+      "GRSF1",
+      "PPARGC1B",
+      "RFC2",
+      "TCERG1"
+    ]
+  },
+  "NUDCD3": {
+    "Jurkat": [
+      "NUF2",
+      "TUBGCP4",
+      "DCTN2",
+      "NUDT21",
+      "CDC27",
+      "DCTN3",
+      "DYNC1H1",
+      "NUB1",
+      "NMD3",
+      "DKC1"
+    ],
+    "HepG2": [
+      "SPDL1",
+      "KIF14",
+      "STIL",
+      "CDC7",
+      "DCUN1D5",
+      "CDC20",
+      "DYNLL1",
+      "CDC27",
+      "NDC80",
+      "TUBG1"
+    ],
+    "K562": [
+      "CDC6",
+      "CDC7",
+      "CDC23",
+      "DCTN5",
+      "BUB1B",
+      "NDC1",
+      "TUBGCP4",
+      "KIF14",
+      "DYNC1I2",
+      "NUDC"
+    ],
+    "RPE1": [
+      "DCTN3",
+      "BUB1B",
+      "STIL",
+      "DYNC1H1",
+      "NUDT21",
+      "NDC80",
+      "TUBGCP4",
+      "CDC23",
+      "DKC1",
+      "DYNC1I2"
+    ]
+  },
+  "HARS": {
+    "Jurkat": [
+      "WARS",
+      "NARS2",
+      "DARS",
+      "VARS",
+      "GARS",
+      "FARSA",
+      "HS6ST1",
+      "VARS2",
+      "TRNT1",
+      "LARS2"
+    ],
+    "HepG2": [
+      "FARS2",
+      "NARS",
+      "AARS",
+      "EPRS",
+      "SARS2",
+      "NARS2",
+      "HARS2",
+      "TARS",
+      "VARS",
+      "YARS"
+    ],
+    "K562": [
+      "TARS2",
+      "LARS",
+      "AARS2",
+      "EPRS",
+      "WARS",
+      "QARS",
+      "RARS",
+      "FARSA",
+      "SARS2",
+      "RARS2"
+    ],
+    "RPE1": [
+      "TRNT1",
+      "LARS",
+      "WARS",
+      "HARS2",
+      "KARS",
+      "YARS2",
+      "GARS",
+      "HS6ST1",
+      "VARS2",
+      "PARS2"
+    ]
+  },
+  "NBAS": {
+    "Jurkat": [
+      "SEC16A",
+      "SNX15",
+      "RBM12",
+      "IPO13",
+      "NACA",
+      "GNL3L",
+      "NASP",
+      "LSG1",
+      "RANGAP1",
+      "NAA25"
+    ],
+    "HepG2": [
+      "SMC2",
+      "HNRNPA1",
+      "CSE1L",
+      "NOP14",
+      "PABPN1",
+      "NAA25",
+      "LSG1",
+      "IPO13",
+      "LZTR1",
+      "NUB1"
+    ],
+    "K562": [
+      "PABPN1",
+      "RBM10",
+      "RBM12",
+      "SBDS",
+      "SMC2",
+      "NOP14",
+      "NACA",
+      "NOS1AP",
+      "AAAS",
+      "IPO13"
+    ],
+    "RPE1": [
+      "GNL3L",
+      "CSE1L",
+      "SETX",
+      "RANGAP1",
+      "NSA2",
+      "UBAP1",
+      "NAE1",
+      "NOS1AP",
+      "RBM10",
+      "RBM12"
+    ]
+  },
+  "SMC5": {
+    "Jurkat": [
+      "SUPV3L1",
+      "MDN1",
+      "SMARCE1",
+      "MYSM1",
+      "MCM5",
+      "SMC1A",
+      "SPC25",
+      "THOC5",
+      "ACTR8",
+      "THOC1"
+    ],
+    "HepG2": [
+      "TSPYL5",
+      "SMARCC1",
+      "MDN1",
+      "NSMCE1",
+      "MYSM1",
+      "THOC1",
+      "MCM5",
+      "SMC1A",
+      "CDCA5",
+      "SKA1"
+    ],
+    "K562": [
+      "MCM5",
+      "THOC1",
+      "RCC1",
+      "DNAJC9",
+      "CDCA5",
+      "THOC5",
+      "NSMCE1",
+      "ACTR8",
+      "SMC1A",
+      "ZC3H3"
+    ],
+    "RPE1": [
+      "SMC3",
+      "THOC5",
+      "SFPQ",
+      "MDN1",
+      "SPC24",
+      "SKA1",
+      "SMC1A",
+      "NSMCE2",
+      "THOC1",
+      "SMARCC1"
+    ]
+  },
+  "DHX16": {
+    "Jurkat": [
+      "DDX24",
+      "DDX10",
+      "DDX27",
+      "DDX18",
+      "DDX1",
+      "DDX42",
+      "DDX20",
+      "XRN1",
+      "DDX3X",
+      "EIF4A3"
+    ],
+    "HepG2": [
+      "DAXX",
+      "DDX3X",
+      "DHX29",
+      "DHX37",
+      "XRN1",
+      "DDX21",
+      "DHX9",
+      "DDX27",
+      "INTS6",
+      "DDX55"
+    ],
+    "K562": [
+      "TFIP11",
+      "DDX17",
+      "DDX1",
+      "EIF4A3",
+      "DDX11",
+      "DDX27",
+      "DDX24",
+      "XRN1",
+      "DDX56",
+      "DHX9"
+    ],
+    "RPE1": [
+      "DDX19B",
+      "DDX19A",
+      "DICER1",
+      "DDX5",
+      "DDX21",
+      "DDX17",
+      "DDX56",
+      "DDX42",
+      "DHX29",
+      "DHX33"
+    ]
+  },
+  "GSPT1": {
+    "Jurkat": [
+      "GTF3C4",
+      "UPF2",
+      "STRAP",
+      "EIF1",
+      "EEFSEC",
+      "GTF3C5",
+      "GTF2F2",
+      "EIF4E",
+      "TSFM",
+      "EIF5A"
+    ],
+    "HepG2": [
+      "PPP1R15B",
+      "GRSF1",
+      "GTF2F1",
+      "EIF4E",
+      "EIF4G2",
+      "SRP54",
+      "UPF1",
+      "PSTK",
+      "SRFBP1",
+      "TSFM"
+    ],
+    "K562": [
+      "PSTK",
+      "PPP1R15B",
+      "EIF1AD",
+      "UPF1",
+      "GNPNAT1",
+      "GPN3",
+      "EIF1",
+      "CSTF1",
+      "STRAP",
+      "GTF2E1"
+    ],
+    "RPE1": [
+      "EIF4E",
+      "GNPNAT1",
+      "TSFM",
+      "PTPMT1",
+      "SLC35A4",
+      "CSTF1",
+      "EEFSEC",
+      "UTP23",
+      "SRP9",
+      "SRP54"
+    ]
+  },
+  "DIMT1": {
+    "Jurkat": [
+      "TRMT112",
+      "METTL3",
+      "MRM1",
+      "RPS12",
+      "POLRMT",
+      "KDM1A",
+      "KDM6A",
+      "EHMT2",
+      "PRMT5",
+      "TRMT10C"
+    ],
+    "HepG2": [
+      "METTL17",
+      "ADAT2",
+      "METTL1",
+      "NAT10",
+      "MRM1",
+      "BMS1",
+      "EHMT2",
+      "METTL14",
+      "KDM1A",
+      "MTHFD1"
+    ],
+    "K562": [
+      "RPS12",
+      "ADAT2",
+      "MRTO4",
+      "METTL14",
+      "METTL17",
+      "KDM6A",
+      "PRMT5",
+      "METTL3",
+      "MRM1",
+      "TFB1M"
+    ],
+    "RPE1": [
+      "METTL1",
+      "METTL14",
+      "POLRMT",
+      "METTL16",
+      "TRMT6",
+      "TRMT10C",
+      "EHMT2",
+      "SETD1A",
+      "MRM1",
+      "MAT2A"
+    ]
+  },
+  "BRCA2": {
+    "Jurkat": [
+      "RINT1",
+      "PCID2",
+      "PES1",
+      "XRCC2",
+      "ING3",
+      "TOP2A",
+      "ERCC3",
+      "ANKRD39",
+      "XRCC1",
+      "BARD1"
+    ],
+    "HepG2": [
+      "E2F6",
+      "ING3",
+      "XRCC5",
+      "TINF2",
+      "CLK2",
+      "PALB2",
+      "PES1",
+      "RUVBL2",
+      "TOP2A",
+      "TGS1"
+    ],
+    "K562": [
+      "RAD51C",
+      "TINF2",
+      "TELO2",
+      "PCID2",
+      "RINT1",
+      "CLK2",
+      "ERCC2",
+      "BARD1",
+      "RUVBL2",
+      "E2F6"
+    ],
+    "RPE1": [
+      "XRCC1",
+      "XRCC3",
+      "XRCC5",
+      "TGS1",
+      "ANKRD39",
+      "BRCA1",
+      "RNF20",
+      "RAD9A",
+      "ERCC3",
+      "REXO2"
+    ]
+  },
+  "PMF1": {
+    "Jurkat": [
+      "MTPAP",
+      "BPTF",
+      "TVP23C",
+      "GNPNAT1",
+      "GLE1",
+      "UPF1",
+      "GLB1",
+      "SACM1L",
+      "MRPL11",
+      "RPL17"
+    ],
+    "HepG2": [
+      "POLR2M",
+      "TVP23C",
+      "BPTF",
+      "MOB4",
+      "PAM16",
+      "GLE1",
+      "MRPL11",
+      "PGAM1",
+      "UPF3A",
+      "TFIP11"
+    ],
+    "K562": [
+      "SACM1L",
+      "PAM16",
+      "UPF1",
+      "PPP1R15B",
+      "PABPN1",
+      "BPTF",
+      "RBM12",
+      "MOB4",
+      "GMPPB",
+      "GLE1"
+    ],
+    "RPE1": [
+      "CHMP3",
+      "TFIP11",
+      "MTPAP",
+      "UPF2",
+      "RBM12",
+      "PAM16",
+      "PPAN",
+      "MRPL11",
+      "SF3B4",
+      "GNPNAT1"
+    ]
+  },
+  "TMEM127": {
+    "Jurkat": [
+      "TMEM242",
+      "TOMM40",
+      "LETM1",
+      "EMC1",
+      "TMED10",
+      "EXOC1",
+      "VPS25",
+      "TMEM214",
+      "TIMM13",
+      "TRPM7"
+    ],
+    "HepG2": [
+      "LETM1",
+      "TMED2",
+      "LAMTOR2",
+      "VPS29",
+      "POGZ",
+      "EXOC7",
+      "TIMM10",
+      "EMC1",
+      "TOMM22",
+      "TMEM161B"
+    ],
+    "K562": [
+      "TMEM258",
+      "VPS29",
+      "TMED2",
+      "VMP1",
+      "BET1",
+      "VPS51",
+      "PTPN23",
+      "CPNE7",
+      "TMEM199",
+      "TMEM214"
+    ],
+    "RPE1": [
+      "VPS29",
+      "CPNE7",
+      "TADA1",
+      "VPS37A",
+      "VPS51",
+      "TMEM214",
+      "BET1",
+      "TIMM44",
+      "TMEM199",
+      "PTPN23"
+    ]
+  },
+  "RPS2": {
+    "Jurkat": [
+      "RPS17",
+      "RPS28",
+      "RPL35",
+      "RPS3A",
+      "RPS15",
+      "RPS25",
+      "RPS3",
+      "RPS9",
+      "RPL9",
+      "RPS15A"
+    ],
+    "HepG2": [
+      "RPL35",
+      "RPS10",
+      "RPS16",
+      "RPS17",
+      "RPL4",
+      "RPS28",
+      "RPS21",
+      "RPS14",
+      "RPS13",
+      "RPS7"
+    ],
+    "K562": [
+      "RPS24",
+      "RPL30",
+      "RPS17",
+      "RPS9",
+      "RPL4",
+      "RPS16",
+      "RPL9",
+      "RPS14",
+      "RPL35",
+      "RPS15"
+    ],
+    "RPE1": [
+      "RPS3A",
+      "RPS5",
+      "RPS28",
+      "RPL9",
+      "RPS10",
+      "RPL35",
+      "RPS18",
+      "RPS25",
+      "RPS3",
+      "RPL30"
+    ]
+  },
+  "MIPEP": {
+    "Jurkat": [
+      "GFM1",
+      "PNPT1",
+      "PMPCA",
+      "MFN2",
+      "TIMM44",
+      "ATP5ME",
+      "FARS2",
+      "LONP1",
+      "MTPAP",
+      "PEX19"
+    ],
+    "HepG2": [
+      "LONP1",
+      "PAF1",
+      "ATP5PO",
+      "PPME1",
+      "PMPCA",
+      "MTPAP",
+      "PMPCB",
+      "GNPAT",
+      "DNAJC19",
+      "METAP2"
+    ],
+    "K562": [
+      "PMPCA",
+      "PAF1",
+      "PITRM1",
+      "ATP5PO",
+      "PMPCB",
+      "TIMM44",
+      "MFN2",
+      "MTPAP",
+      "FXN",
+      "AIFM1"
+    ],
+    "RPE1": [
+      "FARS2",
+      "ATP5PO",
+      "COA5",
+      "PNPT1",
+      "MFN2",
+      "DNAJC19",
+      "GNPAT",
+      "FXN",
+      "PPME1",
+      "GFM1"
+    ]
+  },
+  "MRPS23": {
+    "Jurkat": [
+      "MRPL36",
+      "MRPS7",
+      "MRPS30",
+      "MRPS24",
+      "MRPS22",
+      "MRPS12",
+      "MRPS31",
+      "MRPS26",
+      "MRPS34",
+      "MRPS9"
+    ],
+    "HepG2": [
+      "MRPS21",
+      "MRPS17",
+      "MRPS12",
+      "MRPS24",
+      "MRPL42",
+      "MRPS5",
+      "MRPS9",
+      "MRPS34",
+      "MRPS10",
+      "MRPS31"
+    ],
+    "K562": [
+      "MRPS35",
+      "MRPS21",
+      "MRPS17",
+      "RPL23",
+      "MRPS5",
+      "MRPS12",
+      "BRIP1",
+      "MRPS30",
+      "MRPS18B",
+      "MRPS33"
+    ],
+    "RPE1": [
+      "MRPS25",
+      "MRPS9",
+      "MRPS2",
+      "MRPS28",
+      "MRPL51",
+      "MRPS17",
+      "MRPS18B",
+      "MRPS24",
+      "MRPL23",
+      "BRIP1"
+    ]
+  },
+  "GTF3C6": {
+    "Jurkat": [
+      "GINS2",
+      "UFM1",
+      "GTF2A2",
+      "SLC39A10",
+      "BTF3L4",
+      "BTF3",
+      "GTF2H2C",
+      "GTF2H3",
+      "GTF3A",
+      "CCT4"
+    ],
+    "HepG2": [
+      "GUCD1",
+      "GTF2H3",
+      "NCAPD3",
+      "GTF2A1",
+      "GTF3C3",
+      "TAF3",
+      "SUDS3",
+      "TRMT5",
+      "SENP6",
+      "GTF3C4"
+    ],
+    "K562": [
+      "BTF3L4",
+      "C19orf53",
+      "TRMT5",
+      "GINS1",
+      "GEMIN6",
+      "EIF2S1",
+      "GINS2",
+      "UFM1",
+      "GTF3C3",
+      "GTF3C4"
+    ],
+    "RPE1": [
+      "TTC27",
+      "GEMIN6",
+      "TAF3",
+      "SLC39A10",
+      "GTF2A1",
+      "GTF3C5",
+      "GUCD1",
+      "TAF1D",
+      "GTF2A2",
+      "CHAF1A"
+    ]
+  },
+  "CENPN": {
+    "Jurkat": [
+      "CEP85",
+      "SPC25",
+      "SEH1L",
+      "CENPH",
+      "CINP",
+      "CEP192",
+      "CDT1",
+      "NPM1",
+      "NCAPD2",
+      "NUF2"
+    ],
+    "HepG2": [
+      "NASP",
+      "SPC25",
+      "CEP152",
+      "OIP5",
+      "CENPK",
+      "CDT1",
+      "NCAPH",
+      "CEP192",
+      "NCAPG2",
+      "CEP85"
+    ],
+    "K562": [
+      "NCAPD2",
+      "CCNC",
+      "NCAPH",
+      "NPM1",
+      "CENPK",
+      "CCNH",
+      "CENPH",
+      "NASP",
+      "NCAPG2",
+      "DSN1"
+    ],
+    "RPE1": [
+      "NDC80",
+      "CEP85",
+      "NCAPH",
+      "NASP",
+      "CENPP",
+      "ZWINT",
+      "NCAPG2",
+      "NUF2",
+      "CENPJ",
+      "MIS18A"
+    ]
+  },
+  "MRPS16": {
+    "Jurkat": [
+      "MRPS28",
+      "MRPS2",
+      "MRPS31",
+      "MRPS25",
+      "MRPS34",
+      "MRPS11",
+      "MRPS24",
+      "MRPS18B",
+      "MRPS33",
+      "MRPS10"
+    ],
+    "HepG2": [
+      "MRPS17",
+      "MRPS21",
+      "MRPS6",
+      "MRPS30",
+      "MRPS12",
+      "MRPS31",
+      "MRPS24",
+      "MRPS28",
+      "MRPS11",
+      "MRPS14"
+    ],
+    "K562": [
+      "MRPS9",
+      "MRPL20",
+      "MRPS6",
+      "MRPS2",
+      "MRPS28",
+      "MRPS10",
+      "MRPS12",
+      "MRPS21",
+      "MRPS18C",
+      "MRPS31"
+    ],
+    "RPE1": [
+      "BRIP1",
+      "MRPS18A",
+      "MRPS35",
+      "MRPS14",
+      "MRPS2",
+      "MRPS5",
+      "MRPS11",
+      "MRPS18B",
+      "MRPS25",
+      "MRPS34"
+    ]
+  },
+  "DOLK": {
+    "Jurkat": [
+      "DDOST",
+      "CTDP1",
+      "DLD",
+      "COPS3",
+      "CRLS1",
+      "DPM2",
+      "ALDOA",
+      "PGK1",
+      "DPY19L4",
+      "COG4"
+    ],
+    "HepG2": [
+      "PDPK1",
+      "PKMYT1",
+      "DLD",
+      "LAMTOR2",
+      "CDK1",
+      "ALDOA",
+      "DDOST",
+      "TPI1",
+      "LPIN1",
+      "DHDDS"
+    ],
+    "K562": [
+      "WBP1",
+      "TPI1",
+      "PGK1",
+      "DEPDC5",
+      "DSTYK",
+      "LPIN1",
+      "PKMYT1",
+      "COPS3",
+      "MST1",
+      "DLD"
+    ],
+    "RPE1": [
+      "DPM2",
+      "CMPK1",
+      "CDK1",
+      "LAMTOR2",
+      "ALDOA",
+      "MST1",
+      "WBP1",
+      "DPY19L4",
+      "PGK1",
+      "ALG1"
+    ]
+  },
+  "COG2": {
+    "Jurkat": [
+      "SEC16A",
+      "VPS54",
+      "CCDC115",
+      "COG4",
+      "COPS5",
+      "NSMCE2",
+      "AP2M1",
+      "COPE",
+      "COA5",
+      "SMC2"
+    ],
+    "HepG2": [
+      "COG4",
+      "COPE",
+      "TCOF1",
+      "SMC2",
+      "VPS51",
+      "COG3",
+      "VPS25",
+      "BET1",
+      "VPS54",
+      "EXOC1"
+    ],
+    "K562": [
+      "COG4",
+      "EXOC8",
+      "TMEM199",
+      "COPS8",
+      "SMC2",
+      "VPS51",
+      "TCOF1",
+      "RAB6A",
+      "EXOC7",
+      "AP2M1"
+    ],
+    "RPE1": [
+      "BET1",
+      "GOSR2",
+      "SMC2",
+      "COPS8",
+      "AP2M1",
+      "VPS51",
+      "COG1",
+      "SEC16A",
+      "COA5",
+      "COPS6"
+    ]
+  },
+  "USP10": {
+    "Jurkat": [
+      "USP14",
+      "SPCS2",
+      "SPCS3",
+      "URM1",
+      "POGLUT3",
+      "UBE3C",
+      "SSU72",
+      "USP8",
+      "CDC16",
+      "EIF3H"
+    ],
+    "HepG2": [
+      "SDE2",
+      "USP36",
+      "KCMF1",
+      "SPCS3",
+      "CUL2",
+      "USP19",
+      "UBE2L3",
+      "PSMD14",
+      "UTP25",
+      "SLC35G2"
+    ],
+    "K562": [
+      "USP14",
+      "SDE2",
+      "UBE2H",
+      "POGLUT3",
+      "USP37",
+      "UTP25",
+      "SPCS3",
+      "UBQLN4",
+      "PPP4C",
+      "USP19"
+    ],
+    "RPE1": [
+      "CUL1",
+      "USP8",
+      "CUL2",
+      "UCHL5",
+      "SERF2",
+      "URM1",
+      "USPL1",
+      "EIF3H",
+      "USP14",
+      "USP19"
+    ]
+  },
+  "RPL26": {
+    "Jurkat": [
+      "RPS16",
+      "RPL38",
+      "RPL39",
+      "RPL30",
+      "RPS28",
+      "RPS25",
+      "RPL8",
+      "RPL41",
+      "RPL36",
+      "RPL12"
+    ],
+    "HepG2": [
+      "RPL8",
+      "RPL41",
+      "RPS24",
+      "RPL28",
+      "RPL32",
+      "RPL15",
+      "RPS23",
+      "RPL11",
+      "RPL12",
+      "RPL34"
+    ],
+    "K562": [
+      "RPL37A",
+      "RPL18",
+      "RPS16",
+      "RPL19",
+      "RPL27",
+      "RPL9",
+      "RPL38",
+      "RPL37",
+      "RPL35",
+      "RPS17"
+    ],
+    "RPE1": [
+      "RPL28",
+      "RPL4",
+      "RPL41",
+      "RPS21",
+      "RPL9",
+      "RPL23A",
+      "RPS28",
+      "RPL39",
+      "RPL38",
+      "RPS24"
+    ]
+  },
+  "MARS": {
+    "Jurkat": [
+      "RAB6A",
+      "CD2BP2",
+      "ELAC2",
+      "STAT5B",
+      "SART3",
+      "SDC1",
+      "AP2M1",
+      "S100A1",
+      "ALG2",
+      "LRP5"
+    ],
+    "HepG2": [
+      "STAT5B",
+      "SLC39A7",
+      "CAMLG",
+      "LRP5",
+      "TLN1",
+      "ALG2",
+      "LIMS1",
+      "SMC2",
+      "PDCD6",
+      "SLC2A8"
+    ],
+    "K562": [
+      "SART3",
+      "RAB6A",
+      "AP2M1",
+      "AP2A1",
+      "SDC1",
+      "ELAC2",
+      "STAT5A",
+      "BET1",
+      "ALG2",
+      "ADRM1"
+    ],
+    "RPE1": [
+      "CD2BP2",
+      "LRP5",
+      "RAB6A",
+      "STAT5B",
+      "SCAP",
+      "TLN1",
+      "SLC39A7",
+      "BET1",
+      "DTL",
+      "ARL2"
+    ]
+  },
+  "DCTN2": {
+    "Jurkat": [
+      "DCTN3",
+      "KLC2",
+      "TUBG1",
+      "DNM1",
+      "DCTN5",
+      "TUBD1",
+      "NDC80",
+      "TLN1",
+      "DYNLL2",
+      "EXOC2"
+    ],
+    "HepG2": [
+      "DNM1",
+      "TUBB2A",
+      "TLN1",
+      "DYNC1I2",
+      "DCTN1",
+      "DCTN6",
+      "DYNLL1",
+      "ACTL6A",
+      "DNM1L",
+      "ACTR1B"
+    ],
+    "K562": [
+      "DCTN5",
+      "DNM1L",
+      "KLC2",
+      "DCTN1",
+      "DYNC1H1",
+      "AP2M1",
+      "NDC80",
+      "TUBB2A",
+      "ACTR1B",
+      "TUBB"
+    ],
+    "RPE1": [
+      "DCTN1",
+      "DYNLL1",
+      "DCTN6",
+      "TLN1",
+      "KLC2",
+      "AP2M1",
+      "ACTR1B",
+      "SPDL1",
+      "DYNC1I2",
+      "TUBB"
+    ]
+  },
+  "RMI1": {
+    "Jurkat": [
+      "MDN1",
+      "TUBA1B",
+      "CD3EAP",
+      "RBM42",
+      "METTL17",
+      "RPAIN",
+      "RRP12",
+      "RBM4",
+      "MIS18BP1",
+      "DNAJC17"
+    ],
+    "HepG2": [
+      "RPL7L1",
+      "METTL17",
+      "RAB4B",
+      "NIP7",
+      "MIS18A",
+      "RRN3",
+      "DNAJC17",
+      "MLLT6",
+      "MIS18BP1",
+      "RBM4"
+    ],
+    "K562": [
+      "RRM2",
+      "MED31",
+      "KRR1",
+      "MIS18BP1",
+      "RBM48",
+      "MLLT6",
+      "SRBD1",
+      "SRRM1",
+      "TUBA1B",
+      "RRP12"
+    ],
+    "RPE1": [
+      "ZC3H18",
+      "MYSM1",
+      "MIS18BP1",
+      "RRM2",
+      "RBM42",
+      "RRP7A",
+      "NIP7",
+      "METTL16",
+      "RPL7L1",
+      "MRM1"
+    ]
+  },
+  "DENR": {
+    "Jurkat": [
+      "NEMF",
+      "LSG1",
+      "SNRNP27",
+      "UHRF1",
+      "ZFR",
+      "RNF20",
+      "CDC7",
+      "SEH1L",
+      "SRP68",
+      "DDX23"
+    ],
+    "HepG2": [
+      "UHRF1",
+      "HNRNPU",
+      "SRF",
+      "RNF20",
+      "DIMT1",
+      "DEPDC5",
+      "SRP68",
+      "DDX23",
+      "ETF1",
+      "RRP15"
+    ],
+    "K562": [
+      "NUF2",
+      "TERF1",
+      "MANF",
+      "SRP68",
+      "HERC1",
+      "SRF",
+      "SRP72",
+      "HNRNPU",
+      "PES1",
+      "ETF1"
+    ],
+    "RPE1": [
+      "SRSF7",
+      "SIRT7",
+      "HNRNPU",
+      "EIF3M",
+      "UHRF1",
+      "HYOU1",
+      "SRSF10",
+      "DIMT1",
+      "SNRNP27",
+      "DDX23"
+    ]
+  },
+  "CDK2": {
+    "Jurkat": [
+      "TTK",
+      "CCNB1",
+      "MST1",
+      "CDC23",
+      "CDK12",
+      "MAP2K7",
+      "WEE1",
+      "CSNK2B",
+      "GAK",
+      "CCNC"
+    ],
+    "HepG2": [
+      "PLK1",
+      "CDK9",
+      "CDC6",
+      "CDC5L",
+      "CCND3",
+      "PKMYT1",
+      "SYF2",
+      "MNAT1",
+      "CCNB1",
+      "PRKCA"
+    ],
+    "K562": [
+      "CDC23",
+      "CCNC",
+      "TTK",
+      "CDC7",
+      "MST1",
+      "CDC6",
+      "CYC1",
+      "CDC26",
+      "CCND3",
+      "BUB1"
+    ],
+    "RPE1": [
+      "GAK",
+      "CDC26",
+      "CDC23",
+      "CDC42",
+      "CDK1",
+      "PPP6C",
+      "PLK1",
+      "CCNH",
+      "CSNK2B",
+      "SYF2"
+    ]
+  },
+  "CMTR1": {
+    "Jurkat": [
+      "METTL17",
+      "CMC4",
+      "CHCHD1",
+      "U2SURP",
+      "CMTR2",
+      "METTL14",
+      "RNGTT",
+      "DIMT1",
+      "TSR1",
+      "MRM1"
+    ],
+    "HepG2": [
+      "COMTD1",
+      "TRMT112",
+      "YTHDC1",
+      "DNMT1",
+      "DIMT1",
+      "TRMT10C",
+      "TICRR",
+      "UTP23",
+      "CTU2",
+      "RNGTT"
+    ],
+    "K562": [
+      "MMGT1",
+      "N6AMT1",
+      "NSUN4",
+      "ZC3H13",
+      "CHCHD1",
+      "TRMT112",
+      "DIMT1",
+      "CMC4",
+      "RNMT",
+      "TRMT6"
+    ],
+    "RPE1": [
+      "RAMAC",
+      "TRMT10C",
+      "RNGTT",
+      "UTP23",
+      "METTL14",
+      "DNMT1",
+      "MMGT1",
+      "NAT10",
+      "CMC4",
+      "RNMT"
+    ]
+  },
+  "TFDP1": {
+    "Jurkat": [
+      "SYF2",
+      "PELP1",
+      "TERF1",
+      "RNF20",
+      "GTF2B",
+      "GTF2H3",
+      "BRF2",
+      "CD2BP2",
+      "GTF3C3",
+      "BRF1"
+    ],
+    "HepG2": [
+      "RFC2",
+      "BRF1",
+      "GTF3C3",
+      "CD2BP2",
+      "GTF2H3",
+      "BPTF",
+      "BRF2",
+      "CDK1",
+      "GTF2B",
+      "TFIP11"
+    ],
+    "K562": [
+      "SYF2",
+      "BRF1",
+      "RFC2",
+      "USF2",
+      "TAF1",
+      "GTF2E1",
+      "BPTF",
+      "BRF2",
+      "GTF3C3",
+      "CDC73"
+    ],
+    "RPE1": [
+      "SP2",
+      "CTDP1",
+      "GTF2E1",
+      "TERF1",
+      "GTF3C3",
+      "GTF2B",
+      "CD2BP2",
+      "BRF2",
+      "CDK1",
+      "DMAP1"
+    ]
+  },
+  "TM7SF2": {
+    "Jurkat": [
+      "HSD17B12",
+      "TRMT112",
+      "EMC7",
+      "LAMTOR1",
+      "METTL17",
+      "TMEM199",
+      "SCD",
+      "SLC35A4",
+      "STARD7",
+      "CMTR1"
+    ],
+    "HepG2": [
+      "METTL17",
+      "TMEM258",
+      "ELOVL1",
+      "SLC7A5",
+      "CMTR1",
+      "MMS19",
+      "TMEM127",
+      "STARD7",
+      "SARS2",
+      "TMX2"
+    ],
+    "K562": [
+      "CMTR2",
+      "TLCD1",
+      "STARD7",
+      "TMEM127",
+      "TMED10",
+      "HSD17B12",
+      "METTL17",
+      "MMS19",
+      "LAMTOR1",
+      "TMED2"
+    ],
+    "RPE1": [
+      "CMTR1",
+      "SRP14",
+      "HSD17B12",
+      "ATL2",
+      "METTL17",
+      "LAMTOR1",
+      "HSD17B10",
+      "TMX2",
+      "LST1",
+      "ELOVL1"
+    ]
+  },
+  "TRMT112": {
+    "Jurkat": [
+      "PTCD3",
+      "RRP12",
+      "URM1",
+      "METTL14",
+      "MLLT6",
+      "COMTD1",
+      "NSUN4",
+      "METTL17",
+      "RTRAF",
+      "YTHDC1"
+    ],
+    "HepG2": [
+      "GTF2H4",
+      "MRM1",
+      "CMTR2",
+      "CMTR1",
+      "DIMT1",
+      "METTL21A",
+      "UTP18",
+      "METTL16",
+      "RAMAC",
+      "NSUN4"
+    ],
+    "K562": [
+      "PTCD3",
+      "TRMT10C",
+      "TFB1M",
+      "METTL14",
+      "TRMT6",
+      "RNMT",
+      "DIMT1",
+      "METTL17",
+      "YTHDC1",
+      "PRMT5"
+    ],
+    "RPE1": [
+      "MRM1",
+      "GTF2H4",
+      "METTL3",
+      "CMTR2",
+      "TRMT10C",
+      "METTL16",
+      "TRMT6",
+      "CMTR1",
+      "RRP12",
+      "PRMT1"
+    ]
+  },
+  "INO80B": {
+    "Jurkat": [
+      "NAT10",
+      "EP400",
+      "ING3",
+      "SBNO1",
+      "TOX4",
+      "INO80E",
+      "NUBP2",
+      "NUP107",
+      "TAF8",
+      "IPO13"
+    ],
+    "HepG2": [
+      "ING3",
+      "INO80C",
+      "IPO13",
+      "INTS7",
+      "SMARCE1",
+      "DNTTIP2",
+      "CINP",
+      "ASF1B",
+      "NUBP2",
+      "NAT10"
+    ],
+    "K562": [
+      "TOX4",
+      "ING3",
+      "ASF1B",
+      "NFRKB",
+      "EP400",
+      "GINS3",
+      "INTS8",
+      "INTS9",
+      "INTS7",
+      "INTS3"
+    ],
+    "RPE1": [
+      "GTF2H3",
+      "NUP107",
+      "INO80E",
+      "SMARCE1",
+      "SBNO1",
+      "INTS9",
+      "ING3",
+      "TWNK",
+      "NFRKB",
+      "IPO13"
+    ]
+  },
+  "POLR1E": {
+    "Jurkat": [
+      "RRN3",
+      "ZNF100",
+      "TWISTNB",
+      "PEX1",
+      "ZFP69B",
+      "CD3EAP",
+      "POLR3K",
+      "POLR2F",
+      "POLR3C",
+      "ELOF1"
+    ],
+    "HepG2": [
+      "POLR1D",
+      "POLR3F",
+      "POLR3H",
+      "POLR1C",
+      "POLR2K",
+      "GTF2E1",
+      "RPRD1B",
+      "ZNF100",
+      "POLR3C",
+      "POLR2G"
+    ],
+    "K562": [
+      "POLR1A",
+      "POLR3H",
+      "POLR2H",
+      "POLR3C",
+      "POLR3K",
+      "RRN3",
+      "ZFP69B",
+      "PEX1",
+      "POLR2K",
+      "POLR2I"
+    ],
+    "RPE1": [
+      "ZNRD1",
+      "ZNF84",
+      "ZFP69B",
+      "POLR3K",
+      "POLR3H",
+      "POLR2F",
+      "POLR1A",
+      "POLR3B",
+      "POLR1C",
+      "PEX1"
+    ]
+  },
+  "MRPL35": {
+    "Jurkat": [
+      "MRPL24",
+      "MRPL45",
+      "MRPL10",
+      "MRPL28",
+      "MRPL13",
+      "MRPL27",
+      "MRPL49",
+      "MRPL15",
+      "MRPL37",
+      "MRPL1"
+    ],
+    "HepG2": [
+      "MRPL2",
+      "MRPL51",
+      "MRPL46",
+      "MRPL1",
+      "MRPL42",
+      "MRPL17",
+      "MRPL13",
+      "MRPL41",
+      "MRPL10",
+      "MRPL4"
+    ],
+    "K562": [
+      "MRPL1",
+      "MRPL15",
+      "MRPL16",
+      "MRPL2",
+      "MRPL45",
+      "MRPL44",
+      "MRPL42",
+      "MRPL34",
+      "BRIP1",
+      "MRPL33"
+    ],
+    "RPE1": [
+      "MRPL46",
+      "MRPL2",
+      "MRPL45",
+      "MRPL33",
+      "MRPL24",
+      "MRPL49",
+      "MRPL36",
+      "MRPL20",
+      "MRPL27",
+      "MRPL4"
+    ]
+  },
+  "COPS3": {
+    "Jurkat": [
+      "MAP2K7",
+      "COPS8",
+      "COPS2",
+      "TCP1",
+      "GPS2",
+      "SHC1",
+      "CCND3",
+      "TPRKB",
+      "PPP2R3C",
+      "SNIP1"
+    ],
+    "HepG2": [
+      "TCP1",
+      "CCT3",
+      "TP53RK",
+      "COPS6",
+      "COPE",
+      "TPRKB",
+      "CTDP1",
+      "PES1",
+      "HIPK1",
+      "COPS2"
+    ],
+    "K562": [
+      "ING3",
+      "BUB1",
+      "COPS4",
+      "EPB41L2",
+      "COPS8",
+      "CCNH",
+      "SNIP1",
+      "SHC1",
+      "HIPK1",
+      "SNAPC5"
+    ],
+    "RPE1": [
+      "TP53RK",
+      "BUB1",
+      "SHC1",
+      "PPP6C",
+      "PES1",
+      "HIPK1",
+      "CTDP1",
+      "ING3",
+      "TSG101",
+      "COPE"
+    ]
+  },
+  "SHQ1": {
+    "Jurkat": [
+      "CIAPIN1",
+      "CPSF1",
+      "SS18L2",
+      "NOM1",
+      "SENP6",
+      "SYS1",
+      "NOB1",
+      "HAUS1",
+      "C19orf53",
+      "SAE1"
+    ],
+    "HepG2": [
+      "C19orf53",
+      "UFM1",
+      "CPSF1",
+      "CIAPIN1",
+      "SGPP1",
+      "SYS1",
+      "NOM1",
+      "SCNM1",
+      "SSBP1",
+      "SUGP1"
+    ],
+    "K562": [
+      "GUCD1",
+      "CIAPIN1",
+      "IPO11",
+      "WDR82",
+      "GINS1",
+      "SGPP1",
+      "SENP6",
+      "SMG5",
+      "CPSF1",
+      "LEO1"
+    ],
+    "RPE1": [
+      "SYS1",
+      "GTF2A1",
+      "GUCD1",
+      "CPSF1",
+      "NOM1",
+      "SAE1",
+      "HAUS1",
+      "SUGP1",
+      "IPO11",
+      "USP5"
+    ]
+  },
+  "RCL1": {
+    "Jurkat": [
+      "EXOSC5",
+      "UTP23",
+      "FCF1",
+      "DNAJC17",
+      "RPL7L1",
+      "NOC4L",
+      "TWISTNB",
+      "CWC15",
+      "GNL2",
+      "DIS3"
+    ],
+    "HepG2": [
+      "RPL7L1",
+      "GNL2",
+      "TWISTNB",
+      "NOC3L",
+      "NOC4L",
+      "FCF1",
+      "EXOSC5",
+      "RRS1",
+      "MAK16",
+      "EBNA1BP2"
+    ],
+    "K562": [
+      "CWC15",
+      "POLR1E",
+      "UTP23",
+      "NOC3L",
+      "NOL10",
+      "FCF1",
+      "RTCB",
+      "RRN3",
+      "UTP3",
+      "URB1"
+    ],
+    "RPE1": [
+      "NOC4L",
+      "KRR1",
+      "RTCB",
+      "RRP12",
+      "RRN3",
+      "NLE1",
+      "EBNA1BP2",
+      "UTP3",
+      "RRP7A",
+      "DNAJC17"
+    ]
+  },
+  "GTF2H4": {
+    "Jurkat": [
+      "GTF3C3",
+      "ZNF84",
+      "TAF10",
+      "POLR1E",
+      "GTF3C1",
+      "GTF3A",
+      "GTF3C2",
+      "TAF11",
+      "GTF2H2",
+      "PEX1"
+    ],
+    "HepG2": [
+      "ZNF143",
+      "GTF2F2",
+      "GTF2F1",
+      "TAF8",
+      "GTF3C5",
+      "ZNF84",
+      "GTF3A",
+      "GTF2H1",
+      "GTF2H2",
+      "GTF3C4"
+    ],
+    "K562": [
+      "GTF2F1",
+      "GTF3C1",
+      "GTF2E2",
+      "ZNF84",
+      "GTF3C4",
+      "GTF2F2",
+      "TAF8",
+      "MZF1",
+      "TFB2M",
+      "GTF3C5"
+    ],
+    "RPE1": [
+      "ZNF143",
+      "GTF2F1",
+      "GTF2H3",
+      "TAF6L",
+      "TAF2",
+      "TAF5",
+      "ZNF84",
+      "GTF2F2",
+      "GTF3C4",
+      "GTF2H1"
+    ]
+  },
+  "QRSL1": {
+    "Jurkat": [
+      "URM1",
+      "OSGEP",
+      "UQCRFS1",
+      "LARS2",
+      "IARS",
+      "NARS",
+      "QARS",
+      "GCLC",
+      "NARS2",
+      "SARS2"
+    ],
+    "HepG2": [
+      "MARS2",
+      "EEF1G",
+      "EARS2",
+      "YARS",
+      "OSGEP",
+      "UQCRFS1",
+      "SARS2",
+      "GLRX5",
+      "GLRX3",
+      "IARS"
+    ],
+    "K562": [
+      "UQCRFS1",
+      "GLRX3",
+      "IARS2",
+      "TRMT112",
+      "LARS2",
+      "OSGEP",
+      "EARS2",
+      "UQCRH",
+      "LARS",
+      "NARS2"
+    ],
+    "RPE1": [
+      "QARS",
+      "GCLC",
+      "HARS",
+      "TRMT112",
+      "IARS",
+      "MRM1",
+      "UQCRFS1",
+      "SARS2",
+      "VARS2",
+      "OSGEP"
+    ]
+  },
+  "TTC4": {
+    "Jurkat": [
+      "CCT3",
+      "TTK",
+      "TBPL1",
+      "TVP23C",
+      "TPR",
+      "MRTO4",
+      "TNRC6A",
+      "HSP90B1",
+      "CCT8",
+      "TSEN34"
+    ],
+    "HepG2": [
+      "PPP4R2",
+      "TVP23C",
+      "TRMT10C",
+      "TSEN34",
+      "CCT5",
+      "HSP90B1",
+      "TIMM44",
+      "PTCD1",
+      "TPR",
+      "TNRC6A"
+    ],
+    "K562": [
+      "CCT8",
+      "MRTO4",
+      "SUGT1",
+      "TRRAP",
+      "PPP4R2",
+      "TOR2A",
+      "CCT7",
+      "CCT5",
+      "TPT1",
+      "CCT3"
+    ],
+    "RPE1": [
+      "TCP1",
+      "TBL3",
+      "HSPA8",
+      "TOR2A",
+      "TNRC6A",
+      "TRMT10C",
+      "PPP4R2",
+      "ACD",
+      "CTU2",
+      "CCT8"
+    ]
+  },
+  "RPL23A": {
+    "Jurkat": [
+      "RPL27A",
+      "RPL39",
+      "RPL9",
+      "RPS23",
+      "RPL4",
+      "RPL14",
+      "RPL34",
+      "RPL28",
+      "RPL36",
+      "RPL37A"
+    ],
+    "HepG2": [
+      "RPL28",
+      "RPL9",
+      "RPS2",
+      "RPS28",
+      "RPS23",
+      "RPL32",
+      "RPL4",
+      "RPLP2",
+      "RPL29",
+      "RPL18A"
+    ],
+    "K562": [
+      "RPL32",
+      "RPS28",
+      "RPS23",
+      "RPL37A",
+      "RPL19",
+      "RPL18A",
+      "RPL8",
+      "RPL7",
+      "RPL11",
+      "RPL29"
+    ],
+    "RPE1": [
+      "RPL27A",
+      "RPL35A",
+      "RPL4",
+      "RPL9",
+      "RPL26",
+      "RPL36",
+      "RPL12",
+      "RPL30",
+      "RPLP0",
+      "RPL14"
+    ]
+  },
+  "MRPL39": {
+    "Jurkat": [
+      "MRPL23",
+      "MRPL50",
+      "MRPL51",
+      "MRPL37",
+      "BRIP1",
+      "MRPL13",
+      "MRPL41",
+      "MRPL34",
+      "RPL23",
+      "MRPL3"
+    ],
+    "HepG2": [
+      "RPL13",
+      "MRPL20",
+      "MRPL17",
+      "MRPL4",
+      "MRPL33",
+      "MRPL10",
+      "MRPL49",
+      "MRPL19",
+      "MRPL35",
+      "MRPL50"
+    ],
+    "K562": [
+      "MRPL36",
+      "MRPL20",
+      "MRPL51",
+      "MRPL54",
+      "MRPL4",
+      "MRPL42",
+      "MRPL15",
+      "RPL13",
+      "MRPL37",
+      "MRPL49"
+    ],
+    "RPE1": [
+      "MRPL10",
+      "MRPL3",
+      "MRPL37",
+      "MRPL51",
+      "MRPL35",
+      "MRPL23",
+      "MRPL42",
+      "MRPL19",
+      "MRPL33",
+      "MRPL49"
+    ]
+  },
+  "GPN3": {
+    "Jurkat": [
+      "PSMG3",
+      "PDRG1",
+      "GTF3C2",
+      "UNC50",
+      "TRNP1",
+      "PNN",
+      "GTF3C4",
+      "RABGGTA",
+      "GPN2",
+      "GSPT1"
+    ],
+    "HepG2": [
+      "PPP1R37",
+      "GNPNAT1",
+      "GTF3C1",
+      "GTF3C2",
+      "GNL3L",
+      "GSPT1",
+      "TPRKB",
+      "GPN2",
+      "PGAM5",
+      "GTF3C5"
+    ],
+    "K562": [
+      "UBE3C",
+      "SPAG7",
+      "PSMG3",
+      "GNPNAT1",
+      "PNN",
+      "NRBP1",
+      "TPRKB",
+      "TRAPPC5",
+      "PCNX3",
+      "RABGGTA"
+    ],
+    "RPE1": [
+      "TP53RK",
+      "GTF3C5",
+      "PDRG1",
+      "GTF3C2",
+      "PPP1R37",
+      "SPAG7",
+      "TRAPPC5",
+      "TPRKB",
+      "DAP3",
+      "NRBP1"
+    ]
+  },
+  "NLE1": {
+    "Jurkat": [
+      "RRP12",
+      "NEPRO",
+      "SDAD1",
+      "METTL17",
+      "NOP2",
+      "GNL2",
+      "NOL10",
+      "NOC4L",
+      "NBEAL1",
+      "MALSU1"
+    ],
+    "HepG2": [
+      "NOC4L",
+      "GNL3L",
+      "RRP7A",
+      "RPL7L1",
+      "SDAD1",
+      "METTL17",
+      "GNPNAT1",
+      "NBEAL1",
+      "LAS1L",
+      "NOP2"
+    ],
+    "K562": [
+      "GNL3",
+      "METTL17",
+      "NOL7",
+      "NEDD1",
+      "MLLT6",
+      "LTV1",
+      "NOL10",
+      "EEFSEC",
+      "EBNA1BP2",
+      "NEPRO"
+    ],
+    "RPE1": [
+      "LTV1",
+      "NEMF",
+      "NELFE",
+      "NOL7",
+      "MALSU1",
+      "NOC4L",
+      "RBM42",
+      "GNL3",
+      "NOLC1",
+      "SDAD1"
+    ]
+  },
+  "CPSF3": {
+    "Jurkat": [
+      "CPSF6",
+      "SF3B4",
+      "CSTF3",
+      "PUF60",
+      "CPSF1",
+      "SF3B2",
+      "FARSB",
+      "UPF1",
+      "COPS6",
+      "USP9X"
+    ],
+    "HepG2": [
+      "SF3B5",
+      "CPSF6",
+      "SPCS3",
+      "USP14",
+      "PMPCB",
+      "CSTF1",
+      "SF3B3",
+      "TFIP11",
+      "PHF5A",
+      "RPS3A"
+    ],
+    "K562": [
+      "SPCS3",
+      "UPF1",
+      "USP14",
+      "CSTF3",
+      "SF3B5",
+      "PHF5A",
+      "CPSF4",
+      "CPSF1",
+      "USP9X",
+      "COPS6"
+    ],
+    "RPE1": [
+      "FARSB",
+      "SF3B5",
+      "SF3B2",
+      "SF3B3",
+      "PHF5A",
+      "DPH3",
+      "COPS6",
+      "USP9X",
+      "CPSF6",
+      "SPCS3"
+    ]
+  },
+  "BAP1": {
+    "Jurkat": [
+      "GPS2",
+      "CDK1",
+      "LAMTOR3",
+      "TIMM13",
+      "IPO13",
+      "COG1",
+      "SMG9",
+      "GLMN",
+      "MAP2K7",
+      "KIN"
+    ],
+    "HepG2": [
+      "PIGH",
+      "LAMTOR2",
+      "PKMYT1",
+      "LAMTOR3",
+      "S100A1",
+      "COG1",
+      "DNM1",
+      "MKRN1",
+      "GLMN",
+      "RANGAP1"
+    ],
+    "K562": [
+      "KIN",
+      "RANGAP1",
+      "LAMTOR3",
+      "DNM1",
+      "GUK1",
+      "STRIP1",
+      "PIGH",
+      "COG1",
+      "NAPG",
+      "TYK2"
+    ],
+    "RPE1": [
+      "GPS2",
+      "SACM1L",
+      "PIAS1",
+      "IPO13",
+      "MAP2K7",
+      "LIMS1",
+      "EFR3A",
+      "PTK2",
+      "MMGT1",
+      "AAMP"
+    ]
+  },
+  "EIF2B5": {
+    "Jurkat": [
+      "GTF2B",
+      "EIF3J",
+      "EIF3G",
+      "EIF3M",
+      "EIF4G1",
+      "EIF1AD",
+      "EIF2B3",
+      "EIF3H",
+      "EIF1",
+      "EIF4H"
+    ],
+    "HepG2": [
+      "GTF2E2",
+      "EIF1",
+      "EEF1G",
+      "EIF2B2",
+      "GTF2H3",
+      "EIF2S3",
+      "EIF3J",
+      "EIF5A",
+      "EIF3G",
+      "EIF4A3"
+    ],
+    "K562": [
+      "EIF3D",
+      "EIF3H",
+      "EIF2S3",
+      "EIF1",
+      "EIF3E",
+      "EIF3M",
+      "EIF5A",
+      "EIF3I",
+      "EIF2S1",
+      "EIF1AX"
+    ],
+    "RPE1": [
+      "EIF2B2",
+      "EIF2B3",
+      "GTF2H3",
+      "EIF3J",
+      "EIF1",
+      "EIF3E",
+      "EIF2B1",
+      "EIF5A",
+      "EIF3D",
+      "EIF4G2"
+    ]
+  },
+  "NELFE": {
+    "Jurkat": [
+      "ELOB",
+      "POLR2M",
+      "NELFA",
+      "NELFCD",
+      "RNF20",
+      "ELOF1",
+      "NEMF",
+      "ELAC2",
+      "ELP4",
+      "EEF1B2"
+    ],
+    "HepG2": [
+      "GTF2E2",
+      "HNRNPDL",
+      "EEF1G",
+      "MZF1",
+      "ILF2",
+      "RTEL1",
+      "EIF4G1",
+      "PHF5A",
+      "ETF1",
+      "PUF60"
+    ],
+    "K562": [
+      "ELAC2",
+      "EEF1B2",
+      "ELP2",
+      "ETF1",
+      "PHF5A",
+      "EIF4G1",
+      "NUFIP1",
+      "EEFSEC",
+      "NEMF",
+      "GTF3C3"
+    ],
+    "RPE1": [
+      "ILF3",
+      "POLR3F",
+      "POLR2M",
+      "ELAC2",
+      "ELP4",
+      "EEFSEC",
+      "ILF2",
+      "ELP5",
+      "NEMF",
+      "EIF4E"
+    ]
+  },
+  "CHMP7": {
+    "Jurkat": [
+      "ZDHHC7",
+      "VMP1",
+      "SMC6",
+      "CHMP1A",
+      "SNF8",
+      "VPS28",
+      "KIF14",
+      "IST1",
+      "VPS37A",
+      "TRAPPC5"
+    ],
+    "HepG2": [
+      "SACM1L",
+      "TMED2",
+      "UCHL5",
+      "SNF8",
+      "USP8",
+      "ZDHHC7",
+      "IST1",
+      "VMP1",
+      "NPM1",
+      "THOC7"
+    ],
+    "K562": [
+      "ZNF207",
+      "VMP1",
+      "VPS28",
+      "ZDHHC7",
+      "TRAPPC5",
+      "TMED2",
+      "TRAPPC3",
+      "SNF8",
+      "CHMP6",
+      "USP8"
+    ],
+    "RPE1": [
+      "THOC7",
+      "CHMP1A",
+      "VPS37A",
+      "EMC7",
+      "TMEM127",
+      "SACM1L",
+      "EXOC7",
+      "SNF8",
+      "PDCD6IP",
+      "TRAPPC3"
+    ]
+  },
+  "WARS": {
+    "Jurkat": [
+      "EARS2",
+      "DARS",
+      "SEPSECS",
+      "CTU2",
+      "VARS",
+      "CARS",
+      "HARS",
+      "GART",
+      "EPRS",
+      "QARS"
+    ],
+    "HepG2": [
+      "SARS2",
+      "GART",
+      "KARS",
+      "EARS2",
+      "TARS",
+      "NARS2",
+      "DARS",
+      "LARS",
+      "VARS",
+      "CARS"
+    ],
+    "K562": [
+      "FARSB",
+      "KARS",
+      "FARS2",
+      "EPRS",
+      "DARS",
+      "CARS",
+      "QARS",
+      "SARS2",
+      "NARS",
+      "IARS"
+    ],
+    "RPE1": [
+      "KARS",
+      "GART",
+      "TARS",
+      "QARS",
+      "AARS2",
+      "YARS2",
+      "LARS",
+      "EARS2",
+      "IARS",
+      "SARS2"
+    ]
+  },
+  "PSME2": {
+    "Jurkat": [
+      "PSMD2",
+      "PSMC1",
+      "PSMC4",
+      "PSMB5",
+      "PSMB1",
+      "PSMG4",
+      "COPS8",
+      "PSME1",
+      "PSMD13",
+      "PSMC3"
+    ],
+    "HepG2": [
+      "PPP4R2",
+      "PSMA3",
+      "PSMD4",
+      "IMP4",
+      "USP19",
+      "USP8",
+      "PSMB5",
+      "PSMD11",
+      "PSMB6",
+      "PSMC4"
+    ],
+    "K562": [
+      "SEPHS2",
+      "PSMD2",
+      "PPP4R2",
+      "PSMD14",
+      "USP14",
+      "RPN1",
+      "COPS8",
+      "PSMC3",
+      "PSMB1",
+      "PSMA4"
+    ],
+    "RPE1": [
+      "PSMA4",
+      "PSMC2",
+      "PPP4R2",
+      "SEPHS2",
+      "PSMB3",
+      "PSMD14",
+      "PSMC3",
+      "PSMD11",
+      "PSMD4",
+      "PSMC5"
+    ]
+  },
+  "RNASEH2C": {
+    "Jurkat": [
+      "RAC1",
+      "HNRNPC",
+      "TSEN34",
+      "DHX9",
+      "DBR1",
+      "ERCC3",
+      "REXO2",
+      "ISG20L2",
+      "HNRNPU",
+      "EXOSC8"
+    ],
+    "HepG2": [
+      "EXOSC3",
+      "HNRNPU",
+      "SETX",
+      "TSEN34",
+      "REXO2",
+      "TSEN54",
+      "TRMT10C",
+      "SARS2",
+      "HNRNPH1",
+      "HNRNPK"
+    ],
+    "K562": [
+      "SARS2",
+      "DHX36",
+      "REXO2",
+      "HNRNPH1",
+      "XRN2",
+      "HNRNPA1",
+      "PPP1R8",
+      "DICER1",
+      "ISG20L2",
+      "DBR1"
+    ],
+    "RPE1": [
+      "HNRNPU",
+      "EXOSC3",
+      "DHX9",
+      "SNRPE",
+      "RPP14",
+      "NHP2",
+      "HNRNPH1",
+      "SETX",
+      "XRN1",
+      "TSEN34"
+    ]
+  },
+  "DNAJC17": {
+    "Jurkat": [
+      "ZNF787",
+      "ZNF317",
+      "RRP12",
+      "GTF3C5",
+      "GTF3C1",
+      "YRDC",
+      "DNAJC8",
+      "ZNF706",
+      "CWC15",
+      "ZNF574"
+    ],
+    "HepG2": [
+      "PEX1",
+      "CWC15",
+      "RBM48",
+      "CD3EAP",
+      "ZNF706",
+      "NOC3L",
+      "RBM42",
+      "ZNF236",
+      "RRN3",
+      "ZC3H18"
+    ],
+    "K562": [
+      "CWC15",
+      "ZNF559",
+      "ZFP69B",
+      "GTF3C1",
+      "ZNF706",
+      "CCDC59",
+      "ZNF100",
+      "YRDC",
+      "TWISTNB",
+      "ZC3H18"
+    ],
+    "RPE1": [
+      "PEX1",
+      "NIP7",
+      "ZNF236",
+      "RBM42",
+      "YRDC",
+      "ZNF468",
+      "UNC50",
+      "ZNF100",
+      "DNAJC8",
+      "SNAPC1"
+    ]
+  },
+  "CUL1": {
+    "Jurkat": [
+      "SCFD1",
+      "USP10",
+      "SKP1",
+      "UBE2L3",
+      "CUL2",
+      "UBE3D",
+      "TUBA1B",
+      "USP19",
+      "USPL1",
+      "UBE3C"
+    ],
+    "HepG2": [
+      "SCFD1",
+      "CUL3",
+      "UFL1",
+      "TUBA1B",
+      "UBQLN4",
+      "DCUN1D5",
+      "SKP1",
+      "ARIH1",
+      "CUL7",
+      "UBE2L3"
+    ],
+    "K562": [
+      "TUBA1B",
+      "UBE3C",
+      "UBE2L3",
+      "PIAS4",
+      "UBE2M",
+      "ANAPC11",
+      "NPLOC4",
+      "USP10",
+      "ARIH1",
+      "SMC6"
+    ],
+    "RPE1": [
+      "UBE2L3",
+      "USP8",
+      "ANAPC11",
+      "UBR4",
+      "UBE2M",
+      "PRPF19",
+      "UFL1",
+      "UBQLN4",
+      "USP19",
+      "UCHL5"
+    ]
+  },
+  "HSP90B1": {
+    "Jurkat": [
+      "HPS5",
+      "HSCB",
+      "HSPA5",
+      "ATP6V1H",
+      "HSPA8",
+      "HSPA9",
+      "ATP6AP2",
+      "URI1",
+      "USP8",
+      "CCT6A"
+    ],
+    "HepG2": [
+      "LONP1",
+      "HSCB",
+      "ATP6AP2",
+      "HSPA14",
+      "CCT5",
+      "HSPA5",
+      "NUBP2",
+      "SPG7",
+      "HSPA9",
+      "TIMM44"
+    ],
+    "K562": [
+      "CCT5",
+      "CHMP1A",
+      "ATP6V1H",
+      "CHORDC1",
+      "CCT6A",
+      "HSPA5",
+      "DNAJA3",
+      "HSPA8",
+      "ATP6AP2",
+      "LONP1"
+    ],
+    "RPE1": [
+      "HSPH1",
+      "DNAJA1",
+      "CCT5",
+      "HMGB3",
+      "NUBP1",
+      "USP8",
+      "NPM1",
+      "CCT6A",
+      "HSPA9",
+      "HYOU1"
+    ]
+  },
+  "RAC1": {
+    "Jurkat": [
+      "REXO2",
+      "DIS3",
+      "DROSHA",
+      "RPP14",
+      "PGPEP1",
+      "DICER1",
+      "RRM1",
+      "XRN2",
+      "XRN1",
+      "TOE1"
+    ],
+    "HepG2": [
+      "RPIA",
+      "TRMT10C",
+      "RNASEH2C",
+      "HNRNPH1",
+      "DICER1",
+      "PNPT1",
+      "SNRPE",
+      "PPP1R8",
+      "RPN2",
+      "PARN"
+    ],
+    "K562": [
+      "EXOSC3",
+      "EXOSC1",
+      "DICER1",
+      "EXOSC8",
+      "RPIA",
+      "DIS3",
+      "XRN1",
+      "RPL5",
+      "TSR1",
+      "RAE1"
+    ],
+    "RPE1": [
+      "XRN2",
+      "DROSHA",
+      "TOE1",
+      "RAE1",
+      "TSEN34",
+      "DICER1",
+      "DIS3",
+      "EXOSC3",
+      "RPIA",
+      "HNRNPU"
+    ]
+  },
+  "RPL28": {
+    "Jurkat": [
+      "RPL34",
+      "RPL32",
+      "RPL11",
+      "RPL37",
+      "RPS28",
+      "RPL38",
+      "RPL35A",
+      "RPL39",
+      "RPL31",
+      "RPL18"
+    ],
+    "HepG2": [
+      "RPL26",
+      "RPL27A",
+      "RPL35A",
+      "RPL4",
+      "RPL14",
+      "RPL18",
+      "RPL29",
+      "RPL38",
+      "RPL37",
+      "RPL37A"
+    ],
+    "K562": [
+      "RPL38",
+      "RPL10",
+      "RPL35A",
+      "RPS5",
+      "RPLP0",
+      "RPL27A",
+      "RPL29",
+      "RPS28",
+      "RPL27",
+      "RPL30"
+    ],
+    "RPE1": [
+      "RPL39",
+      "RPL38",
+      "RPL15",
+      "RPL9",
+      "RPL37A",
+      "RPL11",
+      "RPL31",
+      "RPS5",
+      "RPL27A",
+      "RPL32"
+    ]
+  },
+  "ARPC4": {
+    "Jurkat": [
+      "TTC1",
+      "RPAP3",
+      "CCT6A",
+      "RBM14",
+      "PTCD1",
+      "CCT7",
+      "CTNNBL1",
+      "CHMP3",
+      "TCP1",
+      "TVP23C"
+    ],
+    "HepG2": [
+      "TTC1",
+      "CHMP3",
+      "TBPL1",
+      "LAMTOR3",
+      "CCT7",
+      "PMF1",
+      "RPAP3",
+      "TBL3",
+      "ARL2",
+      "TRAPPC11"
+    ],
+    "K562": [
+      "ACTR2",
+      "PPAN",
+      "TRAPPC11",
+      "CTNNBL1",
+      "CHMP3",
+      "ARPC1B",
+      "LAMTOR3",
+      "TEN1",
+      "PMF1",
+      "CCT6A"
+    ],
+    "RPE1": [
+      "RBM14",
+      "CCT3",
+      "TBPL1",
+      "CCT7",
+      "TARS2",
+      "ARL2",
+      "LARS",
+      "TRAPPC1",
+      "TTC4",
+      "PPP4R2"
+    ]
+  },
+  "PTMA": {
+    "Jurkat": [
+      "AHCTF1",
+      "TOX4",
+      "TFB2M",
+      "ZMAT2",
+      "RBM25",
+      "SERBP1",
+      "MTPAP",
+      "NFATC2IP",
+      "POP1",
+      "AATF"
+    ],
+    "HepG2": [
+      "PAXBP1",
+      "THAP1",
+      "MTPAP",
+      "AHCTF1",
+      "TFB2M",
+      "PTPMT1",
+      "SERBP1",
+      "METTL14",
+      "TOX4",
+      "TPX2"
+    ],
+    "K562": [
+      "TFB2M",
+      "TMEM214",
+      "POLA2",
+      "THAP1",
+      "TOX4",
+      "SERBP1",
+      "TPT1",
+      "TRIAP1",
+      "PLEKHN1",
+      "TEFM"
+    ],
+    "RPE1": [
+      "TRIAP1",
+      "ATF5",
+      "UTP11",
+      "THAP1",
+      "POLA2",
+      "PTPMT1",
+      "PAXBP1",
+      "METTL14",
+      "AHCTF1",
+      "AATF"
+    ]
+  },
+  "DBR1": {
+    "Jurkat": [
+      "DROSHA",
+      "DHX9",
+      "DDX21",
+      "DDX56",
+      "PPP1R8",
+      "BRD2",
+      "DR1",
+      "DDX27",
+      "PARN",
+      "XRN2"
+    ],
+    "HepG2": [
+      "PPP1R8",
+      "DROSHA",
+      "DICER1",
+      "XRN2",
+      "PNPT1",
+      "PARN",
+      "RAD51",
+      "DDX3X",
+      "DDX55",
+      "HARS2"
+    ],
+    "K562": [
+      "XRN1",
+      "DROSHA",
+      "DDX56",
+      "XRN2",
+      "DICER1",
+      "REXO2",
+      "PNPT1",
+      "ZNRD1",
+      "ZCRB1",
+      "DDX3X"
+    ],
+    "RPE1": [
+      "RPL5",
+      "BRD2",
+      "DICER1",
+      "DDX21",
+      "DR1",
+      "REXO2",
+      "XRN2",
+      "DHX36",
+      "HARS2",
+      "PNPT1"
+    ]
+  },
+  "NDUFB4": {
+    "Jurkat": [
+      "FDXR",
+      "NUBP1",
+      "UQCRQ",
+      "NDUFA11",
+      "NDUFAB1",
+      "NDUFA4",
+      "UQCRC2",
+      "COX5B",
+      "COQ4",
+      "NDUFS5"
+    ],
+    "HepG2": [
+      "UQCRQ",
+      "ATP5F1B",
+      "ATP5F1A",
+      "NDUFAF7",
+      "NDUFB10",
+      "NDUFA6",
+      "UQCRFS1",
+      "NDUFAF5",
+      "NDUFA11",
+      "NDUFA4"
+    ],
+    "K562": [
+      "NDUFAB1",
+      "NDUFA4",
+      "NDUFS5",
+      "NDUFAF3",
+      "NDUFAF7",
+      "NDUFB7",
+      "ATP5F1B",
+      "NDUFA11",
+      "NDUFB8",
+      "NUBP2"
+    ],
+    "RPE1": [
+      "NDUFA2",
+      "NDUFA11",
+      "NDUFB6",
+      "COX5B",
+      "NDUFS3",
+      "NDUFB10",
+      "ATP5F1B",
+      "NUBP2",
+      "UQCRQ",
+      "NDUFV2"
+    ]
+  },
+  "PGK1": {
+    "Jurkat": [
+      "PPA1",
+      "MAP2K7",
+      "PPP1R2",
+      "PGS1",
+      "GSK3B",
+      "GLB1",
+      "PKMYT1",
+      "CDK2",
+      "PPP2R3C",
+      "GPN1"
+    ],
+    "HepG2": [
+      "PPP2R3C",
+      "PPP6C",
+      "PPP1R2",
+      "GLB1",
+      "PGAM1",
+      "PTPN1",
+      "GMPPB",
+      "PPP2CA",
+      "CDK1",
+      "CDK2"
+    ],
+    "K562": [
+      "PTGR2",
+      "PRKCA",
+      "PDPK1",
+      "CDK1",
+      "PLK1",
+      "PPP2R3C",
+      "PPA1",
+      "MST1",
+      "GLB1",
+      "GMPPB"
+    ],
+    "RPE1": [
+      "PGPEP1",
+      "PPP2CA",
+      "CMPK1",
+      "PPA2",
+      "PTPN1",
+      "PGS1",
+      "PPA1",
+      "PNPT1",
+      "PPP1R8",
+      "GSK3B"
+    ]
+  },
+  "PRRC2A": {
+    "Jurkat": [
+      "BRD2",
+      "TTC4",
+      "RFC2",
+      "RBBP4",
+      "PREB",
+      "SART3",
+      "DEPDC5",
+      "LRPPRC",
+      "KLF7",
+      "PPAN"
+    ],
+    "HepG2": [
+      "HMGA1",
+      "PRDM4",
+      "STAT5B",
+      "RFC2",
+      "TSR2",
+      "TRRAP",
+      "BAG6",
+      "KLF7",
+      "DEPDC5",
+      "RPAP3"
+    ],
+    "K562": [
+      "CTNNBL1",
+      "DTL",
+      "RBBP4",
+      "NAF1",
+      "PPRC1",
+      "BAG6",
+      "TARDBP",
+      "ARID5B",
+      "KLF7",
+      "SART3"
+    ],
+    "RPE1": [
+      "TSR2",
+      "KLF7",
+      "SART3",
+      "PPRC1",
+      "CTNNBL1",
+      "HMGA1",
+      "POP1",
+      "STAT5B",
+      "RPAP3",
+      "RFC2"
+    ]
+  },
+  "YARS2": {
+    "Jurkat": [
+      "LARS2",
+      "YEATS2",
+      "PARS2",
+      "IARS2",
+      "AAR2",
+      "AARS",
+      "NARS2",
+      "FARS2",
+      "HARS",
+      "KARS"
+    ],
+    "HepG2": [
+      "NARS2",
+      "LAMTOR2",
+      "EARS2",
+      "AAR2",
+      "LYRM4",
+      "IARS",
+      "FARSA",
+      "FARS2",
+      "MAT2A",
+      "WARS"
+    ],
+    "K562": [
+      "WARS",
+      "RARS2",
+      "MAT2A",
+      "CYCS",
+      "YEATS2",
+      "YARS",
+      "YEATS4",
+      "DARS",
+      "HARS",
+      "FARS2"
+    ],
+    "RPE1": [
+      "FARSA",
+      "MAT2A",
+      "KARS",
+      "VARS",
+      "LYRM4",
+      "WARS",
+      "YEATS4",
+      "NARS2",
+      "FARSB",
+      "FARS2"
+    ]
+  },
+  "SNRNP48": {
+    "Jurkat": [
+      "SNAPC1",
+      "UTP18",
+      "SNUPN",
+      "ZRANB2",
+      "INTS14",
+      "SNRNP35",
+      "SNRPF",
+      "PRPF38A",
+      "SNRPA1",
+      "SNRNP40"
+    ],
+    "HepG2": [
+      "ZMAT5",
+      "SNRPA1",
+      "SRP19",
+      "RBM42",
+      "SNUPN",
+      "SNRNP200",
+      "RBM48",
+      "UTP18",
+      "SNRNP35",
+      "SNRPD3"
+    ],
+    "K562": [
+      "ZCRB1",
+      "CWC22",
+      "ZFC3H1",
+      "SNRPG",
+      "RRP12",
+      "ZRANB2",
+      "SNRPA1",
+      "SRP9",
+      "SNRNP70",
+      "ZMAT5"
+    ],
+    "RPE1": [
+      "NIP7",
+      "ZFC3H1",
+      "RRP12",
+      "SNAPC1",
+      "RBM48",
+      "PNN",
+      "PRPF38A",
+      "RBM42",
+      "BUD13",
+      "SNRNP200"
+    ]
+  },
+  "NHLRC2": {
+    "Jurkat": [
+      "ZCCHC9",
+      "RCCD1",
+      "CCDC86",
+      "DNAJC8",
+      "RPS19BP1",
+      "FUNDC2",
+      "SLC35G2",
+      "TXNL4B",
+      "PNO1",
+      "RRP12"
+    ],
+    "HepG2": [
+      "LTV1",
+      "FUNDC2",
+      "SERF2",
+      "CCDC137",
+      "SLC35G2",
+      "ARL6IP6",
+      "NOL12",
+      "DNAJC8",
+      "PNO1",
+      "INTS14"
+    ],
+    "K562": [
+      "LTV1",
+      "NFATC2IP",
+      "GNL2",
+      "NIP7",
+      "LENG8",
+      "TEX10",
+      "DNAJC8",
+      "CHCHD1",
+      "PNO1",
+      "FUNDC2"
+    ],
+    "RPE1": [
+      "PNO1",
+      "LENG8",
+      "ARGLU1",
+      "TMA16",
+      "CCDC137",
+      "FUNDC2",
+      "CCDC86",
+      "C9orf78",
+      "RPS19BP1",
+      "TXNL4B"
+    ]
+  },
+  "ZBTB17": {
+    "Jurkat": [
+      "ZW10",
+      "MBTPS2",
+      "CCNB1",
+      "ZNF292",
+      "CTCF",
+      "SP2",
+      "SNIP1",
+      "ZC3H3",
+      "MYBBP1A",
+      "MKRN1"
+    ],
+    "HepG2": [
+      "MYCBP",
+      "CCNB1",
+      "RNF113A",
+      "MYBBP1A",
+      "ZW10",
+      "GTF3A",
+      "RBM17",
+      "ZBTB14",
+      "E4F1",
+      "SP2"
+    ],
+    "K562": [
+      "RNF113A",
+      "E4F1",
+      "MYBBP1A",
+      "MIS18BP1",
+      "RBM17",
+      "SP2",
+      "ZNF292",
+      "ZBTB14",
+      "ZC3H3",
+      "LZTR1"
+    ],
+    "RPE1": [
+      "LZTR1",
+      "E4F1",
+      "ZC3H3",
+      "BRF2",
+      "ZNF292",
+      "ZC3H4",
+      "CCNB1",
+      "ZNF100",
+      "RBM17",
+      "GTF3A"
+    ]
+  },
+  "TRAPPC1": {
+    "Jurkat": [
+      "COPE",
+      "VPS13D",
+      "TRAPPC8",
+      "VPS25",
+      "STX5",
+      "SLC39A7",
+      "VPS28",
+      "STX18",
+      "VPS51",
+      "BET1"
+    ],
+    "HepG2": [
+      "SEC16A",
+      "STX18",
+      "SLC39A7",
+      "VPS54",
+      "CCT3",
+      "TRAPPC8",
+      "YKT6",
+      "VPS33A",
+      "VPS51",
+      "ARFRP1"
+    ],
+    "K562": [
+      "YKT6",
+      "VPS33A",
+      "CCT3",
+      "TRAPPC8",
+      "STX18",
+      "SNF8",
+      "TRAPPC5",
+      "VPS28",
+      "VPS37A",
+      "TRAPPC4"
+    ],
+    "RPE1": [
+      "ARFRP1",
+      "TRAPPC11",
+      "CCDC115",
+      "TCP1",
+      "VPS28",
+      "CCT6A",
+      "VPS25",
+      "TRAPPC8",
+      "STX18",
+      "STX5"
+    ]
+  },
+  "CCDC59": {
+    "Jurkat": [
+      "DDX51",
+      "DDX49",
+      "WDR55",
+      "NIP7",
+      "UNC50",
+      "U2SURP",
+      "SNAPC1",
+      "RRP12",
+      "DNAJC17",
+      "RPS19BP1"
+    ],
+    "HepG2": [
+      "CDC123",
+      "THUMPD1",
+      "DDX59",
+      "RBM42",
+      "RCCD1",
+      "RPS19BP1",
+      "PNO1",
+      "ZC3H18",
+      "DDX51",
+      "CCDC86"
+    ],
+    "K562": [
+      "DNAJC17",
+      "RPS19BP1",
+      "KRR1",
+      "ZCCHC9",
+      "CDC123",
+      "CWC15",
+      "NOC4L",
+      "PNO1",
+      "RBM42",
+      "THUMPD1"
+    ],
+    "RPE1": [
+      "KRR1",
+      "RCCD1",
+      "NOC4L",
+      "CHCHD1",
+      "U2SURP",
+      "NIP7",
+      "CCDC86",
+      "C1orf131",
+      "RBM42",
+      "PNO1"
+    ]
+  },
+  "HDAC3": {
+    "Jurkat": [
+      "SETDB1",
+      "ZC3H4",
+      "HINFP",
+      "YY1",
+      "SETD1A",
+      "KAT7",
+      "HIST1H2BN",
+      "CDC73",
+      "H3F3A",
+      "UHRF1"
+    ],
+    "HepG2": [
+      "EHMT2",
+      "TADA3",
+      "SETD1A",
+      "UHRF1",
+      "H2AFZ",
+      "HINFP",
+      "SETDB1",
+      "SUPT6H",
+      "ING3",
+      "DMAP1"
+    ],
+    "K562": [
+      "WDTC1",
+      "TADA3",
+      "KAT5",
+      "ASF1B",
+      "HIST1H2BC",
+      "HINFP",
+      "EHMT2",
+      "ING3",
+      "SET",
+      "YY1"
+    ],
+    "RPE1": [
+      "HINFP",
+      "CFL1",
+      "HIST1H2BN",
+      "VPS72",
+      "UHRF1",
+      "KAT7",
+      "HIST1H2BC",
+      "TADA3",
+      "HIST1H2BJ",
+      "NKAP"
+    ]
+  },
+  "ACTR8": {
+    "Jurkat": [
+      "TUBGCP2",
+      "ACTR2",
+      "MIS18BP1",
+      "ACTR5",
+      "DNAJC9",
+      "EP400",
+      "SMC5",
+      "TUBA1B",
+      "TOX4",
+      "INO80C"
+    ],
+    "HepG2": [
+      "MIS18BP1",
+      "ACTR1B",
+      "INO80",
+      "SMC5",
+      "CENPW",
+      "RTRAF",
+      "ACTL6A",
+      "EP400",
+      "DNAJC9",
+      "POLA2"
+    ],
+    "K562": [
+      "CDCA5",
+      "POLA2",
+      "KTI12",
+      "AHCTF1",
+      "ATF5",
+      "ACTR5",
+      "MIS18BP1",
+      "ACTR10",
+      "ACTR1B",
+      "INO80D"
+    ],
+    "RPE1": [
+      "ACTR5",
+      "NFRKB",
+      "SMC5",
+      "KTI12",
+      "DNAJC9",
+      "INO80D",
+      "TRNP1",
+      "INO80E",
+      "TUBGCP2",
+      "CENPW"
+    ]
+  },
+  "TBCA": {
+    "Jurkat": [
+      "PFDN4",
+      "TBCD",
+      "BTAF1",
+      "TUBGCP2",
+      "TAF8",
+      "TBCC",
+      "TUBGCP6",
+      "PFDN5",
+      "TUBB2A",
+      "ANAPC5"
+    ],
+    "HepG2": [
+      "TUBB2A",
+      "PFDN4",
+      "TBPL1",
+      "TAF1",
+      "TOPBP1",
+      "CCT6A",
+      "ANAPC5",
+      "TUBGCP3",
+      "CCT3",
+      "CCT8"
+    ],
+    "K562": [
+      "TBCD",
+      "TUBB",
+      "CCT8",
+      "PFDN4",
+      "TUBGCP6",
+      "TCP1",
+      "BTAF1",
+      "TAF8",
+      "TUBG1",
+      "CCT2"
+    ],
+    "RPE1": [
+      "CCT2",
+      "CCT6A",
+      "CCT3",
+      "TBPL1",
+      "BTAF1",
+      "CCT7",
+      "TUBGCP4",
+      "TBCD",
+      "CCT5",
+      "CDC27"
+    ]
+  },
+  "DDX27": {
+    "Jurkat": [
+      "DHX15",
+      "GEMIN4",
+      "DHX16",
+      "DDX19A",
+      "DDX23",
+      "DDX20",
+      "DDX11",
+      "DDX6",
+      "DDX21",
+      "DDX42"
+    ],
+    "HepG2": [
+      "EDC4",
+      "DDX56",
+      "DHX36",
+      "GEMIN4",
+      "DDX1",
+      "DDX55",
+      "DHX29",
+      "DHX15",
+      "DICER1",
+      "DHX33"
+    ],
+    "K562": [
+      "DDX11",
+      "DDX1",
+      "DDX6",
+      "DHX36",
+      "DHX33",
+      "DHX37",
+      "DDX3X",
+      "DDX20",
+      "DDX56",
+      "EDC4"
+    ],
+    "RPE1": [
+      "EDC4",
+      "DDX10",
+      "DDX56",
+      "DHX29",
+      "DDX19A",
+      "PARN",
+      "DHX37",
+      "DDX19B",
+      "DHX9",
+      "DHX15"
+    ]
+  },
+  "TPRKB": {
+    "Jurkat": [
+      "PGAM5",
+      "ING3",
+      "PTK2",
+      "PKMYT1",
+      "DBF4",
+      "PRKRA",
+      "CD3EAP",
+      "COPS3",
+      "TP53I13",
+      "PDPK1"
+    ],
+    "HepG2": [
+      "TTK",
+      "PLK1",
+      "ING3",
+      "PGAM5",
+      "GAK",
+      "CSNK1A1",
+      "KIN",
+      "GPN3",
+      "GOLT1B",
+      "CD3EAP"
+    ],
+    "K562": [
+      "DBF4",
+      "PLK1",
+      "BRK1",
+      "PTK2",
+      "PRKRA",
+      "PPP4C",
+      "PDPK1",
+      "ING3",
+      "PPP2R3C",
+      "TP53RK"
+    ],
+    "RPE1": [
+      "CDK2",
+      "GTF3C4",
+      "GAK",
+      "BRK1",
+      "PLK1",
+      "PPP2R3C",
+      "PKMYT1",
+      "PIK3R4",
+      "PPP4C",
+      "PTK2"
+    ]
+  },
+  "DHPS": {
+    "Jurkat": [
+      "SEPHS2",
+      "DHX9",
+      "TPI1",
+      "HS6ST1",
+      "HPS5",
+      "AASDHPPT",
+      "HARS2",
+      "DPH2",
+      "HSPD1",
+      "ADSL"
+    ],
+    "HepG2": [
+      "PRMT5",
+      "DPH3",
+      "DHX9",
+      "UMPS",
+      "PHF5A",
+      "PGD",
+      "HPS5",
+      "HSP90B1",
+      "DHODH",
+      "DHDDS"
+    ],
+    "K562": [
+      "DOHH",
+      "PPIH",
+      "PGD",
+      "PSAT1",
+      "HSPD1",
+      "DPH6",
+      "HPS5",
+      "DPH2",
+      "ADSL",
+      "SUPT5H"
+    ],
+    "RPE1": [
+      "DPH6",
+      "DHX15",
+      "SEPHS2",
+      "TPI1",
+      "TFIP11",
+      "GGPS1",
+      "HS6ST1",
+      "DHODH",
+      "DUT",
+      "DHX9"
+    ]
+  },
+  "TXNL4B": {
+    "Jurkat": [
+      "GNL2",
+      "SF3B5",
+      "SPAG7",
+      "CWF19L2",
+      "TBCB",
+      "TEX10",
+      "YBX3",
+      "SMU1",
+      "LTV1",
+      "INTS14"
+    ],
+    "HepG2": [
+      "INTS14",
+      "RBMX2",
+      "LTV1",
+      "CTNNBL1",
+      "GNL2",
+      "TMA16",
+      "NSRP1",
+      "RBM42",
+      "TEX10",
+      "BUD13"
+    ],
+    "K562": [
+      "CWC22",
+      "ZMAT2",
+      "TOX4",
+      "SMU1",
+      "SNRNP48",
+      "CTNNBL1",
+      "GEMIN4",
+      "CNOT10",
+      "TEX10",
+      "CWF19L2"
+    ],
+    "RPE1": [
+      "MEX3A",
+      "SNRNP48",
+      "INTS14",
+      "CLASRP",
+      "TEX10",
+      "NSRP1",
+      "PNN",
+      "TMA16",
+      "RBMX2",
+      "GNL2"
+    ]
+  },
+  "SNRNP27": {
+    "Jurkat": [
+      "SRP19",
+      "SRSF6",
+      "SNRPA",
+      "HNRNPU",
+      "SNRPD3",
+      "SRP68",
+      "SRSF7",
+      "SNRPB",
+      "SNRNP70",
+      "SNRNP40"
+    ],
+    "HepG2": [
+      "SRP19",
+      "TXNL4A",
+      "SRSF6",
+      "SNRPF",
+      "SNUPN",
+      "HNRNPU",
+      "SNRNP35",
+      "SNRPA1",
+      "PRPF3",
+      "SRSF10"
+    ],
+    "K562": [
+      "SNRPG",
+      "TXNL4A",
+      "SRSF1",
+      "SARNP",
+      "SNRNP70",
+      "NSRP1",
+      "SNUPN",
+      "SNRPA1",
+      "SNRPA",
+      "HNRNPA1"
+    ],
+    "RPE1": [
+      "SNRNP35",
+      "HNRNPR",
+      "SARNP",
+      "SRSF1",
+      "SNRNP200",
+      "SNRPF",
+      "NSRP1",
+      "SRSF10",
+      "ZRSR2",
+      "HNRNPU"
+    ]
+  },
+  "CLASRP": {
+    "Jurkat": [
+      "CWF19L2",
+      "SNAPC1",
+      "NIP7",
+      "ESF1",
+      "SRP19",
+      "INTS14",
+      "PRPF38A",
+      "NOC4L",
+      "SPAG7",
+      "ZC3H18"
+    ],
+    "HepG2": [
+      "PRPF39",
+      "PRPF38A",
+      "CWF19L2",
+      "NIP7",
+      "CCDC59",
+      "DDX51",
+      "NOC4L",
+      "NSRP1",
+      "SRP9",
+      "ESF1"
+    ],
+    "K562": [
+      "PRPF39",
+      "RRP12",
+      "INTS14",
+      "ESF1",
+      "SRP19",
+      "PRPF38A",
+      "DDX51",
+      "CWF19L2",
+      "NIP7",
+      "NSRP1"
+    ],
+    "RPE1": [
+      "SPAG7",
+      "SNAPC1",
+      "SRP14",
+      "DDX51",
+      "WDR55",
+      "SNRPA1",
+      "SRP19",
+      "RBM48",
+      "UNC50",
+      "TXNL4B"
+    ]
+  }
+}

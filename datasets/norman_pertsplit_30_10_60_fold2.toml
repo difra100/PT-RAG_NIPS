@@ -1,0 +1,93 @@
+# Norman 2019 cross-perturbation split — fold 2
+# 32 train / 10 val / 63 test (105 total single-gene perturbations)
+# Control: 'control'
+# Seed: 456
+
+[datasets]
+norman = "datasets/Norman_dataset"
+
+[training]
+norman = "train"
+
+[zeroshot]
+
+[fewshot]
+
+[fewshot."norman.k562"]
+val = [
+                'ARRDC3',
+                'BPGM',
+                'DUSP9',
+                'FOXA1',
+                'HNF4A',
+                'MAP2K3',
+                'MAP7D1',
+                'TBX2',
+                'TGFBR2',
+                'TP73'
+            ]
+test = [
+                'ARID1A',
+                'BAK1',
+                'BCL2L11',
+                'C19orf26',
+                'C3orf72',
+                'CBFA2T3',
+                'CDKN1C',
+                'CEBPA',
+                'CEBPB',
+                'CITED1',
+                'CKS1B',
+                'CNNM4',
+                'COL1A1',
+                'COL2A1',
+                'EGR1',
+                'ETS2',
+                'FOSB',
+                'FOXA3',
+                'FOXL2',
+                'GLB1L2',
+                'HES7',
+                'HK2',
+                'HOXA13',
+                'HOXB9',
+                'HOXC13',
+                'IER5L',
+                'IGDCC3',
+                'IRF1',
+                'ISL2',
+                'KIAA1804',
+                'KIF18B',
+                'KIF2C',
+                'KLF1',
+                'LHX1',
+                'LYL1',
+                'MAML2',
+                'MAP2K6',
+                'MAP4K3',
+                'MEIS1',
+                'MIDN',
+                'NCL',
+                'OSR2',
+                'PRTG',
+                'PTPN13',
+                'PTPN9',
+                'RHOXF2',
+                'RUNX1T1',
+                'S1PR2',
+                'SET',
+                'SGK1',
+                'SLC4A1',
+                'SNAI1',
+                'SPI1',
+                'TBX3',
+                'TMSB4X',
+                'TSC22D1',
+                'UBASH3A',
+                'UBASH3B',
+                'ZBTB1',
+                'ZBTB10',
+                'ZBTB25',
+                'ZC3HAV1',
+                'ZNF318'
+            ]
