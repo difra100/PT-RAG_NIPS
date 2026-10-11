@@ -33,12 +33,6 @@ PT-RAG retrieves text-derived gene embeddings, **not** measured expression respo
   **cross-perturbation** (60% of perturbations held out for testing), plus a cross-perturbation experiment
   on Norman et al. (2019), a CRISPRa dataset.
 
-> **Note on the STATE-based experiments.** In all STATE-based experiments of the paper, the transformer
-> generator and its output projection are randomly initialised and kept frozen
-> (`model.kwargs.freeze_pert_backbone=true`); only the encoders, the retrieval module and the readout are
-> trained. These models are therefore not a reproduction of the published STATE model. The paper does not
-> claim that the reported gains carry over to a fully trained generator.
-
 ## Main results
 
 Significance vs. PT-RAG (Mann-Whitney U, Benjamini-Hochberg): † p < 0.01, †† p < 0.05, ††† p < 0.1.
