@@ -5,7 +5,7 @@ Official code for the NeurIPS 2026 paper
 by Andrea Giuseppe Di Francesco\*, Andrea Rubbi\*, Rishabh Jain and Pietro Liò (\*equal contribution).
 
 <!-- TODO: add links once available -->
-[Paper (OpenReview)](TODO) · [arXiv](TODO)
+[Paper (OpenReview)](TODO) · [arXiv](https://arxiv.org/pdf/2603.07233v2)
 
 <p align="center">
   <img src="figures/ptrag_architecture.png" width="95%" alt="PT-RAG architecture">
