@@ -1182,11 +1182,13 @@ def run_tx_predict(args: ap.ArgumentParser):
                     return super().compute_per_gene(real, generated)
 
         metrics = [
-            # MeanPearsonCorrelation(space="deg", deg_lfc=0.05, deg_pval=0.1),
-            # MeanSpearmanCorrelation(space="deg", deg_lfc=0.05, deg_pval=0.1),
+            MeanPearsonCorrelation(space="deg", deg_lfc=0.05, deg_pval=0.1),
+            MeanSpearmanCorrelation(space="deg", deg_lfc=0.05, deg_pval=0.1),
             RSquared(space="deg", deg_lfc=0.05, deg_pval=0.1),
             MSEDistance(space="pca", n_components=50),
             Wasserstein2Distance(space="pca", n_components=50),
+            Wasserstein1Distance(space="pca", n_components=50),
+            EnergyDistance(space="pca", n_components=50),
         ]
 
         results = evaluate_lazy(
