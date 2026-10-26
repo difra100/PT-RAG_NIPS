@@ -167,6 +167,9 @@ class scGPTRAGForPerturbation(scGPTForPerturbation):
 
         if self.training and self.gumbel_sparsity_loss:
             self._gumbel_weights_cache = weights
+        if not self.training:
+            # Kept for tx predict, which writes the Stage-1 candidates and Stage-2 decisions to retrieval_info.csv
+            self._last_retrieval = (indices.detach().cpu(), weights.squeeze(-1).detach().cpu())
 
         embs = self.final_project_genept_emb(context_input)      # (B, K, d_model)
         context = (weights * embs).sum(dim=1)                     # (B, d_model)
@@ -275,6 +278,22 @@ class scGPTRAGForPerturbation(scGPTForPerturbation):
     # ------------------------------------------------------------------
     # Split-aware RAG pool swapping (identical to state_transition.py)
     # ------------------------------------------------------------------
+
+    def predict_step(self, batch, batch_idx, **kwargs):
+        self._last_retrieval = None
+        out = super().predict_step(batch, batch_idx, **kwargs)
+        if kwargs.get("collect_retrieval_info", False) and self._last_retrieval is not None:
+            indices, weights = self._last_retrieval
+            out["retrieval_info"] = {
+                "indices": indices,  # [B, K] Stage-1 candidates (indices into the retrieval pool)
+                "weights": weights,  # [B, K] Stage-2 include (1) / exclude (0) decisions
+                "train_idx_to_name": {i: n for n, i in self.train_name_to_idx.items()},
+                "pert_names": batch.get("pert_name", None),
+                "cell_types": batch.get("cell_type", None),
+                "B": indices.shape[0],
+                "S": 1,  # one cell per sample in scGPT
+            }
+        return out
 
     def _swap_rag_pool(self, pool: str) -> None:
         """Swap the active RAG retrieval pool. pool: 'train' | 'trainval' | 'all'."""

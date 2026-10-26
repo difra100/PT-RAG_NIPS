@@ -141,11 +141,15 @@ def run_tx_train(cfg: DictConfig):
         new_pert_onehot_map = {}
         missing_perts = []
         
+        # The control is not a gene, so it is never in GenePT: give it a zero vector.
+        # Other perturbations without a GenePT embedding are left out of the map,
+        # so their cells are removed from training.
+        _control_pert_name = cfg['data']['kwargs'].get('control_pert', 'non-targeting')
+
         for pert_n in list(data_module.pert_onehot_map.keys()):
             if str(pert_n) in genept_data:
                 new_pert_onehot_map[pert_n] = torch.tensor(genept_data[str(pert_n)])
-            elif str(pert_n) == 'non-targeting':    
-                # For missing perturbations (like controls), use zero vector
+            elif str(pert_n) == _control_pert_name:
                 missing_perts.append(pert_n)
                 new_pert_onehot_map[pert_n] = torch.zeros(genept_emb_dim, dtype=torch.float32)
         
@@ -158,6 +162,10 @@ def run_tx_train(cfg: DictConfig):
         
         # Replace the map BEFORE setup
         data_module.pert_onehot_map = new_pert_onehot_map
+
+        # The control may not appear in the perturbation lists of the split file
+        if _control_pert_name not in data_module.pert_onehot_map:
+            data_module.pert_onehot_map[_control_pert_name] = torch.zeros(genept_emb_dim, dtype=torch.float32)
         print(f"✅ Replaced pert_onehot_map with GenePT embeddings for {len(new_pert_onehot_map)} perturbations")
 
     data_module.setup(stage="fit")

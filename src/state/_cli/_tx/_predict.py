@@ -206,10 +206,22 @@ def run_tx_predict(args: ap.ArgumentParser):
     logger.info(f"Loaded config from {config_path}")
 
     # 2. Find run output directory & load data module
-    run_output_dir = os.path.join(cfg["output_dir"], cfg["name"])
+    # Use the given run folder, so that runs can be moved or downloaded to another machine
+    run_output_dir = args.output_dir
+    if not os.path.exists(os.path.join(run_output_dir, "data_module.torch")):
+        run_output_dir = os.path.join(cfg["output_dir"], cfg["name"])
     data_module_path = os.path.join(run_output_dir, "data_module.torch")
     if not os.path.exists(data_module_path):
         raise FileNotFoundError(f"Could not find data module at {data_module_path}?")
+
+    def _resolve_toml(path):
+        # Split files saved with an absolute path from another machine: use the copy in datasets/
+        if path and not os.path.exists(path):
+            local = os.path.join("datasets", os.path.basename(path))
+            if os.path.exists(local):
+                logger.info(f"Split file {path} not found, using {local}")
+                return local
+        return path
     if cfg["model"]["name"].lower().startswith("scgpt"):
         import json
         from pathlib import Path as _Path
@@ -222,6 +234,7 @@ def run_tx_predict(args: ap.ArgumentParser):
                 vocab[s] = len(vocab)
 
         save_dict = torch.load(data_module_path, map_location="cpu")
+        save_dict["toml_config_path"] = _resolve_toml(save_dict.get("toml_config_path"))
         extra_kwargs = {
             "map_controls": save_dict.pop("map_controls", True),
             "cache_perturbation_control_pairs": save_dict.pop("cache_perturbation_control_pairs", False),
@@ -244,6 +257,13 @@ def run_tx_predict(args: ap.ArgumentParser):
         )
         logger.info("Loaded scGPTPerturbationDataModule from %s", data_module_path)
     else:
+        save_dict = torch.load(data_module_path, map_location="cpu", weights_only=False)
+        toml_path = _resolve_toml(save_dict.get("toml_config_path"))
+        if toml_path != save_dict.get("toml_config_path"):
+            import tempfile
+            save_dict["toml_config_path"] = toml_path
+            data_module_path = os.path.join(tempfile.mkdtemp(), "data_module.torch")
+            torch.save(save_dict, data_module_path)
         data_module = PerturbationDataModule.load_state(data_module_path)
     
     # Reload pert_onehot_map BEFORE setup() to preserve GenePT embeddings
@@ -386,6 +406,8 @@ def run_tx_predict(args: ap.ArgumentParser):
         model_init_kwargs['pert_dim'] = 1536
         
     model = ModelClass.load_from_checkpoint(checkpoint_path, strict=False, **model_init_kwargs)
+    if torch.cuda.is_available():
+        model = model.cuda()  # final.ckpt stores the weights on CPU
     
     
     if cfg["training"].get("rag", False):
@@ -553,8 +575,8 @@ def run_tx_predict(args: ap.ArgumentParser):
         logger.info("Generating predictions on test set using manual loop...")
         device = next(model.parameters()).device
 
-        final_preds = np.empty((num_cells, output_dim), dtype=np.float32)
-        final_reals = np.empty((num_cells, output_dim), dtype=np.float32)
+        _pred_chunks: list[np.ndarray] = []
+        _real_chunks: list[np.ndarray] = []
 
         store_raw_expression = (
             data_module.embed_key is not None
@@ -680,13 +702,8 @@ def run_tx_predict(args: ap.ArgumentParser):
                 batch_pred_np = batch_preds["preds"].cpu().numpy().astype(np.float32)
                 batch_real_np = batch_preds["pert_cell_emb"].cpu().numpy().astype(np.float32)
                 batch_size = batch_pred_np.shape[0]
-                # Re-allocate if the model's actual output dim differs from var_dims (e.g. scGPT strips pad tokens)
-                if current_idx == 0 and batch_pred_np.shape[1] != output_dim:
-                    output_dim = batch_pred_np.shape[1]
-                    final_preds = np.empty((num_cells, output_dim), dtype=np.float32)
-                    final_reals = np.empty((num_cells, output_dim), dtype=np.float32)
-                final_preds[current_idx : current_idx + batch_size, :] = batch_pred_np
-                final_reals[current_idx : current_idx + batch_size, :] = batch_real_np
+                _pred_chunks.append(batch_pred_np)
+                _real_chunks.append(batch_real_np)
                 current_idx += batch_size
 
                 # Handle X_hvg for HVG space ground truth
@@ -698,6 +715,23 @@ def run_tx_predict(args: ap.ArgumentParser):
                 if final_pert_cell_counts_preds is not None:
                     batch_gene_pred_np = batch_preds["pert_cell_counts_preds"].cpu().numpy().astype(np.float32)
                     final_pert_cell_counts_preds[current_idx - batch_size : current_idx, :] = batch_gene_pred_np
+
+        # scGPT selects non-zero genes per batch, so batches can have slightly different
+        # numbers of columns: pad them to the largest width.
+        def _concat_ragged(chunks: list[np.ndarray]) -> np.ndarray:
+            max_dim = max(c.shape[1] for c in chunks)
+            if all(c.shape[1] == max_dim for c in chunks):
+                return np.concatenate(chunks, axis=0)
+            out = np.zeros((sum(c.shape[0] for c in chunks), max_dim), dtype=np.float32)
+            row = 0
+            for c in chunks:
+                out[row : row + c.shape[0], : c.shape[1]] = c
+                row += c.shape[0]
+            return out
+
+        final_preds = _concat_ragged(_pred_chunks)
+        final_reals = _concat_ragged(_real_chunks)
+        output_dim = final_preds.shape[1]
 
         logger.info("Creating anndatas from predictions from manual loop...")
 
@@ -716,8 +750,6 @@ def run_tx_predict(args: ap.ArgumentParser):
     
         # Adjust array sizes for the actual number of processed cells
         actual_num_cells = current_idx
-        final_preds = final_preds[:actual_num_cells]
-        final_reals = final_reals[:actual_num_cells]
         if final_X_hvg is not None:
             final_X_hvg = final_X_hvg[:actual_num_cells]
             final_pert_cell_counts_preds = final_pert_cell_counts_preds[:actual_num_cells]
@@ -1076,6 +1108,39 @@ def run_tx_predict(args: ap.ArgumentParser):
             logger.info(f"Saved retrieval info to {retrieval_csv_path} ({len(csv_rows)} cells)")
         else:
             logger.warning("No retrieval information to save")
+
+    # ── Free all large objects before metric computation ──────────────────────
+    # evaluate_lazy reloads adatas from disk.  Everything no longer needed after
+    # saving predictions must be released here to avoid OOM on W1/W2.
+    import gc as _gc
+    import torch as _torch
+    try:
+        del adata_pred, adata_real
+    except (NameError, UnboundLocalError):
+        pass
+    try:
+        del final_preds, final_reals
+        _pred_chunks.clear()
+        _real_chunks.clear()
+    except (NameError, UnboundLocalError):
+        pass
+    try:
+        del final_X_hvg, final_pert_cell_counts_preds
+    except (NameError, UnboundLocalError):
+        pass
+    try:
+        model.cpu()
+        del model
+        if _torch.cuda.is_available():
+            _torch.cuda.empty_cache()
+    except (NameError, UnboundLocalError):
+        pass
+    try:
+        del test_loader
+    except (NameError, UnboundLocalError):
+        pass
+    _gc.collect()
+    logger.info("Freed model and prediction arrays before metric computation.")
 
     if not args.predict_only:
         # 6. Compute metrics using cell-eval

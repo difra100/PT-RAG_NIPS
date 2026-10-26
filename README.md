@@ -141,6 +141,7 @@ Each script trains the models of one experiment and then evaluates them.
 | `scripts/run_crosscelltype_state.sh [cells]` | cross-cell-type, STATE-style backbone | STATE, STATE+GenePT, Naïve RAG, PT-RAG | K = 32, λ = 0.1 |
 | `scripts/run_crosscelltype_scgpt.sh [cells]` | cross-cell-type, scGPT backbone | scGPT, scGPT+GenePT, scGPT+PT-RAG | K = 128, λ = 1.0 |
 | `scripts/run_crossperturbation_state.sh [folds]` | cross-perturbation, Replogle-Nadig | STATE+GenePT, PT-RAG | K = 128, λ = 1.0 |
+| `scripts/run_crossperturbation_scgpt.sh {replogle,norman} [folds]` | cross-perturbation, scGPT backbone | scGPT, scGPT+GenePT, scGPT+PT-RAG | K = 128 (Replogle-Nadig) or 16 (Norman), λ = 1.0; set `K`, `LAMBDA`, `MAX_STEPS` to change them |
 | `scripts/run_norman.sh [fold]` | cross-perturbation, Norman | STATE+GenePT, PT-RAG | K = 16, λ = 1.0 |
 | `scripts/run_controls.sh [fold]` | additional controls (see below) | STATE+GenePT, PT-RAG | K = 32, λ = 1.0 |
 
@@ -219,6 +220,17 @@ python -m state.__main__ tx predict \
 This writes the predictions and a `results.csv` with one row per test perturbation (Pearson and Spearman
 correlation on differentially expressed genes; MSE, Wasserstein-1, Wasserstein-2 and Energy distance in a
 50-dimensional PCA space) inside the run directory.
+
+For retrieval models it also writes `retrieval_info.csv`, with one row per predicted cell: the query
+perturbation, the K Stage-1 candidates with their Stage-2 include (`w=1.00`) or exclude (`w=0.00`) decision,
+and the selected perturbations. Rows whose query is the control can be ignored.
+
+If the metric step of `tx predict` stalls, the predictions are already saved and the metrics can be computed
+separately:
+
+```bash
+python scripts/compute_metrics.py experiments/crosscelltype_state/jurkat_ptrag/eval_last.ckpt   # add --control control for Norman
+```
 
 ## Additional controls
 
